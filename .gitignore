@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data (scraped articles are generated dynamically, metadata is versioned for sync cache)
+data/articles/
+
+# IDE config
+.vscode/
+.idea/
+
+# PDF file
+*.pdf
+
+# Local utility scripts
+delete_store.py
