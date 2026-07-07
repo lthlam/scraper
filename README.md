@@ -2,6 +2,16 @@
 
 This is a simple Python script to scrape help articles from support.optisigns.com, clean them up to Markdown, and sync them with a Google Gemini File Search Store. This helps a Gemini bot answer user questions using the latest support docs.
 
+---
+
+## Demo Result & Logs
+- **Daily Job Logs**: [Github Action Run Logs](https://github.com/lthlam/scraper/actions/runs/28877703726/job/85657201731)
+- **Chatbot Answer Screenshot**:
+
+![response.png](response.png)
+
+---
+
 ## How to Setup and Run
 
 ### 1. What you need
@@ -17,7 +27,6 @@ cp .env.sample .env
 Open `.env` and put your Gemini API key:
 ```env
 GEMINI_API_KEY=your_actual_api_key_here
-GEMINI_STORE_NAME=OptiBot Store
 ```
 
 ### 3. Run Locally
