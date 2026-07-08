@@ -5,7 +5,7 @@ This is a simple Python script to scrape help articles from support.optisigns.co
 ---
 
 ## Demo Result & Logs
-- **Daily Job Logs**: [Github Action Run Logs](https://github.com/lthlam/scraper/actions/runs/28877703726/job/85657201731)
+- **Daily Job Logs**: [Github Action Run Logs](https://github.com/lthlam/scraper/actions/runs/28910372063)
 - **Chatbot Answer Screenshot**:
 
 ![response.png](response.png)
