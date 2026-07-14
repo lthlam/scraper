@@ -1985,14 +1985,6 @@
       "hash": "56acb8693102a9153970518366defad3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360063693093howtouseapprova-f3ot35h09dxw"
     },
-    "360021855653-What-hardware-and-devices-are-supported": {
-      "id": 360021855653,
-      "title": "What hardware and devices are supported?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-      "updated_at": "2026-01-07T16:05:26Z",
-      "hash": "d58e487f29eaea0f4d9e498507223919",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-k31rsp6qs54p"
-    },
     "360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns": {
       "id": 360019588654,
       "title": "How to tell which Dropbox account that I linked to OptiSigns?",
@@ -2568,14 +2560,6 @@
       "updated_at": "2025-08-29T20:04:43Z",
       "hash": "76172d3cf781eee8b4102cb7447f1aab",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6757989639827howtousethewea-i5yb63uh3wgc"
-    },
-    "6604468198291-How-to-Use-the-CAP-Alert-App": {
-      "id": 6604468198291,
-      "title": "How to Use the CAP Alert App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
-      "updated_at": "2026-03-13T16:05:48Z",
-      "hash": "b9c8536382f33162f5b7f61cd46ed0ae",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6604468198291howtousethecap-ojfg64ua0ofn"
     },
     "6091289267475-How-to-use-Matterport-App": {
       "id": 6091289267475,
@@ -3248,6 +3232,22 @@
       "updated_at": "2026-02-03T18:12:07Z",
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
+    },
+    "360021855653-What-hardware-and-devices-are-supported": {
+      "id": 360021855653,
+      "title": "What hardware and devices are supported?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
+      "updated_at": "2026-07-13T15:50:57Z",
+      "hash": "d58e487f29eaea0f4d9e498507223919",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-xvg7d7jneutk"
+    },
+    "6604468198291-How-to-Use-the-CAP-Alert-App": {
+      "id": 6604468198291,
+      "title": "How to Use the CAP Alert App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
+      "updated_at": "2026-07-13T17:44:57Z",
+      "hash": "b9c8536382f33162f5b7f61cd46ed0ae",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6604468198291howtousethecap-nef7nzk6qm6r"
     }
   }
 }
