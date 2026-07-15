@@ -441,14 +441,6 @@
       "hash": "728227a7dd246003e9d4f9aa02fb2f08",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28421615261971rokutroublesh-7u9mne738y0f"
     },
-    "28295104605843-How-to-Create-Use-Playlists": {
-      "id": 28295104605843,
-      "title": "How to Create & Use Playlists",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-      "updated_at": "2026-03-31T21:42:16Z",
-      "hash": "39a8aa4f3cd74bd76f6ed5a5dfb06bff",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295104605843howtocreateus-a7diyr0tf7km"
-    },
     "28140190892307-How-to-Use-QR-Overlay-App-in-Engage": {
       "id": 28140190892307,
       "title": "How to Use QR Overlay App in Engage",
@@ -752,14 +744,6 @@
       "updated_at": "2025-09-04T15:11:52Z",
       "hash": "d187db4649e636c10da84f2228288530",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15808407287315theoptisignsa-7blsaajb4840"
-    },
-    "15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro": {
-      "id": 15313086319763,
-      "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
-      "updated_at": "2025-11-05T17:31:50Z",
-      "hash": "ce77946e16686f1c90c50f20b3aa515b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15313086319763howtodesignki-1facltbaouv1"
     },
     "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV": {
       "id": 15268811715347,
@@ -1176,22 +1160,6 @@
       "updated_at": "2026-07-08T04:10:51Z",
       "hash": "341ada0fab2172cfd60615cbb9190499",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billinghowdoic-uvh3gczio9r2"
-    },
-    "1500000485202-Custom-Branding-Settings": {
-      "id": 1500000485202,
-      "title": "Custom Branding Settings",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-      "updated_at": "2025-12-29T21:04:58Z",
-      "hash": "91ea0b05b283dd88064c2fbd6ac7cdf3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000485202custombranding-dcbws8hisopp"
-    },
-    "1500000480302-Advanced-Custom-Domain-mapping": {
-      "id": 1500000480302,
-      "title": "Advanced: Custom Domain mapping",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping",
-      "updated_at": "2026-05-29T17:34:19Z",
-      "hash": "ff2520c62a218a6aa1ef0b78d4fc92ff",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000480302advancedcustom-8wr1r723r0h8"
     },
     "360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi": {
       "id": 360060676993,
@@ -1985,6 +1953,14 @@
       "hash": "56acb8693102a9153970518366defad3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360063693093howtouseapprova-f3ot35h09dxw"
     },
+    "360021855653-What-hardware-and-devices-are-supported": {
+      "id": 360021855653,
+      "title": "What hardware and devices are supported?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
+      "updated_at": "2026-07-13T15:50:57Z",
+      "hash": "d58e487f29eaea0f4d9e498507223919",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-xvg7d7jneutk"
+    },
     "360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns": {
       "id": 360019588654,
       "title": "How to tell which Dropbox account that I linked to OptiSigns?",
@@ -2560,6 +2536,14 @@
       "updated_at": "2025-08-29T20:04:43Z",
       "hash": "76172d3cf781eee8b4102cb7447f1aab",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6757989639827howtousethewea-i5yb63uh3wgc"
+    },
+    "6604468198291-How-to-Use-the-CAP-Alert-App": {
+      "id": 6604468198291,
+      "title": "How to Use the CAP Alert App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
+      "updated_at": "2026-07-13T17:44:57Z",
+      "hash": "b9c8536382f33162f5b7f61cd46ed0ae",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6604468198291howtousethecap-nef7nzk6qm6r"
     },
     "6091289267475-How-to-use-Matterport-App": {
       "id": 6091289267475,
@@ -3233,21 +3217,37 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360021855653-What-hardware-and-devices-are-supported": {
-      "id": 360021855653,
-      "title": "What hardware and devices are supported?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-      "updated_at": "2026-07-13T15:50:57Z",
-      "hash": "d58e487f29eaea0f4d9e498507223919",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-xvg7d7jneutk"
+    "1500000480302-Advanced-Custom-Domain-Mapping": {
+      "id": 1500000480302,
+      "title": "Advanced: Custom Domain Mapping",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
+      "updated_at": "2026-07-14T17:53:32Z",
+      "hash": "1e09a92b72b332b942667d5fb2d9f737",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000480302advancedcustom-mzfsvc7ivdn1"
     },
-    "6604468198291-How-to-Use-the-CAP-Alert-App": {
-      "id": 6604468198291,
-      "title": "How to Use the CAP Alert App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
-      "updated_at": "2026-07-13T17:44:57Z",
-      "hash": "b9c8536382f33162f5b7f61cd46ed0ae",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6604468198291howtousethecap-nef7nzk6qm6r"
+    "28295104605843-How-to-Create-Use-Playlists": {
+      "id": 28295104605843,
+      "title": "How to Create & Use Playlists",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
+      "updated_at": "2026-07-14T12:09:21Z",
+      "hash": "39a8aa4f3cd74bd76f6ed5a5dfb06bff",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295104605843howtocreateus-sxfexaeqdsfl"
+    },
+    "1500000485202-Custom-Branding-Settings": {
+      "id": 1500000485202,
+      "title": "Custom Branding Settings",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
+      "updated_at": "2026-07-14T16:23:24Z",
+      "hash": "24edb19d1f90f05cb1b24f092e5324bf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000485202custombranding-35ee52y76uub"
+    },
+    "15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro": {
+      "id": 15313086319763,
+      "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
+      "updated_at": "2026-07-14T07:45:20Z",
+      "hash": "ce77946e16686f1c90c50f20b3aa515b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15313086319763howtodesignki-1sj83b6valio"
     }
   }
 }
