@@ -441,6 +441,14 @@
       "hash": "728227a7dd246003e9d4f9aa02fb2f08",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28421615261971rokutroublesh-7u9mne738y0f"
     },
+    "28295104605843-How-to-Create-Use-Playlists": {
+      "id": 28295104605843,
+      "title": "How to Create & Use Playlists",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
+      "updated_at": "2026-07-14T12:09:21Z",
+      "hash": "39a8aa4f3cd74bd76f6ed5a5dfb06bff",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295104605843howtocreateus-sxfexaeqdsfl"
+    },
     "28140190892307-How-to-Use-QR-Overlay-App-in-Engage": {
       "id": 28140190892307,
       "title": "How to Use QR Overlay App in Engage",
@@ -744,6 +752,14 @@
       "updated_at": "2025-09-04T15:11:52Z",
       "hash": "d187db4649e636c10da84f2228288530",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15808407287315theoptisignsa-7blsaajb4840"
+    },
+    "15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro": {
+      "id": 15313086319763,
+      "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
+      "updated_at": "2026-07-14T07:45:20Z",
+      "hash": "ce77946e16686f1c90c50f20b3aa515b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15313086319763howtodesignki-1sj83b6valio"
     },
     "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV": {
       "id": 15268811715347,
@@ -1160,6 +1176,22 @@
       "updated_at": "2026-07-08T04:10:51Z",
       "hash": "341ada0fab2172cfd60615cbb9190499",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billinghowdoic-uvh3gczio9r2"
+    },
+    "1500000485202-Custom-Branding-Settings": {
+      "id": 1500000485202,
+      "title": "Custom Branding Settings",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
+      "updated_at": "2026-07-14T16:23:24Z",
+      "hash": "24edb19d1f90f05cb1b24f092e5324bf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000485202custombranding-35ee52y76uub"
+    },
+    "1500000480302-Advanced-Custom-Domain-Mapping": {
+      "id": 1500000480302,
+      "title": "Advanced: Custom Domain Mapping",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
+      "updated_at": "2026-07-14T17:53:32Z",
+      "hash": "1e09a92b72b332b942667d5fb2d9f737",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000480302advancedcustom-mzfsvc7ivdn1"
     },
     "360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi": {
       "id": 360060676993,
@@ -1856,14 +1888,6 @@
       "updated_at": "2025-08-29T18:49:22Z",
       "hash": "075d93df2ed1cfd5c08607f443616a96",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016485633howcaniremotely-4qz2svsumjeo"
-    },
-    "360016388733-How-to-create-and-use-Instagram-Wall": {
-      "id": 360016388733,
-      "title": "How to create and use Instagram Wall",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
-      "updated_at": "2025-09-02T20:31:50Z",
-      "hash": "59e7a10f2f5cc861be2e8980b09504b4",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016388733howtocreateandu-ury7z47iupm6"
     },
     "360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month": {
       "id": 360016219114,
@@ -3217,37 +3241,13 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "1500000480302-Advanced-Custom-Domain-Mapping": {
-      "id": 1500000480302,
-      "title": "Advanced: Custom Domain Mapping",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
-      "updated_at": "2026-07-14T17:53:32Z",
-      "hash": "1e09a92b72b332b942667d5fb2d9f737",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000480302advancedcustom-mzfsvc7ivdn1"
-    },
-    "28295104605843-How-to-Create-Use-Playlists": {
-      "id": 28295104605843,
-      "title": "How to Create & Use Playlists",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
-      "updated_at": "2026-07-14T12:09:21Z",
-      "hash": "39a8aa4f3cd74bd76f6ed5a5dfb06bff",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295104605843howtocreateus-sxfexaeqdsfl"
-    },
-    "1500000485202-Custom-Branding-Settings": {
-      "id": 1500000485202,
-      "title": "Custom Branding Settings",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-      "updated_at": "2026-07-14T16:23:24Z",
-      "hash": "24edb19d1f90f05cb1b24f092e5324bf",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000485202custombranding-35ee52y76uub"
-    },
-    "15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro": {
-      "id": 15313086319763,
-      "title": "How to Design Kiosk Apps Using Kiosk Designer Pro",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro",
-      "updated_at": "2026-07-14T07:45:20Z",
-      "hash": "ce77946e16686f1c90c50f20b3aa515b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15313086319763howtodesignki-1sj83b6valio"
+    "360016388733-How-to-create-and-use-Instagram-Wall": {
+      "id": 360016388733,
+      "title": "How to create and use Instagram Wall",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
+      "updated_at": "2026-07-15T15:27:32Z",
+      "hash": "59e7a10f2f5cc861be2e8980b09504b4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016388733howtocreateandu-jbhq1djvxp6d"
     }
   }
 }
