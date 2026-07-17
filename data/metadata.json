@@ -1377,14 +1377,6 @@
       "hash": "0290f4658a31a3581982e53859cb9597",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-iwdn6onwyxr1"
     },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-07-09T19:48:39Z",
-      "hash": "91975ea871a6399b029fe71d212069ee",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-zt3xdzi4xhcn"
-    },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
       "title": "Amazon Fire Stick and security considerations",
@@ -1849,14 +1841,6 @@
       "hash": "95657d4e9ff433d3356d9e1f26848d5c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500002047642advancedhowtoa-bzsoklimq8sp"
     },
-    "360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows": {
-      "id": 360053211594,
-      "title": "Set OptiSigns as ScreenSaver on Windows",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
-      "updated_at": "2025-08-29T20:39:30Z",
-      "hash": "4debfb4dcc81fa9569e252739c779021",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053211594setoptisignsass-meuon8qkw7k9"
-    },
     "360051014773-Show-YouTube-video-s-subtitle-closed-caption": {
       "id": 360051014773,
       "title": "Show YouTube video's subtitle/closed caption",
@@ -1888,6 +1872,14 @@
       "updated_at": "2025-08-29T18:49:22Z",
       "hash": "075d93df2ed1cfd5c08607f443616a96",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016485633howcaniremotely-4qz2svsumjeo"
+    },
+    "360016388733-How-to-create-and-use-Instagram-Wall": {
+      "id": 360016388733,
+      "title": "How to create and use Instagram Wall",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
+      "updated_at": "2026-07-15T15:27:32Z",
+      "hash": "59e7a10f2f5cc861be2e8980b09504b4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016388733howtocreateandu-jbhq1djvxp6d"
     },
     "360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month": {
       "id": 360016219114,
@@ -3241,13 +3233,29 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360016388733-How-to-create-and-use-Instagram-Wall": {
-      "id": 360016388733,
-      "title": "How to create and use Instagram Wall",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall",
-      "updated_at": "2026-07-15T15:27:32Z",
-      "hash": "59e7a10f2f5cc861be2e8980b09504b4",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016388733howtocreateandu-jbhq1djvxp6d"
+    "53497007807251-Device-Management-and-Mass-Provisioning": {
+      "id": 53497007807251,
+      "title": "Device Management and Mass Provisioning",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+      "updated_at": "2026-07-16T16:39:52Z",
+      "hash": "3739f4c73405fec5639132645689ff61",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53497007807251devicemanagem-llowviexgs7j"
+    },
+    "360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows": {
+      "id": 360053211594,
+      "title": "Set OptiSigns as ScreenSaver on Windows",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
+      "updated_at": "2026-07-16T22:15:47Z",
+      "hash": "4debfb4dcc81fa9569e252739c779021",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053211594setoptisignsass-t2wdtzb2d3yb"
+    },
+    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "updated_at": "2026-07-16T10:01:04Z",
+      "hash": "91975ea871a6399b029fe71d212069ee",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-h5682gujt5p4"
     }
   }
 }
