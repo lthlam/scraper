@@ -1,6 +1,14 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "53497007807251-Device-Management-and-Mass-Provisioning": {
+      "id": 53497007807251,
+      "title": "Device Management and Mass Provisioning",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+      "updated_at": "2026-07-16T16:39:52Z",
+      "hash": "3739f4c73405fec5639132645689ff61",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53497007807251devicemanagem-llowviexgs7j"
+    },
     "53293393593491-Refer-Earn-OptiSigns-Referral-Program": {
       "id": 53293393593491,
       "title": "Refer & Earn: OptiSigns Referral Program",
@@ -64,14 +72,6 @@
       "updated_at": "2026-07-08T14:58:11Z",
       "hash": "a6aa9a731f9097317c4bdc785100d7bb",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/52113036672403roomintegrati-jtch9i29ic7q"
-    },
-    "52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage": {
-      "id": 52069065128723,
-      "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "updated_at": "2026-06-11T22:22:00Z",
-      "hash": "a3d09f5cea38a2535b333b336dfaf246",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/52069065128723connectzoomro-hsx4j0jpi25v"
     },
     "51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage": {
       "id": 51343184586643,
@@ -288,14 +288,6 @@
       "updated_at": "2026-03-27T20:38:29Z",
       "hash": "a74fe20e6107383a459bcbaff76d5963",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-dsuktoyczs0e"
-    },
-    "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
-      "id": 33382537925267,
-      "title": "Making a Video Wall with OptiSigns (Video Wall App)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "updated_at": "2025-12-11T15:16:23Z",
-      "hash": "9078b55f19c58e233130f4a91d7f1529",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-1mx58263hr5o"
     },
     "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns": {
       "id": 32860569148819,
@@ -1377,6 +1369,14 @@
       "hash": "0290f4658a31a3581982e53859cb9597",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-iwdn6onwyxr1"
     },
+    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "updated_at": "2026-07-16T10:01:04Z",
+      "hash": "91975ea871a6399b029fe71d212069ee",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-h5682gujt5p4"
+    },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
       "title": "Amazon Fire Stick and security considerations",
@@ -1840,6 +1840,14 @@
       "updated_at": "2025-09-02T19:14:05Z",
       "hash": "95657d4e9ff433d3356d9e1f26848d5c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500002047642advancedhowtoa-bzsoklimq8sp"
+    },
+    "360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows": {
+      "id": 360053211594,
+      "title": "Set OptiSigns as ScreenSaver on Windows",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
+      "updated_at": "2026-07-16T22:15:47Z",
+      "hash": "4debfb4dcc81fa9569e252739c779021",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053211594setoptisignsass-t2wdtzb2d3yb"
     },
     "360051014773-Show-YouTube-video-s-subtitle-closed-caption": {
       "id": 360051014773,
@@ -3233,29 +3241,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "53497007807251-Device-Management-and-Mass-Provisioning": {
-      "id": 53497007807251,
-      "title": "Device Management and Mass Provisioning",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-      "updated_at": "2026-07-16T16:39:52Z",
-      "hash": "3739f4c73405fec5639132645689ff61",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53497007807251devicemanagem-llowviexgs7j"
+    "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
+      "id": 33382537925267,
+      "title": "Making a Video Wall with OptiSigns (Video Wall App)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
+      "updated_at": "2026-07-17T16:59:32Z",
+      "hash": "0a9e4a2824ed375b9e2bd35eb8f29249",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-rt246h4nd6nj"
     },
-    "360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows": {
-      "id": 360053211594,
-      "title": "Set OptiSigns as ScreenSaver on Windows",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
-      "updated_at": "2026-07-16T22:15:47Z",
-      "hash": "4debfb4dcc81fa9569e252739c779021",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053211594setoptisignsass-t2wdtzb2d3yb"
-    },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-07-16T10:01:04Z",
-      "hash": "91975ea871a6399b029fe71d212069ee",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-h5682gujt5p4"
+    "52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage": {
+      "id": 52069065128723,
+      "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-07-17T22:17:54Z",
+      "hash": "cecb30bb2f90a34142791986e4cd71c3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/52069065128723connectzoomro-kjqhzjbgmyx4"
     }
   }
 }
