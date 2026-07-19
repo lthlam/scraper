@@ -73,6 +73,14 @@
       "hash": "a6aa9a731f9097317c4bdc785100d7bb",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/52113036672403roomintegrati-jtch9i29ic7q"
     },
+    "52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage": {
+      "id": 52069065128723,
+      "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-07-17T22:17:54Z",
+      "hash": "cecb30bb2f90a34142791986e4cd71c3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/52069065128723connectzoomro-kjqhzjbgmyx4"
+    },
     "51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage": {
       "id": 51343184586643,
       "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
@@ -288,6 +296,14 @@
       "updated_at": "2026-03-27T20:38:29Z",
       "hash": "a74fe20e6107383a459bcbaff76d5963",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-dsuktoyczs0e"
+    },
+    "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
+      "id": 33382537925267,
+      "title": "Making a Video Wall with OptiSigns (Video Wall App)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
+      "updated_at": "2026-07-17T16:59:32Z",
+      "hash": "0a9e4a2824ed375b9e2bd35eb8f29249",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-rt246h4nd6nj"
     },
     "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns": {
       "id": 32860569148819,
@@ -1328,14 +1344,6 @@
       "updated_at": "2025-09-02T19:06:34Z",
       "hash": "b617ebd8497fac08a66a772a1d5e8b4c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053198573howtouninstallr-z0h31sbfjgas"
-    },
-    "360052361293-How-to-Update-Fire-TV-OS-to-latest-version": {
-      "id": 360052361293,
-      "title": "How to Update Fire TV OS to latest version",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-      "updated_at": "2025-09-04T15:35:37Z",
-      "hash": "8ddba9dc2295a167213be3bb03fe2d17",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052361293howtoupdatefire-ay8jsxg2vn4m"
     },
     "360051745633-How-to-Set-up-an-Instagram-Business-Creator-account": {
       "id": 360051745633,
@@ -3241,21 +3249,13 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
-      "id": 33382537925267,
-      "title": "Making a Video Wall with OptiSigns (Video Wall App)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "updated_at": "2026-07-17T16:59:32Z",
-      "hash": "0a9e4a2824ed375b9e2bd35eb8f29249",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-rt246h4nd6nj"
-    },
-    "52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage": {
-      "id": 52069065128723,
-      "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "updated_at": "2026-07-17T22:17:54Z",
-      "hash": "cecb30bb2f90a34142791986e4cd71c3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/52069065128723connectzoomro-kjqhzjbgmyx4"
+    "360052361293-How-to-Update-Fire-TV-OS-to-latest-version": {
+      "id": 360052361293,
+      "title": "How to Update Fire TV OS to latest version",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
+      "updated_at": "2026-07-18T01:28:41Z",
+      "hash": "8ddba9dc2295a167213be3bb03fe2d17",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052361293howtoupdatefire-2hsl048q4urt"
     }
   }
 }
