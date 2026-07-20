@@ -505,14 +505,6 @@
       "hash": "8ab8459140a769c5f22bf17f3b132896",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-buvjl70fbc6g"
     },
-    "27267311796243-OptiStick": {
-      "id": 27267311796243,
-      "title": "OptiStick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-      "updated_at": "2026-06-26T13:51:49Z",
-      "hash": "fb98483a37140a4874396b39cd26903f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-n8i14fdibr8r"
-    },
     "25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility": {
       "id": 25273043501587,
       "title": "How to Lockdown iPad/Single App with Guided Accessibility",
@@ -1345,6 +1337,14 @@
       "hash": "b617ebd8497fac08a66a772a1d5e8b4c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053198573howtouninstallr-z0h31sbfjgas"
     },
+    "360052361293-How-to-Update-Fire-TV-OS-to-latest-version": {
+      "id": 360052361293,
+      "title": "How to Update Fire TV OS to latest version",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
+      "updated_at": "2026-07-18T01:28:41Z",
+      "hash": "8ddba9dc2295a167213be3bb03fe2d17",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052361293howtoupdatefire-2hsl048q4urt"
+    },
     "360051745633-How-to-Set-up-an-Instagram-Business-Creator-account": {
       "id": 360051745633,
       "title": "How to Set up an Instagram Business/Creator account",
@@ -1768,14 +1768,6 @@
       "updated_at": "2025-09-04T18:06:19Z",
       "hash": "9bb62a465d3f2c417e828062ebe1ef00",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024310813howtouseapdfwit-jqojt444plu6"
-    },
-    "360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick": {
-      "id": 360016380053,
-      "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
-      "updated_at": "2025-09-05T15:00:49Z",
-      "hash": "d7ee5a8d2978e138459fb0d826e998ca",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016380053howtocheckwifis-2wz1jh9j07g1"
     },
     "42830652820115-Your-Templates": {
       "id": 42830652820115,
@@ -3249,13 +3241,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360052361293-How-to-Update-Fire-TV-OS-to-latest-version": {
-      "id": 360052361293,
-      "title": "How to Update Fire TV OS to latest version",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-      "updated_at": "2026-07-18T01:28:41Z",
-      "hash": "8ddba9dc2295a167213be3bb03fe2d17",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052361293howtoupdatefire-2hsl048q4urt"
+    "360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick": {
+      "id": 360016380053,
+      "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
+      "updated_at": "2026-07-19T13:16:43Z",
+      "hash": "d7ee5a8d2978e138459fb0d826e998ca",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016380053howtocheckwifis-hb69k8ibr90c"
+    },
+    "27267311796243-OptiStick": {
+      "id": 27267311796243,
+      "title": "OptiStick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+      "updated_at": "2026-07-19T15:05:17Z",
+      "hash": "fb98483a37140a4874396b39cd26903f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-n0mrajc31vx7"
     }
   }
 }
