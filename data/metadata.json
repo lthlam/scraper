@@ -505,6 +505,14 @@
       "hash": "8ab8459140a769c5f22bf17f3b132896",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-buvjl70fbc6g"
     },
+    "27267311796243-OptiStick": {
+      "id": 27267311796243,
+      "title": "OptiStick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+      "updated_at": "2026-07-19T15:05:17Z",
+      "hash": "fb98483a37140a4874396b39cd26903f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-n0mrajc31vx7"
+    },
     "25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility": {
       "id": 25273043501587,
       "title": "How to Lockdown iPad/Single App with Guided Accessibility",
@@ -1233,14 +1241,6 @@
       "hash": "2d1a2c314d0fdc1349a86d6d10833325",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055549854preconfigurewif-5m0dy5e1r9xx"
     },
-    "360055546594-How-does-pre-configured-devices-labeled-in-shipping-package": {
-      "id": 360055546594,
-      "title": "How does pre-configured devices labeled in shipping package?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
-      "updated_at": "2025-08-29T18:41:08Z",
-      "hash": "99fc7144cf94d17b110c3d33d1e1d78e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055546594howdoespreconfi-rsu3k8guul1u"
-    },
     "360057327693-Advanced-How-to-Install-Activate-OptiSigns-Remote-Agent-on-Windows": {
       "id": 360057327693,
       "title": "Advanced: How to Install & Activate OptiSigns Remote Agent on Windows",
@@ -1768,6 +1768,14 @@
       "updated_at": "2025-09-04T18:06:19Z",
       "hash": "9bb62a465d3f2c417e828062ebe1ef00",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024310813howtouseapdfwit-jqojt444plu6"
+    },
+    "360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick": {
+      "id": 360016380053,
+      "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
+      "updated_at": "2026-07-19T13:16:43Z",
+      "hash": "d7ee5a8d2978e138459fb0d826e998ca",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016380053howtocheckwifis-hb69k8ibr90c"
     },
     "42830652820115-Your-Templates": {
       "id": 42830652820115,
@@ -3241,21 +3249,13 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick": {
-      "id": 360016380053,
-      "title": "How to Check WiFi Signal Strength on the Amazon Fire TV Stick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick",
-      "updated_at": "2026-07-19T13:16:43Z",
-      "hash": "d7ee5a8d2978e138459fb0d826e998ca",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016380053howtocheckwifis-hb69k8ibr90c"
-    },
-    "27267311796243-OptiStick": {
-      "id": 27267311796243,
-      "title": "OptiStick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-      "updated_at": "2026-07-19T15:05:17Z",
-      "hash": "fb98483a37140a4874396b39cd26903f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-n0mrajc31vx7"
+    "360055546594-How-does-pre-configured-devices-labeled-in-shipping-package": {
+      "id": 360055546594,
+      "title": "How does pre-configured devices labeled in shipping package?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360055546594-How-does-pre-configured-devices-labeled-in-shipping-package",
+      "updated_at": "2026-07-20T15:15:23Z",
+      "hash": "99fc7144cf94d17b110c3d33d1e1d78e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055546594howdoespreconfi-h9twyaynehl9"
     }
   }
 }
