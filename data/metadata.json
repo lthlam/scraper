@@ -1265,6 +1265,14 @@
       "hash": "64c2c0fe72195285b3de88fe7b14ebfb",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055486554remotelycontrol-61u5bzus5ztt"
     },
+    "360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV": {
+      "id": 360055328454,
+      "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
+      "updated_at": "2026-07-21T14:13:36Z",
+      "hash": "5c0d2963b0481dbf4df73b9b5bba306c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055328454howtoenabledisa-hp79e4372k9u"
+    },
     "360057146573-Advanced-How-to-Manually-Install-Activate-OptiSigns-Remote-Agent-on-Linux-or-Raspberry-Pi": {
       "id": 360057146573,
       "title": "Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi",
@@ -1376,14 +1384,6 @@
       "updated_at": "2026-05-21T13:09:58Z",
       "hash": "0290f4658a31a3581982e53859cb9597",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-iwdn6onwyxr1"
-    },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-07-16T10:01:04Z",
-      "hash": "91975ea871a6399b029fe71d212069ee",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-h5682gujt5p4"
     },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
@@ -2857,6 +2857,14 @@
       "hash": "93335c52fb0ac02fefabd6ed56481847",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055900513howtocreateandu-fw9m3vdlawaw"
     },
+    "360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app": {
+      "id": 360053993934,
+      "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
+      "updated_at": "2026-07-21T05:24:44Z",
+      "hash": "78d3fc2fc58029796349acc460af5a98",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053993934howtousekioskli-dn81hkr2f2pw"
+    },
     "360052827713-How-to-Use-the-Flash-Message-App": {
       "id": 360052827713,
       "title": "How to Use the Flash Message App",
@@ -3241,21 +3249,13 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app": {
-      "id": 360053993934,
-      "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-      "updated_at": "2026-07-21T05:24:44Z",
-      "hash": "78d3fc2fc58029796349acc460af5a98",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053993934howtousekioskli-dn81hkr2f2pw"
-    },
-    "360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV": {
-      "id": 360055328454,
-      "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
-      "updated_at": "2026-07-21T14:13:36Z",
-      "hash": "5c0d2963b0481dbf4df73b9b5bba306c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055328454howtoenabledisa-hp79e4372k9u"
+    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "updated_at": "2026-07-22T15:55:30Z",
+      "hash": "91975ea871a6399b029fe71d212069ee",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-lx4ox2d6879j"
     }
   }
 }
