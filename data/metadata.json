@@ -889,14 +889,6 @@
       "hash": "91b30076deebbcf1711e5dd22c3e6f0d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416704273811manuallycontro-92xxzve8loda"
     },
-    "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns": {
-      "id": 4416542923667,
-      "title": "How to Perform Mass Provisioning with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
-      "updated_at": "2026-04-16T14:17:14Z",
-      "hash": "a83da1bacbc845f7d2e2400b235118e4",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416542923667howtoperformma-3ukcxejqfe2p"
-    },
     "4414552808467-Introduction": {
       "id": 4414552808467,
       "title": "Introduction",
@@ -1385,6 +1377,14 @@
       "hash": "0290f4658a31a3581982e53859cb9597",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-iwdn6onwyxr1"
     },
+    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "updated_at": "2026-07-22T15:55:30Z",
+      "hash": "91975ea871a6399b029fe71d212069ee",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-lx4ox2d6879j"
+    },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
       "title": "Amazon Fire Stick and security considerations",
@@ -1528,14 +1528,6 @@
       "updated_at": "2026-07-07T16:43:26Z",
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-3zxpm70lsmp7"
-    },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-06-01T19:53:55Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-zay397gd0mtw"
     },
     "360034379293-Windows": {
       "id": 360034379293,
@@ -3249,13 +3241,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-07-22T15:55:30Z",
-      "hash": "91975ea871a6399b029fe71d212069ee",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-lx4ox2d6879j"
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-07-23T23:32:27Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-g3lfgkjlk10s"
+    },
+    "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns": {
+      "id": 4416542923667,
+      "title": "How to Perform Mass Provisioning with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
+      "updated_at": "2026-07-23T09:04:57Z",
+      "hash": "a83da1bacbc845f7d2e2400b235118e4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416542923667howtoperformma-d90988uind0n"
     }
   }
 }
