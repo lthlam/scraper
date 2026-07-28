@@ -481,14 +481,6 @@
       "hash": "c76bddfcc018e2d0dd34b30f3e20b7a2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27690296225555aicameraappqu-36xxy8jmncrc"
     },
-    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
-      "id": 27463953562899,
-      "title": "Amazon TV / FireStick Troubleshooting Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "updated_at": "2026-04-28T15:36:27Z",
-      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-1of45wph53wx"
-    },
     "27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another": {
       "id": 27458261258387,
       "title": "Move Screens or Devices from One Account to Another",
@@ -504,6 +496,14 @@
       "updated_at": "2026-03-26T16:45:12Z",
       "hash": "8ab8459140a769c5f22bf17f3b132896",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-buvjl70fbc6g"
+    },
+    "27267311796243-OptiStick": {
+      "id": 27267311796243,
+      "title": "OptiStick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+      "updated_at": "2026-07-26T22:40:02Z",
+      "hash": "fb98483a37140a4874396b39cd26903f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-wi5zuubaud5n"
     },
     "25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility": {
       "id": 25273043501587,
@@ -1521,14 +1521,6 @@
       "hash": "c3df7df15b4b16c82d8de5d2c0b3ffe8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360036465673adjustingsocial-8die3gqd2coe"
     },
-    "360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration": {
-      "id": 360035538093,
-      "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
-      "updated_at": "2026-07-07T16:43:26Z",
-      "hash": "59f80907cd196f84cccf28ba531b0e52",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-3zxpm70lsmp7"
-    },
     "360034883113-Working-with-Teams-and-Security-Levels": {
       "id": 360034883113,
       "title": "Working with Teams and Security Levels",
@@ -2465,14 +2457,6 @@
       "hash": "0d2374ff459ab41f700fa4bb0b585c50",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10259143299219howtousewebsi-azk8pgdy4ya0"
     },
-    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
-      "id": 4414496579475,
-      "title": "LG WebOS Signage (Commercial Grade)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "updated_at": "2025-09-04T18:03:17Z",
-      "hash": "db42daaa9224625a5e8f5a9a96ca5959",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-0vzej6n4c5fq"
-    },
     "360016253694-Is-there-storage-limit-for-my-account": {
       "id": 360016253694,
       "title": "Is there storage limit for my account?",
@@ -3161,14 +3145,6 @@
       "hash": "4adc5b77f3fb7bafc3234585afbc0699",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038769394howtocreateandu-ycf9mma8v9s8"
     },
-    "360037463934-How-to-create-and-use-Google-Reviews-Wall": {
-      "id": 360037463934,
-      "title": "How to create and use Google Reviews Wall",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall",
-      "updated_at": "2025-09-04T20:21:45Z",
-      "hash": "effe39f898d7b1d8ad5e174c024b7064",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037463934howtocreateandu-ypzfdrq8ynke"
-    },
     "360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns": {
       "id": 360036250853,
       "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
@@ -3249,13 +3225,37 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "27267311796243-OptiStick": {
-      "id": 27267311796243,
-      "title": "OptiStick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-      "updated_at": "2026-07-26T22:40:02Z",
-      "hash": "fb98483a37140a4874396b39cd26903f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-wi5zuubaud5n"
+    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
+      "id": 4414496579475,
+      "title": "LG WebOS Signage (Commercial Grade)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
+      "updated_at": "2026-07-27T11:33:43Z",
+      "hash": "db42daaa9224625a5e8f5a9a96ca5959",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-yls8w2pqv035"
+    },
+    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
+      "id": 27463953562899,
+      "title": "Amazon TV / FireStick Troubleshooting Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+      "updated_at": "2026-07-27T12:19:26Z",
+      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-wmlq2f0plx00"
+    },
+    "360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration": {
+      "id": 360035538093,
+      "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
+      "updated_at": "2026-07-27T15:11:19Z",
+      "hash": "59f80907cd196f84cccf28ba531b0e52",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gp8wwok4csy2"
+    },
+    "360037463934-How-to-create-and-use-Google-Reviews-Wall": {
+      "id": 360037463934,
+      "title": "How to create and use Google Reviews Wall",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall",
+      "updated_at": "2026-07-27T15:39:23Z",
+      "hash": "effe39f898d7b1d8ad5e174c024b7064",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037463934howtocreateandu-cualz2bhrgol"
     }
   }
 }
