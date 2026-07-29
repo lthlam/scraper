@@ -225,14 +225,6 @@
       "hash": "1f6bf633d6ada7785cbec50cc918d076",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/39250660729747howtousetheta-qt28jozqjlrq"
     },
-    "39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration": {
-      "id": 39080869746067,
-      "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-      "updated_at": "2025-08-28T18:42:06Z",
-      "hash": "f0cff60ef05199bb01186d77b230b03b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/39080869746067handleoauthau-z14gkyd6tyly"
-    },
     "38062664690195-Tagging-in-OptiSigns": {
       "id": 38062664690195,
       "title": "Tagging in OptiSigns",
@@ -480,6 +472,14 @@
       "updated_at": "2026-06-29T19:26:02Z",
       "hash": "c76bddfcc018e2d0dd34b30f3e20b7a2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27690296225555aicameraappqu-36xxy8jmncrc"
+    },
+    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
+      "id": 27463953562899,
+      "title": "Amazon TV / FireStick Troubleshooting Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+      "updated_at": "2026-07-27T12:19:26Z",
+      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-wmlq2f0plx00"
     },
     "27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another": {
       "id": 27458261258387,
@@ -1521,6 +1521,14 @@
       "hash": "c3df7df15b4b16c82d8de5d2c0b3ffe8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360036465673adjustingsocial-8die3gqd2coe"
     },
+    "360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration": {
+      "id": 360035538093,
+      "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
+      "updated_at": "2026-07-27T15:11:19Z",
+      "hash": "59f80907cd196f84cccf28ba531b0e52",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gp8wwok4csy2"
+    },
     "360034883113-Working-with-Teams-and-Security-Levels": {
       "id": 360034883113,
       "title": "Working with Teams and Security Levels",
@@ -1784,14 +1792,6 @@
       "updated_at": "2026-03-30T17:22:38Z",
       "hash": "329981dd83c7f31e0657e0e88457a9ab",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/38680194603155promaxmd-5809bnreaa6i"
-    },
-    "35626165056787-How-to-Contact-OptiSigns-Support": {
-      "id": 35626165056787,
-      "title": "How to Contact OptiSigns Support",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
-      "updated_at": "2025-09-04T17:13:59Z",
-      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-bnh4atj4pizr"
     },
     "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync": {
       "id": 29838866920211,
@@ -2456,6 +2456,14 @@
       "updated_at": "2026-06-25T19:46:15Z",
       "hash": "0d2374ff459ab41f700fa4bb0b585c50",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10259143299219howtousewebsi-azk8pgdy4ya0"
+    },
+    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
+      "id": 4414496579475,
+      "title": "LG WebOS Signage (Commercial Grade)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
+      "updated_at": "2026-07-27T11:33:43Z",
+      "hash": "db42daaa9224625a5e8f5a9a96ca5959",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-yls8w2pqv035"
     },
     "360016253694-Is-there-storage-limit-for-my-account": {
       "id": 360016253694,
@@ -3145,6 +3153,14 @@
       "hash": "4adc5b77f3fb7bafc3234585afbc0699",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038769394howtocreateandu-ycf9mma8v9s8"
     },
+    "360037463934-How-to-create-and-use-Google-Reviews-Wall": {
+      "id": 360037463934,
+      "title": "How to create and use Google Reviews Wall",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall",
+      "updated_at": "2026-07-27T15:39:23Z",
+      "hash": "effe39f898d7b1d8ad5e174c024b7064",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037463934howtocreateandu-cualz2bhrgol"
+    },
     "360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns": {
       "id": 360036250853,
       "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
@@ -3225,37 +3241,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
-      "id": 4414496579475,
-      "title": "LG WebOS Signage (Commercial Grade)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "updated_at": "2026-07-27T11:33:43Z",
-      "hash": "db42daaa9224625a5e8f5a9a96ca5959",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-yls8w2pqv035"
+    "39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration": {
+      "id": 39080869746067,
+      "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
+      "updated_at": "2026-07-28T20:42:44Z",
+      "hash": "f0cff60ef05199bb01186d77b230b03b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/39080869746067handleoauthau-a8td9x56h5fr"
     },
-    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
-      "id": 27463953562899,
-      "title": "Amazon TV / FireStick Troubleshooting Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "updated_at": "2026-07-27T12:19:26Z",
-      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-wmlq2f0plx00"
-    },
-    "360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration": {
-      "id": 360035538093,
-      "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
-      "updated_at": "2026-07-27T15:11:19Z",
-      "hash": "59f80907cd196f84cccf28ba531b0e52",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gp8wwok4csy2"
-    },
-    "360037463934-How-to-create-and-use-Google-Reviews-Wall": {
-      "id": 360037463934,
-      "title": "How to create and use Google Reviews Wall",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-create-and-use-Google-Reviews-Wall",
-      "updated_at": "2026-07-27T15:39:23Z",
-      "hash": "effe39f898d7b1d8ad5e174c024b7064",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037463934howtocreateandu-cualz2bhrgol"
+    "35626165056787-How-to-Contact-OptiSigns-Support": {
+      "id": 35626165056787,
+      "title": "How to Contact OptiSigns Support",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+      "updated_at": "2026-07-28T18:51:24Z",
+      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-vkk42h2xy3xu"
     }
   }
 }
