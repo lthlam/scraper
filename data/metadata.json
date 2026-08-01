@@ -1057,14 +1057,6 @@
       "hash": "ca2667706f195145b2ba113a74a1bb51",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403306341523howtosetupmoni-0feijf6yg1h2"
     },
-    "1500012522362-How-to-use-the-Web-Scripting-App": {
-      "id": 1500012522362,
-      "title": "How to use the Web Scripting App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
-      "updated_at": "2026-05-14T16:05:37Z",
-      "hash": "9b964472f0c61e6641c46325824a008d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500012522362howtousetheweb-glmjrkg9dqr8"
-    },
     "1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi": {
       "id": 1500010436341,
       "title": "Adjust the GPU memory on the Raspberry Pi",
@@ -1456,6 +1448,14 @@
       "updated_at": "2026-06-29T19:08:36Z",
       "hash": "b25a6c8ec2e579643970c369ade7ab6c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143753howtoreencodevi-vxtssmg7q8ow"
+    },
+    "360042143333-Roku-Release-Notes-Limitation": {
+      "id": 360042143333,
+      "title": "Roku Release Notes & Limitation",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation",
+      "updated_at": "2026-07-30T14:35:18Z",
+      "hash": "9cd8f863e903decf1e139e00a69f9eb3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143333rokureleasenote-92rd30iacsa4"
     },
     "360041587014-How-to-change-Billing-information": {
       "id": 360041587014,
@@ -3249,13 +3249,13 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360042143333-Roku-Release-Notes-Limitation": {
-      "id": 360042143333,
-      "title": "Roku Release Notes & Limitation",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation",
-      "updated_at": "2026-07-30T14:35:18Z",
-      "hash": "9cd8f863e903decf1e139e00a69f9eb3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143333rokureleasenote-92rd30iacsa4"
+    "1500012522362-How-to-use-the-Web-Scripting-App": {
+      "id": 1500012522362,
+      "title": "How to use the Web Scripting App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
+      "updated_at": "2026-07-31T13:02:35Z",
+      "hash": "bfa7c915c51a05921e53f1a91509029f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500012522362howtousetheweb-ssr4en2xd0rx"
     }
   }
 }
