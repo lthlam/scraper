@@ -1057,6 +1057,14 @@
       "hash": "ca2667706f195145b2ba113a74a1bb51",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403306341523howtosetupmoni-0feijf6yg1h2"
     },
+    "1500012522362-How-to-use-the-Web-Scripting-App": {
+      "id": 1500012522362,
+      "title": "How to use the Web Scripting App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
+      "updated_at": "2026-07-31T13:02:35Z",
+      "hash": "bfa7c915c51a05921e53f1a91509029f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500012522362howtousetheweb-ssr4en2xd0rx"
+    },
     "1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi": {
       "id": 1500010436341,
       "title": "Adjust the GPU memory on the Raspberry Pi",
@@ -3248,14 +3256,6 @@
       "updated_at": "2026-02-03T18:12:07Z",
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
-    },
-    "1500012522362-How-to-use-the-Web-Scripting-App": {
-      "id": 1500012522362,
-      "title": "How to use the Web Scripting App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
-      "updated_at": "2026-07-31T13:02:35Z",
-      "hash": "bfa7c915c51a05921e53f1a91509029f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500012522362howtousetheweb-ssr4en2xd0rx"
     }
   }
 }
