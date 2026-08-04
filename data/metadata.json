@@ -1313,14 +1313,6 @@
       "hash": "51f16f1b37e152b3949db22c7fe7a8df",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056090593optisignssideme-mz8bd5u1urag"
     },
-    "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device": {
-      "id": 360054298754,
-      "title": "How to Factory Reset Your Fire Stick device ",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-      "updated_at": "2026-07-01T13:59:15Z",
-      "hash": "3d77a82bb7e85f2ccdae04004ebbd995",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054298754howtofactoryres-pzq3am9ldh1p"
-    },
     "360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device": {
       "id": 360056087613,
       "title": "How to Clear Cache on Your Fire Stick device",
@@ -3256,6 +3248,14 @@
       "updated_at": "2026-02-03T18:12:07Z",
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
+    },
+    "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device": {
+      "id": 360054298754,
+      "title": "How to Factory Reset Your Fire Stick device ",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
+      "updated_at": "2026-08-03T23:37:18Z",
+      "hash": "3d77a82bb7e85f2ccdae04004ebbd995",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054298754howtofactoryres-2w2ssfgp226d"
     }
   }
 }
