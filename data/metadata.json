@@ -1313,6 +1313,14 @@
       "hash": "51f16f1b37e152b3949db22c7fe7a8df",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056090593optisignssideme-mz8bd5u1urag"
     },
+    "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device": {
+      "id": 360054298754,
+      "title": "How to Factory Reset Your Fire Stick device ",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
+      "updated_at": "2026-08-03T23:37:18Z",
+      "hash": "3d77a82bb7e85f2ccdae04004ebbd995",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054298754howtofactoryres-2w2ssfgp226d"
+    },
     "360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device": {
       "id": 360056087613,
       "title": "How to Clear Cache on Your Fire Stick device",
@@ -1528,14 +1536,6 @@
       "updated_at": "2026-07-27T15:11:19Z",
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gp8wwok4csy2"
-    },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-07-23T23:32:27Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-g3lfgkjlk10s"
     },
     "360034379293-Windows": {
       "id": 360034379293,
@@ -3249,13 +3249,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360054298754-How-to-Factory-Reset-Your-Fire-Stick-device": {
-      "id": 360054298754,
-      "title": "How to Factory Reset Your Fire Stick device ",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-      "updated_at": "2026-08-03T23:37:18Z",
-      "hash": "3d77a82bb7e85f2ccdae04004ebbd995",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054298754howtofactoryres-2w2ssfgp226d"
+    "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns": {
+      "id": 53952018650515,
+      "title": "How to Display Databricks Dashboards on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
+      "updated_at": "2026-08-04T17:57:34Z",
+      "hash": "d8b711596f0a9f6ad7ca169eaa541202",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53952018650515howtodisplayd-vapcjz2ylpzh"
+    },
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-08-04T19:17:14Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-xroak4l145db"
     }
   }
 }
