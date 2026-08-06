@@ -129,14 +129,6 @@
       "hash": "9e65a827afe95d3956f05cee6342804d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/48241081473043operationalsc-jt11xowio0kh"
     },
-    "47616485609491-How-to-Use-the-OptiDev-App": {
-      "id": 47616485609491,
-      "title": "How to Use the OptiDev App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App",
-      "updated_at": "2026-02-11T23:03:49Z",
-      "hash": "c91ebb4de1bb69a6271aadc386276488",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/47616485609491howtousetheop-zc40pmdwwr97"
-    },
     "45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions": {
       "id": 45619214182803,
       "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
@@ -1536,6 +1528,14 @@
       "updated_at": "2026-07-27T15:11:19Z",
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gp8wwok4csy2"
+    },
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-08-04T19:17:14Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-xroak4l145db"
     },
     "360034379293-Windows": {
       "id": 360034379293,
@@ -3249,21 +3249,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
+    "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing": {
+      "id": 54095075680275,
+      "title": "OptiDev Add-on - Free Trial and Pricing",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
+      "updated_at": "2026-08-05T18:22:19Z",
+      "hash": "285fcd7b309c06a65f8cb128e7d88371",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/54095075680275optidevaddonf-oeja8zq55t6m"
+    },
     "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns": {
       "id": 53952018650515,
       "title": "How to Display Databricks Dashboards on OptiSigns",
       "html_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-      "updated_at": "2026-08-04T17:57:34Z",
-      "hash": "d8b711596f0a9f6ad7ca169eaa541202",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53952018650515howtodisplayd-vapcjz2ylpzh"
-    },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-08-04T19:17:14Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-xroak4l145db"
+      "updated_at": "2026-08-05T16:53:02Z",
+      "hash": "cb372af110ff2dd2fe38e4f9104a5b32",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53952018650515howtodisplayd-rcn1s7p7rb77"
     }
   }
 }
