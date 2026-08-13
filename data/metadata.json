@@ -9,6 +9,14 @@
       "hash": "285fcd7b309c06a65f8cb128e7d88371",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/54095075680275optidevaddonf-oeja8zq55t6m"
     },
+    "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns": {
+      "id": 53952018650515,
+      "title": "How to Display Databricks Dashboards on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
+      "updated_at": "2026-08-11T19:04:29Z",
+      "hash": "1931cd10e51248a807ba413920503b05",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53952018650515howtodisplayd-y40m7he3rl2t"
+    },
     "53497007807251-Device-Management-and-Mass-Provisioning": {
       "id": 53497007807251,
       "title": "Device Management and Mass Provisioning",
@@ -32,14 +40,6 @@
       "updated_at": "2026-07-06T15:29:04Z",
       "hash": "91979601f790ff74ab65b6234b715ee4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53216900345875whataccessdoe-x247df2udj5z"
-    },
-    "53095698149011-Using-the-Japan-Earthquake-App": {
-      "id": 53095698149011,
-      "title": "Using the Japan Earthquake App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "updated_at": "2026-07-08T18:39:51Z",
-      "hash": "2d658d763ee0014ee84041ae39571d16",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53095698149011usingthejapan-55u5k297ols9"
     },
     "53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns": {
       "id": 53028011485715,
@@ -704,6 +704,14 @@
       "updated_at": "2025-09-04T16:20:40Z",
       "hash": "b909531ba80561eef3bcf25283e7eb1d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18381542133779howtoconfigur-6ys253r2aaau"
+    },
+    "17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List": {
+      "id": 17882306279315,
+      "title": "Samsung Smart Signage Platform (SSSP) Supported Model List",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List",
+      "updated_at": "2026-08-11T10:19:33Z",
+      "hash": "d33624a9086059bb0f1b81c7fb05c247",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17882306279315samsungsmarts-flt01qv6ggw1"
     },
     "17604055961747-How-to-Create-a-Content-Library-Kiosk": {
       "id": 17604055961747,
@@ -1481,14 +1489,6 @@
       "hash": "7acf56e6cf7dd6f318fb8ebc932c057e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040943374assigndefaultco-zuq73w9cwyjw"
     },
-    "360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku": {
-      "id": 360039566974,
-      "title": "How to install OptiSigns as channel/app on Roku",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-      "updated_at": "2025-09-02T19:35:39Z",
-      "hash": "26ac9e3a8d4efb2ffda02fc3c13ba0c5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974howtoinstallopt-6uuryumzx726"
-    },
     "360038992973-Video-codec-or-video-playback-issues": {
       "id": 360038992973,
       "title": "Video codec or video playback issues",
@@ -1736,6 +1736,14 @@
       "updated_at": "2025-08-28T18:44:34Z",
       "hash": "e28b33468ab9b1b98626f8669184e721",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050855313howtolinkinstag-cqp5lemifbi5"
+    },
+    "360050642833-How-to-Use-Google-Slides-with-OptiSigns": {
+      "id": 360050642833,
+      "title": "How to Use Google Slides with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns",
+      "updated_at": "2026-08-11T21:06:54Z",
+      "hash": "0a5f68f26351db4c2319d876334a5f03",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050642833howtousegoogles-izr6e5x98btu"
     },
     "360041501494-MacOS": {
       "id": 360041501494,
@@ -2017,6 +2025,14 @@
       "hash": "5a4c1b0f6576d7cce4b2c41b27b52451",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/44669013147923kiosk32md-n4zmwaokgfpz"
     },
+    "42526907045651-Photos-GIFs-and-QR-Codes-in-Designer": {
+      "id": 42526907045651,
+      "title": "Photos, GIFs, and QR Codes in Designer",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
+      "updated_at": "2026-08-11T21:18:17Z",
+      "hash": "cb5399fe793361e24f2c32f5b49863de",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/42526907045651photosgifsand-mir4cbpohrr5"
+    },
     "29979283289235-How-to-Display-Birthday-Lists-with-OptiSync-Data-Mapping-and-Google-Sheets": {
       "id": 29979283289235,
       "title": "How to Display Birthday Lists with OptiSync Data Mapping and Google Sheets",
@@ -2296,6 +2312,14 @@
       "updated_at": "2025-09-02T20:43:39Z",
       "hash": "4864bc0cebfbd1a3c048ace4fff2ef61",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009042742fireostvsamazo-tzfkxtej4thi"
+    },
+    "1500003244381-About-the-OnHold-Devices-Folder": {
+      "id": 1500003244381,
+      "title": "About the OnHold Devices Folder",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
+      "updated_at": "2026-08-11T22:01:43Z",
+      "hash": "c4dc5744de286a869fd7e158936464b3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500003244381abouttheonhold-k5lzaemyiy00"
     },
     "360016981853-Creating-and-Using-Schedules-with-OptiSigns": {
       "id": 360016981853,
@@ -3225,45 +3249,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List": {
-      "id": 17882306279315,
-      "title": "Samsung Smart Signage Platform (SSSP) Supported Model List",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List",
-      "updated_at": "2026-08-11T10:19:33Z",
-      "hash": "d33624a9086059bb0f1b81c7fb05c247",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17882306279315samsungsmarts-flt01qv6ggw1"
+    "360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku": {
+      "id": 360039566974,
+      "title": "How to install OptiSigns as channel/app on Roku",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
+      "updated_at": "2026-08-12T01:53:55Z",
+      "hash": "26ac9e3a8d4efb2ffda02fc3c13ba0c5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974howtoinstallopt-qzm1g8ullcyx"
     },
-    "1500003244381-About-the-OnHold-Devices-Folder": {
-      "id": 1500003244381,
-      "title": "About the OnHold Devices Folder",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-      "updated_at": "2026-08-11T22:01:43Z",
-      "hash": "c4dc5744de286a869fd7e158936464b3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500003244381abouttheonhold-k5lzaemyiy00"
-    },
-    "360050642833-How-to-Use-Google-Slides-with-OptiSigns": {
-      "id": 360050642833,
-      "title": "How to Use Google Slides with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns",
-      "updated_at": "2026-08-11T21:06:54Z",
-      "hash": "0a5f68f26351db4c2319d876334a5f03",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050642833howtousegoogles-izr6e5x98btu"
-    },
-    "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns": {
-      "id": 53952018650515,
-      "title": "How to Display Databricks Dashboards on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-      "updated_at": "2026-08-11T19:04:29Z",
-      "hash": "1931cd10e51248a807ba413920503b05",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53952018650515howtodisplayd-y40m7he3rl2t"
-    },
-    "42526907045651-Photos-GIFs-and-QR-Codes-in-Designer": {
-      "id": 42526907045651,
-      "title": "Photos, GIFs, and QR Codes in Designer",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
-      "updated_at": "2026-08-11T21:18:17Z",
-      "hash": "cb5399fe793361e24f2c32f5b49863de",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/42526907045651photosgifsand-mir4cbpohrr5"
+    "53095698149011-Using-the-Japan-Earthquake-App": {
+      "id": 53095698149011,
+      "title": "Using the Japan Earthquake App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
+      "updated_at": "2026-08-12T14:38:37Z",
+      "hash": "a782ba2fb3c4cf2d632e22b4875450fb",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53095698149011usingthejapan-3vdl8siqk7y5"
     }
   }
 }
