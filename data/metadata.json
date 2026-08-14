@@ -41,6 +41,14 @@
       "hash": "91979601f790ff74ab65b6234b715ee4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53216900345875whataccessdoe-x247df2udj5z"
     },
+    "53095698149011-Using-the-Japan-Earthquake-App": {
+      "id": 53095698149011,
+      "title": "Using the Japan Earthquake App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
+      "updated_at": "2026-08-12T14:38:37Z",
+      "hash": "a782ba2fb3c4cf2d632e22b4875450fb",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53095698149011usingthejapan-3vdl8siqk7y5"
+    },
     "53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns": {
       "id": 53028011485715,
       "title": "How to Display a Snowflake Dashboard with OptiSigns",
@@ -1489,6 +1497,14 @@
       "hash": "7acf56e6cf7dd6f318fb8ebc932c057e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040943374assigndefaultco-zuq73w9cwyjw"
     },
+    "360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku": {
+      "id": 360039566974,
+      "title": "How to install OptiSigns as channel/app on Roku",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
+      "updated_at": "2026-08-12T01:53:55Z",
+      "hash": "26ac9e3a8d4efb2ffda02fc3c13ba0c5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974howtoinstallopt-qzm1g8ullcyx"
+    },
     "360038992973-Video-codec-or-video-playback-issues": {
       "id": 360038992973,
       "title": "Video codec or video playback issues",
@@ -1608,14 +1624,6 @@
       "updated_at": "2025-08-29T16:59:24Z",
       "hash": "f13321a5b05e07ffb225f4d79600caa9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-9drtjd72jxv3"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-07-29T08:50:23Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-nrrkrix274vd"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -3193,14 +3201,6 @@
       "hash": "b0ab1212cd0da0c97bae707d4c8cc771",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035815114howtouseembedap-p9zfw0zzn7k5"
     },
-    "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns": {
-      "id": 360024859713,
-      "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "updated_at": "2026-03-25T21:24:00Z",
-      "hash": "92c7ad0b6ce2c667bcdd7293c492e619",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-14227u0vtda9"
-    },
     "360023848334-How-to-Use-the-Facebook-Page-App": {
       "id": 360023848334,
       "title": "How to Use the Facebook Page App",
@@ -3249,21 +3249,21 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku": {
-      "id": 360039566974,
-      "title": "How to install OptiSigns as channel/app on Roku",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-      "updated_at": "2026-08-12T01:53:55Z",
-      "hash": "26ac9e3a8d4efb2ffda02fc3c13ba0c5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974howtoinstallopt-qzm1g8ullcyx"
+    "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns": {
+      "id": 360024859713,
+      "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+      "updated_at": "2026-08-13T15:38:13Z",
+      "hash": "92c7ad0b6ce2c667bcdd7293c492e619",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-eh829zfbwnsc"
     },
-    "53095698149011-Using-the-Japan-Earthquake-App": {
-      "id": 53095698149011,
-      "title": "Using the Japan Earthquake App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "updated_at": "2026-08-12T14:38:37Z",
-      "hash": "a782ba2fb3c4cf2d632e22b4875450fb",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53095698149011usingthejapan-3vdl8siqk7y5"
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-08-13T11:52:12Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-nfn8nqn51ceu"
     }
   }
 }
