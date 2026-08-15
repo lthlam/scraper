@@ -1625,6 +1625,14 @@
       "hash": "f13321a5b05e07ffb225f4d79600caa9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-9drtjd72jxv3"
     },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-08-13T11:52:12Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-nfn8nqn51ceu"
+    },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
       "title": "Does OptiSigns offer Non-profit/Education discount?",
@@ -3089,14 +3097,6 @@
       "hash": "5245a7bf7c34b24e1b57dadab0b56f9d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044115513howtousethestoc-v5ytfnyorvpr"
     },
-    "360042950593-How-to-Use-the-Simple-Clock-App": {
-      "id": 360042950593,
-      "title": "How to Use the Simple Clock App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-      "updated_at": "2026-01-23T15:20:46Z",
-      "hash": "d2a02d3dfa4c91205e73812cd8524270",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042950593howtousethesimp-x1jls4g85ynv"
-    },
     "360042450514-How-to-use-World-Clock-App": {
       "id": 360042450514,
       "title": "How to use World Clock App",
@@ -3201,6 +3201,14 @@
       "hash": "b0ab1212cd0da0c97bae707d4c8cc771",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035815114howtouseembedap-p9zfw0zzn7k5"
     },
+    "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns": {
+      "id": 360024859713,
+      "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+      "updated_at": "2026-08-13T15:38:13Z",
+      "hash": "92c7ad0b6ce2c667bcdd7293c492e619",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-eh829zfbwnsc"
+    },
     "360023848334-How-to-Use-the-Facebook-Page-App": {
       "id": 360023848334,
       "title": "How to Use the Facebook Page App",
@@ -3249,21 +3257,13 @@
       "hash": "b55e879c19f73e4a671b1450f412d09e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
     },
-    "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns": {
-      "id": 360024859713,
-      "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "updated_at": "2026-08-13T15:38:13Z",
-      "hash": "92c7ad0b6ce2c667bcdd7293c492e619",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-eh829zfbwnsc"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-08-13T11:52:12Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-nfn8nqn51ceu"
+    "360042950593-How-to-Use-the-Simple-Clock-App": {
+      "id": 360042950593,
+      "title": "How to Use the Simple Clock App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
+      "updated_at": "2026-08-14T20:14:02Z",
+      "hash": "f5a70dbb55cda6b57400731a86a64e81",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042950593howtousethesimp-ugv1ogf8rk2w"
     }
   }
 }
