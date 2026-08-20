@@ -753,14 +753,6 @@
       "hash": "d3ad3397c6266c78b41630e3aaf2216a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/16364134190355howtousestrea-kgemmz7up59r"
     },
-    "15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows": {
-      "id": 15861880059283,
-      "title": "Silent Installation process for OptiSigns Player on Windows",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
-      "updated_at": "2025-08-29T18:51:22Z",
-      "hash": "f9cf43d8986f2effe7f8bfb574f31dca",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15861880059283silentinstall-gb6896m74rqt"
-    },
     "15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen": {
       "id": 15808407287315,
       "title": "The OptiSigns app keeps turning on the TV screen",
@@ -944,6 +936,14 @@
       "updated_at": "2025-08-29T21:49:14Z",
       "hash": "ef6beffa55095a2de0b6a987b4ce6b56",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408946045715howtointegrate-l9up1h75gn2d"
+    },
+    "4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux": {
+      "id": 4408658251027,
+      "title": "How to use Remote Command Execution - Windows/Linux",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
+      "updated_at": "2026-08-18T09:38:04Z",
+      "hash": "1e22ee5bc754650496d982f4398f39a0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408658251027howtouseremote-g2nmo3poe94t"
     },
     "4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location": {
       "id": 4408052029587,
@@ -1585,14 +1585,6 @@
       "hash": "3eb346995f148c359323aa73f6c7a2a5",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559613howtocreateascr-gy5voznrcazr"
     },
-    "360026559573-How-to-Create-and-Use-the-Split-Screen-App": {
-      "id": 360026559573,
-      "title": "How to Create and Use the Split Screen App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-      "updated_at": "2026-07-09T21:32:58Z",
-      "hash": "7383e52539effdd45b89461bc1f44041",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559573howtocreateandu-7tj9hc9yr9wj"
-    },
     "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets": {
       "id": 360025661053,
       "title": "How Can I Remove/Delete Uploaded Files or Assets?",
@@ -1616,14 +1608,6 @@
       "updated_at": "2025-08-29T16:59:24Z",
       "hash": "f13321a5b05e07ffb225f4d79600caa9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-9drtjd72jxv3"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-08-17T21:10:23Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-rasbmng6uer9"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -3089,14 +3073,6 @@
       "hash": "5245a7bf7c34b24e1b57dadab0b56f9d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044115513howtousethestoc-v5ytfnyorvpr"
     },
-    "360042950593-How-to-Use-the-Simple-Clock-App": {
-      "id": 360042950593,
-      "title": "How to Use the Simple Clock App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-      "updated_at": "2026-08-14T20:14:02Z",
-      "hash": "f5a70dbb55cda6b57400731a86a64e81",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042950593howtousethesimp-ugv1ogf8rk2w"
-    },
     "360042450514-How-to-use-World-Clock-App": {
       "id": 360042450514,
       "title": "How to use World Clock App",
@@ -3249,21 +3225,45 @@
       "hash": "1a9640ea9a174a2af537a197acf33736",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016254994howtoaddusevime-vofzvd0cipvd"
     },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-08-19T23:02:46Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-h8kyust4xl4c"
+    },
+    "15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows": {
+      "id": 15861880059283,
+      "title": "Silent Installation process for OptiSigns Player on Windows",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows",
+      "updated_at": "2026-08-19T07:25:03Z",
+      "hash": "f9cf43d8986f2effe7f8bfb574f31dca",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15861880059283silentinstall-tn60tm4jzlks"
+    },
+    "360042950593-How-to-Use-the-Simple-Clock-App": {
+      "id": 360042950593,
+      "title": "How to Use the Simple Clock App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
+      "updated_at": "2026-08-19T18:54:53Z",
+      "hash": "993dc779b3b867ab5a5bd12aa8ea212f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042950593howtousethesimp-0hld2zh1dla3"
+    },
     "360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns": {
       "id": 360016382473,
       "title": "How to Use the Website App and Display URLs on OptiSigns",
       "html_url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
-      "updated_at": "2026-02-03T18:12:07Z",
-      "hash": "b55e879c19f73e4a671b1450f412d09e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-61w3ggzgiok4"
+      "updated_at": "2026-08-19T20:31:24Z",
+      "hash": "3b8087b2028734db9fdf1a7631f24c4e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux": {
-      "id": 4408658251027,
-      "title": "How to use Remote Command Execution - Windows/Linux",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
-      "updated_at": "2026-08-18T09:38:04Z",
-      "hash": "1e22ee5bc754650496d982f4398f39a0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408658251027howtouseremote-g2nmo3poe94t"
+    "360026559573-How-to-Create-and-Use-the-Split-Screen-App": {
+      "id": 360026559573,
+      "title": "How to Create and Use the Split Screen App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
+      "updated_at": "2026-08-19T14:57:06Z",
+      "hash": "7383e52539effdd45b89461bc1f44041",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559573howtocreateandu-pjvakuilpy5e"
     }
   }
 }
