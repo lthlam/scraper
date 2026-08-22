@@ -673,14 +673,6 @@
       "hash": "d96c3ffcb9200a0d725007b21bae9968",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18988049363859pushcontentst-dbqu0jp6hnh3"
     },
-    "18823504383891-OptiSigns-Getting-Started-Guide": {
-      "id": 18823504383891,
-      "title": "OptiSigns - Getting Started Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
-      "updated_at": "2026-03-31T21:41:21Z",
-      "hash": "098c0242df84e0338154f93093d64563",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18823504383891optisignsgett-ae6di62kyca4"
-    },
     "18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick": {
       "id": 18470994953363,
       "title": "How to keep OptiSigns running on Fire Stick",
@@ -1504,6 +1496,14 @@
       "updated_at": "2025-08-29T20:15:48Z",
       "hash": "260881b333d75ad0f05ef60f9f606d46",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038992973videocodecorvid-00dx318qhboe"
+    },
+    "360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app": {
+      "id": 360037416494,
+      "title": "How to use the Jira (formerly Atlassian JIRA) app",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+      "updated_at": "2026-08-20T19:03:52Z",
+      "hash": "a2fda861a1fdb40563a868ee6ce57da9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-i72kpdabj5a8"
     },
     "360037391854-How-to-display-content-inside-websites-that-require-login": {
       "id": 360037391854,
@@ -3081,14 +3081,6 @@
       "hash": "5245a7bf7c34b24e1b57dadab0b56f9d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044115513howtousethestoc-v5ytfnyorvpr"
     },
-    "360042950593-How-to-Use-the-Simple-Clock-App": {
-      "id": 360042950593,
-      "title": "How to Use the Simple Clock App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-      "updated_at": "2026-08-19T18:54:53Z",
-      "hash": "993dc779b3b867ab5a5bd12aa8ea212f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042950593howtousethesimp-0hld2zh1dla3"
-    },
     "360042450514-How-to-use-World-Clock-App": {
       "id": 360042450514,
       "title": "How to use World Clock App",
@@ -3249,21 +3241,29 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
+    "18823504383891-OptiSigns-Getting-Started-Guide": {
+      "id": 18823504383891,
+      "title": "OptiSigns - Getting Started Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+      "updated_at": "2026-08-21T05:37:19Z",
+      "hash": "098c0242df84e0338154f93093d64563",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18823504383891optisignsgett-4gyjbc1q5meg"
+    },
     "19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns": {
       "id": 19171222981523,
       "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
       "html_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-      "updated_at": "2026-08-20T19:03:01Z",
-      "hash": "869382aa57b6b9985e08f635648f2b45",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/19171222981523howtousethevi-043fzlfdhryx"
+      "updated_at": "2026-08-21T18:40:48Z",
+      "hash": "3b56ae76fd320dcc73a1e607396c19e5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/19171222981523howtousethevi-e624errknu18"
     },
-    "360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app": {
-      "id": 360037416494,
-      "title": "How to use the Jira (formerly Atlassian JIRA) app",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
-      "updated_at": "2026-08-20T19:03:52Z",
-      "hash": "a2fda861a1fdb40563a868ee6ce57da9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-i72kpdabj5a8"
+    "360042950593-How-to-Use-the-Simple-Clock-App": {
+      "id": 360042950593,
+      "title": "How to Use the Simple Clock App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
+      "updated_at": "2026-08-21T21:14:32Z",
+      "hash": "0383c80971b96228b73efa18688fda07",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042950593howtousethesimp-ckm2nv5olybb"
     }
   }
 }
