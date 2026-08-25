@@ -1081,14 +1081,6 @@
       "hash": "ad325b557f08f75174a7671657eacc41",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500010436341adjustthegpume-ugnn936x0q1s"
     },
-    "1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices": {
-      "id": 1500009937122,
-      "title": "Resolve Autostart issues on your Android TV devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices",
-      "updated_at": "2025-08-29T18:50:41Z",
-      "hash": "3d566b9a721a9b1b99881a741b8b6e84",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009937122resolveautosta-paxgwzhc19fo"
-    },
     "1500009382101-Install-Update-OptiSigns-player-on-RPi-via-script": {
       "id": 1500009382101,
       "title": "Install/Update OptiSigns player on RPi via script",
@@ -3264,6 +3256,14 @@
       "updated_at": "2026-08-19T20:31:24Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
+    },
+    "1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices": {
+      "id": 1500009937122,
+      "title": "Resolve Autostart issues on your Android TV devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices",
+      "updated_at": "2026-08-24T21:20:19Z",
+      "hash": "3d566b9a721a9b1b99881a741b8b6e84",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009937122resolveautosta-vwq8zkgw64xw"
     }
   }
 }
