@@ -329,6 +329,14 @@
       "hash": "54f28b9143b9b44e5e2ff0499734cf58",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32839794222099displaysalesf-jdenoyrc4y2p"
     },
+    "31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick": {
+      "id": 31960461758611,
+      "title": "How to Order a Preconfigured OptiSigns Android Stick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
+      "updated_at": "2026-08-25T21:52:40Z",
+      "hash": "4fbc81b00e4c64b02f2c1e4e0ba959e0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31960461758611howtoorderapr-9wn0cxifmho8"
+    },
     "31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync": {
       "id": 31860170199955,
       "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
@@ -1513,14 +1521,6 @@
       "hash": "a2fda861a1fdb40563a868ee6ce57da9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-i72kpdabj5a8"
     },
-    "360037391854-How-to-display-content-inside-websites-that-require-login": {
-      "id": 360037391854,
-      "title": "How to display content inside websites that require login?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
-      "updated_at": "2026-06-25T12:33:44Z",
-      "hash": "28cf01dffdfa6abe790cce32b0f31a10",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037391854howtodisplaycon-fhd8ry0rnj3y"
-    },
     "360036465673-Adjusting-social-news-wall-speeds": {
       "id": 360036465673,
       "title": "Adjusting social, news wall speeds",
@@ -2256,6 +2256,14 @@
       "updated_at": "2026-08-10T11:48:19Z",
       "hash": "e4ae9782773a0c4b691f2ffa69188ecb",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404608957075howtodeleteyou-k80y3za94wd5"
+    },
+    "360016174554-Amazon-Firestick": {
+      "id": 360016174554,
+      "title": "Amazon Firestick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
+      "updated_at": "2026-08-25T22:35:02Z",
+      "hash": "2c8f2db4b056840f840b8a60923ddad2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016174554amazonfirestick-jtqrhefhzi9c"
     },
     "44650391786131-Kiosk-Setup-Hub": {
       "id": 44650391786131,
@@ -3249,21 +3257,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "360016174554-Amazon-Firestick": {
-      "id": 360016174554,
-      "title": "Amazon Firestick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
-      "updated_at": "2026-08-25T22:35:02Z",
-      "hash": "2c8f2db4b056840f840b8a60923ddad2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016174554amazonfirestick-jtqrhefhzi9c"
-    },
-    "31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick": {
-      "id": 31960461758611,
-      "title": "How to Order a Preconfigured OptiSigns Android Stick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
-      "updated_at": "2026-08-25T21:52:40Z",
-      "hash": "4fbc81b00e4c64b02f2c1e4e0ba959e0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31960461758611howtoorderapr-9wn0cxifmho8"
+    "360037391854-How-to-display-content-inside-websites-that-require-login": {
+      "id": 360037391854,
+      "title": "How to display content inside websites that require login?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
+      "updated_at": "2026-08-26T15:08:46Z",
+      "hash": "72b0a24b238968854ef67270440cbfab",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037391854howtodisplaycon-upq5xdotzvb5"
     }
   }
 }
