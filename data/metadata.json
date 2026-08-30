@@ -1545,14 +1545,6 @@
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gp8wwok4csy2"
     },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-08-15T22:19:25Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-ryp7k551cgiv"
-    },
     "360034379293-Windows": {
       "id": 360034379293,
       "title": "Windows",
@@ -3264,6 +3256,14 @@
       "updated_at": "2026-08-19T20:31:24Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
+    },
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-08-29T09:52:34Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-d7c2xw4zib9w"
     }
   }
 }
