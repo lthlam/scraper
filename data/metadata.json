@@ -1601,6 +1601,14 @@
       "hash": "7383e52539effdd45b89461bc1f44041",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559573howtocreateandu-pjvakuilpy5e"
     },
+    "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets": {
+      "id": 360025661053,
+      "title": "How Can I Remove/Delete Uploaded Files or Assets?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
+      "updated_at": "2026-08-31T12:06:14Z",
+      "hash": "266d41f0b60fd05002131a654b8d53e9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360025661053howcaniremovede-crov13i7p5ob"
+    },
     "360025626853-How-to-start-OptiSigns-automatically-when-devices-boot-up": {
       "id": 360025626853,
       "title": "How to start OptiSigns automatically when devices boot up",
@@ -1712,6 +1720,14 @@
       "updated_at": "2026-05-29T17:35:48Z",
       "hash": "a87d46934f7d35536b7b26bd8881e7fc",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18986181635859howtosharecon-cahzgwkezgo2"
+    },
+    "4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used": {
+      "id": 4472060158355,
+      "title": "How to get the list of playlists where the asset is used",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
+      "updated_at": "2026-08-31T16:30:59Z",
+      "hash": "06920e69e04233966f4b71c84279a2cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4472060158355howtogetthelis-mwp4ozwwbm4d"
     },
     "4414563797139-Generate-Manage-OptiSigns-API-Key": {
       "id": 4414563797139,
@@ -2008,14 +2024,6 @@
       "updated_at": "2025-09-02T19:43:55Z",
       "hash": "9c6902aa6281bc98c8291ca60d896d06",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-ecsmn4ldug17"
-    },
-    "360016375153-Assign-content-to-your-screens": {
-      "id": 360016375153,
-      "title": "Assign content to your screens",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-      "updated_at": "2025-08-29T21:09:05Z",
-      "hash": "26c308b2fd339df0136a360dcf62767d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375153assigncontentto-yqfhl5p7avhb"
     },
     "44669013147923-Kiosk32": {
       "id": 44669013147923,
@@ -3249,21 +3257,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used": {
-      "id": 4472060158355,
-      "title": "How to get the list of playlists where the asset is used",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
-      "updated_at": "2026-08-31T16:30:59Z",
-      "hash": "06920e69e04233966f4b71c84279a2cd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4472060158355howtogetthelis-mwp4ozwwbm4d"
-    },
-    "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets": {
-      "id": 360025661053,
-      "title": "How Can I Remove/Delete Uploaded Files or Assets?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-      "updated_at": "2026-08-31T12:06:14Z",
-      "hash": "266d41f0b60fd05002131a654b8d53e9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360025661053howcaniremovede-crov13i7p5ob"
+    "360016375153-Assign-content-to-your-screens": {
+      "id": 360016375153,
+      "title": "Assign content to your screens",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
+      "updated_at": "2026-09-01T22:55:42Z",
+      "hash": "26c308b2fd339df0136a360dcf62767d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375153assigncontentto-v0jihqcymnsi"
     }
   }
 }
