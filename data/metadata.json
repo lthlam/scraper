@@ -377,14 +377,6 @@
       "hash": "5e2d291c53e14864d1d18090d9dd363a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/30310366838803enablinglockd-v0rbbskzgx3j"
     },
-    "30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control": {
-      "id": 30304278652563,
-      "title": "How to Use the Mobile App for Remote Control",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-      "updated_at": "2025-09-04T20:14:54Z",
-      "hash": "d9b277a214792e2b47fe125218005d69",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/30304278652563howtousethemo-ebvhc9xzzwmh"
-    },
     "29792081890323-Guide-for-Creating-Content-with-OptiSigns": {
       "id": 29792081890323,
       "title": "Guide for Creating Content with OptiSigns",
@@ -1385,22 +1377,6 @@
       "hash": "be8cd1563c6cf4f46619ce2309d22d7f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050602413howtouseoverlay-2p9gy949ap9t"
     },
-    "360048914673-Edit-Screen-What-does-each-option-do": {
-      "id": 360048914673,
-      "title": "Edit Screen: What does each option do?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-      "updated_at": "2026-05-21T13:09:58Z",
-      "hash": "0290f4658a31a3581982e53859cb9597",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-iwdn6onwyxr1"
-    },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-08-17T15:21:01Z",
-      "hash": "1c058f9f769501cdc959e05357b110a3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-y250tztader4"
-    },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
       "title": "Amazon Fire Stick and security considerations",
@@ -2025,6 +2001,14 @@
       "hash": "9c6902aa6281bc98c8291ca60d896d06",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-ecsmn4ldug17"
     },
+    "360016375153-Assign-content-to-your-screens": {
+      "id": 360016375153,
+      "title": "Assign content to your screens",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
+      "updated_at": "2026-09-01T22:55:42Z",
+      "hash": "26c308b2fd339df0136a360dcf62767d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375153assigncontentto-v0jihqcymnsi"
+    },
     "44669013147923-Kiosk32": {
       "id": 44669013147923,
       "title": "Kiosk32",
@@ -2456,14 +2440,6 @@
       "updated_at": "2025-08-28T19:46:15Z",
       "hash": "27341d7bc60c88243a17eff2cc4e601c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060049534howtoexporthigh-ls93vccdn64h"
-    },
-    "12498801963027-Show-Offline-Indicator-feature": {
-      "id": 12498801963027,
-      "title": "Show Offline Indicator feature",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-      "updated_at": "2025-08-28T19:46:51Z",
-      "hash": "123a388fb48488ccd2230da33966059c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-vyb0ub785rsi"
     },
     "10259143299219-How-to-use-Website-Screenshot-app": {
       "id": 10259143299219,
@@ -3257,13 +3233,37 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "360016375153-Assign-content-to-your-screens": {
-      "id": 360016375153,
-      "title": "Assign content to your screens",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-      "updated_at": "2026-09-01T22:55:42Z",
-      "hash": "26c308b2fd339df0136a360dcf62767d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375153assigncontentto-v0jihqcymnsi"
+    "30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control": {
+      "id": 30304278652563,
+      "title": "How to Use the Mobile App for Remote Control",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
+      "updated_at": "2026-09-02T20:41:23Z",
+      "hash": "c987caf27d2d5c59c2b51387c3a6f35c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/30304278652563howtousethemo-eo5gz89v4gd7"
+    },
+    "360048914673-Edit-Screen-What-does-each-option-do": {
+      "id": 360048914673,
+      "title": "Edit Screen: What does each option do?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+      "updated_at": "2026-09-02T20:33:01Z",
+      "hash": "834b67be70875f99337136e0a6671401",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-v7s4u3vbb8rn"
+    },
+    "12498801963027-Show-Offline-Indicator-feature": {
+      "id": 12498801963027,
+      "title": "Show Offline Indicator feature",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
+      "updated_at": "2026-09-02T15:47:19Z",
+      "hash": "684e6636494417dcd237d4ba0d375b6a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-7x8yayarbcgz"
+    },
+    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "updated_at": "2026-09-02T20:00:13Z",
+      "hash": "d08e2982f3c88dd6ed1645e9827f3f69",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-uqj74ev92z68"
     }
   }
 }
