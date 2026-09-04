@@ -297,14 +297,6 @@
       "hash": "33e6241c28575bba374b71008eb40c5d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-uq7zriw1zmrq"
     },
-    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
-      "id": 33940834613139,
-      "title": "What Do I Get With an OptiSigns Free Plan?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "updated_at": "2026-03-27T20:38:29Z",
-      "hash": "a74fe20e6107383a459bcbaff76d5963",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-dsuktoyczs0e"
-    },
     "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
       "id": 33382537925267,
       "title": "Making a Video Wall with OptiSigns (Video Wall App)",
@@ -377,6 +369,14 @@
       "hash": "5e2d291c53e14864d1d18090d9dd363a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/30310366838803enablinglockd-v0rbbskzgx3j"
     },
+    "30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control": {
+      "id": 30304278652563,
+      "title": "How to Use the Mobile App for Remote Control",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
+      "updated_at": "2026-09-02T20:41:23Z",
+      "hash": "c987caf27d2d5c59c2b51387c3a6f35c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/30304278652563howtousethemo-eo5gz89v4gd7"
+    },
     "29792081890323-Guide-for-Creating-Content-with-OptiSigns": {
       "id": 29792081890323,
       "title": "Guide for Creating Content with OptiSigns",
@@ -384,14 +384,6 @@
       "updated_at": "2026-05-21T17:52:16Z",
       "hash": "6ee85957028e031271e5c73f3d0978d3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29792081890323guideforcreat-pkvuxyq4bhck"
-    },
-    "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes": {
-      "id": 29465595849235,
-      "title": "List of Supported Cities for Weather Wall City Themes",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "updated_at": "2026-04-08T13:41:37Z",
-      "hash": "a3f88342ac42334e5520c720712d70da",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29465595849235listofsupport-kokqoauzl9o1"
     },
     "29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player": {
       "id": 29238381023123,
@@ -552,14 +544,6 @@
       "updated_at": "2025-09-04T15:04:03Z",
       "hash": "c531274ea23875917e80419e3b8c982d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23566927217939howtousecheck-djeaz2ij3ybp"
-    },
-    "23565267463315-Engage-Plan-FAQs": {
-      "id": 23565267463315,
-      "title": "Engage Plan - FAQs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-      "updated_at": "2026-08-27T17:21:45Z",
-      "hash": "0059c488761bbf266a318005b458f76f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23565267463315engageplanfaq-xob2kb48sb74"
     },
     "23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model": {
       "id": 23274673797139,
@@ -816,14 +800,6 @@
       "updated_at": "2025-09-02T20:01:30Z",
       "hash": "d4c02acfb730824d94b8a5b30e6c20d2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-dvfnvv08ghnb"
-    },
-    "9169378546195-Data-Residency-and-OptiSigns": {
-      "id": 9169378546195,
-      "title": "Data Residency and OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "updated_at": "2026-06-05T14:25:01Z",
-      "hash": "a364174e8b34169123bcbbf564eb1fe7",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-4mcwm2z0mpvm"
     },
     "9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands": {
       "id": 9061950942995,
@@ -1377,6 +1353,14 @@
       "hash": "be8cd1563c6cf4f46619ce2309d22d7f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050602413howtouseoverlay-2p9gy949ap9t"
     },
+    "360048914673-Edit-Screen-What-does-each-option-do": {
+      "id": 360048914673,
+      "title": "Edit Screen: What does each option do?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+      "updated_at": "2026-09-02T20:33:01Z",
+      "hash": "834b67be70875f99337136e0a6671401",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-v7s4u3vbb8rn"
+    },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
       "title": "Amazon Fire Stick and security considerations",
@@ -1601,14 +1585,6 @@
       "hash": "f13321a5b05e07ffb225f4d79600caa9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-9drtjd72jxv3"
     },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-08-19T23:02:46Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-h8kyust4xl4c"
-    },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
       "title": "Does OptiSigns offer Non-profit/Education discount?",
@@ -1744,14 +1720,6 @@
       "updated_at": "2025-09-02T20:32:57Z",
       "hash": "f76d8cfe4b8c1ceb2656ced938e684fe",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041501494macosmd-v7g8trlflw29"
-    },
-    "360035739414-How-to-Preview-a-Screen": {
-      "id": 360035739414,
-      "title": "How to Preview a Screen",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-      "updated_at": "2026-05-17T21:11:45Z",
-      "hash": "671a77f5f3d797239a561701da62f195",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035739414howtopreviewasc-wbbjzicwx7eq"
     },
     "360024310813-How-to-use-a-PDF-with-OptiSigns": {
       "id": 360024310813,
@@ -2441,6 +2409,14 @@
       "hash": "27341d7bc60c88243a17eff2cc4e601c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060049534howtoexporthigh-ls93vccdn64h"
     },
+    "12498801963027-Show-Offline-Indicator-feature": {
+      "id": 12498801963027,
+      "title": "Show Offline Indicator feature",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
+      "updated_at": "2026-09-02T15:47:19Z",
+      "hash": "684e6636494417dcd237d4ba0d375b6a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-7x8yayarbcgz"
+    },
     "10259143299219-How-to-use-Website-Screenshot-app": {
       "id": 10259143299219,
       "title": "How to use Website Screenshot app",
@@ -2841,14 +2817,6 @@
       "hash": "93335c52fb0ac02fefabd6ed56481847",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055900513howtocreateandu-fw9m3vdlawaw"
     },
-    "360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app": {
-      "id": 360053993934,
-      "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-      "updated_at": "2026-07-21T05:24:44Z",
-      "hash": "78d3fc2fc58029796349acc460af5a98",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053993934howtousekioskli-dn81hkr2f2pw"
-    },
     "360052827713-How-to-Use-the-Flash-Message-App": {
       "id": 360052827713,
       "title": "How to Use the Flash Message App",
@@ -3233,37 +3201,69 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control": {
-      "id": 30304278652563,
-      "title": "How to Use the Mobile App for Remote Control",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-      "updated_at": "2026-09-02T20:41:23Z",
-      "hash": "c987caf27d2d5c59c2b51387c3a6f35c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/30304278652563howtousethemo-eo5gz89v4gd7"
+    "9169378546195-Data-Residency-and-OptiSigns": {
+      "id": 9169378546195,
+      "title": "Data Residency and OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+      "updated_at": "2026-09-03T14:57:01Z",
+      "hash": "918746c3f5db1a73f7bac253297bc1ef",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-ceq8tzs5uatd"
     },
-    "360048914673-Edit-Screen-What-does-each-option-do": {
-      "id": 360048914673,
-      "title": "Edit Screen: What does each option do?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-      "updated_at": "2026-09-02T20:33:01Z",
-      "hash": "834b67be70875f99337136e0a6671401",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-v7s4u3vbb8rn"
+    "360035739414-How-to-Preview-a-Screen": {
+      "id": 360035739414,
+      "title": "How to Preview a Screen",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+      "updated_at": "2026-09-03T10:41:51Z",
+      "hash": "925e32f19fc7cf9c1822103064a8e6cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035739414howtopreviewasc-xgl42ktaytjl"
     },
-    "12498801963027-Show-Offline-Indicator-feature": {
-      "id": 12498801963027,
-      "title": "Show Offline Indicator feature",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-      "updated_at": "2026-09-02T15:47:19Z",
-      "hash": "684e6636494417dcd237d4ba0d375b6a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-7x8yayarbcgz"
+    "360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app": {
+      "id": 360053993934,
+      "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
+      "updated_at": "2026-09-03T14:57:05Z",
+      "hash": "4594a6db6da3b9d20c7748c5b2ca1714",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053993934howtousekioskli-qveser42cqhq"
+    },
+    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
+      "id": 33940834613139,
+      "title": "What Do I Get With an OptiSigns Free Plan?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+      "updated_at": "2026-09-03T14:57:58Z",
+      "hash": "0d75f1d3d8aede1e3779480e6fec04a2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-tjd7cqy2psa6"
+    },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-09-03T15:56:32Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-1w8sly12wqcw"
+    },
+    "23565267463315-Engage-Plan-FAQs": {
+      "id": 23565267463315,
+      "title": "Engage Plan - FAQs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+      "updated_at": "2026-09-03T14:57:02Z",
+      "hash": "e2c8b6f52489796def53c77e7165da08",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23565267463315engageplanfaq-4b1fh86q6i7s"
+    },
+    "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes": {
+      "id": 29465595849235,
+      "title": "List of Supported Cities for Weather Wall City Themes",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+      "updated_at": "2026-09-03T16:49:43Z",
+      "hash": "a3f88342ac42334e5520c720712d70da",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29465595849235listofsupport-aa2dzqx2zou8"
     },
     "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
       "id": 360047275934,
       "title": "Whitelist OptiSigns IP addresses & ports",
       "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-09-02T20:00:13Z",
-      "hash": "d08e2982f3c88dd6ed1645e9827f3f69",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-uqj74ev92z68"
+      "updated_at": "2026-09-03T14:57:04Z",
+      "hash": "d2600a4e7361bb7a5ffdb085fb66acd6",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-jx7wuc7y1z60"
     }
   }
 }
