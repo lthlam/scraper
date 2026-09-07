@@ -337,14 +337,6 @@
       "hash": "4fbc81b00e4c64b02f2c1e4e0ba959e0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31960461758611howtoorderapr-9wn0cxifmho8"
     },
-    "31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync": {
-      "id": 31860170199955,
-      "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
-      "updated_at": "2025-09-04T20:31:25Z",
-      "hash": "5ca4ca23d6e0bb4785bf4aa81695eccd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31860170199955integratingpo-23vvvazfoknm"
-    },
     "31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices": {
       "id": 31695220475283,
       "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
@@ -896,6 +888,14 @@
       "updated_at": "2025-08-29T18:48:01Z",
       "hash": "91b30076deebbcf1711e5dd22c3e6f0d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416704273811manuallycontro-92xxzve8loda"
+    },
+    "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns": {
+      "id": 4416542923667,
+      "title": "How to Perform Mass Provisioning with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
+      "updated_at": "2026-09-05T10:20:27Z",
+      "hash": "a83da1bacbc845f7d2e2400b235118e4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416542923667howtoperformma-4v8qc90enqa3"
     },
     "4414552808467-Introduction": {
       "id": 4414552808467,
@@ -1617,6 +1617,14 @@
       "hash": "f13321a5b05e07ffb225f4d79600caa9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-9drtjd72jxv3"
     },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-09-05T20:36:08Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-q233dfzlcwh4"
+    },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
       "title": "Does OptiSigns offer Non-profit/Education discount?",
@@ -1792,6 +1800,14 @@
       "updated_at": "2026-09-04T16:55:12Z",
       "hash": "3b6dbb9b052ed9bb89a4beb8aa886166",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/38680194603155promaxmd-dqqba6lp0sas"
+    },
+    "35626165056787-How-to-Contact-OptiSigns-Support": {
+      "id": 35626165056787,
+      "title": "How to Contact OptiSigns Support",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+      "updated_at": "2026-09-05T16:01:39Z",
+      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-cobl7th7pp63"
     },
     "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync": {
       "id": 29838866920211,
@@ -3241,29 +3257,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "35626165056787-How-to-Contact-OptiSigns-Support": {
-      "id": 35626165056787,
-      "title": "How to Contact OptiSigns Support",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
-      "updated_at": "2026-09-05T16:01:39Z",
-      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-cobl7th7pp63"
-    },
-    "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns": {
-      "id": 4416542923667,
-      "title": "How to Perform Mass Provisioning with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
-      "updated_at": "2026-09-05T10:20:27Z",
-      "hash": "a83da1bacbc845f7d2e2400b235118e4",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416542923667howtoperformma-4v8qc90enqa3"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-09-05T20:36:08Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-q233dfzlcwh4"
+    "31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync": {
+      "id": 31860170199955,
+      "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
+      "updated_at": "2026-09-07T01:18:36Z",
+      "hash": "5ca4ca23d6e0bb4785bf4aa81695eccd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31860170199955integratingpo-1kdp9nplzfkw"
     }
   }
 }
