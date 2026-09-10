@@ -537,14 +537,6 @@
       "hash": "901a3c38b8e34a7665a94440c0547c90",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/25127398699667howtoaddaqrco-7m5b06ry8zl4"
     },
-    "24338756617747-What-Are-Feeds-and-How-to-Use-It": {
-      "id": 24338756617747,
-      "title": "What Are Feeds and How to Use It",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It",
-      "updated_at": "2025-08-28T18:46:57Z",
-      "hash": "dcb11a2b71fda8979c36c07814d43472",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/24338756617747whatarefeedsa-jwbwhn6xk7ex"
-    },
     "23629657318547-How-to-get-Google-Review-link": {
       "id": 23629657318547,
       "title": "How to get Google Review link",
@@ -560,6 +552,14 @@
       "updated_at": "2025-09-04T15:04:03Z",
       "hash": "c531274ea23875917e80419e3b8c982d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23566927217939howtousecheck-djeaz2ij3ybp"
+    },
+    "23565267463315-Engage-Plan-FAQs": {
+      "id": 23565267463315,
+      "title": "Engage Plan - FAQs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+      "updated_at": "2026-09-08T04:06:22Z",
+      "hash": "02397dea98f653e4a5f23818cd2b959f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23565267463315engageplanfaq-byq0x5zcozmr"
     },
     "23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model": {
       "id": 23274673797139,
@@ -632,14 +632,6 @@
       "updated_at": "2026-09-04T09:52:58Z",
       "hash": "ab40d20560b313192e38fa695c0acb99",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20425113117459navigatingthr-kwc5zq8i86qh"
-    },
-    "20153471319187-External-Storage-on-OptiSigns-Devices": {
-      "id": 20153471319187,
-      "title": "External Storage on OptiSigns Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
-      "updated_at": "2026-06-05T16:36:27Z",
-      "hash": "004f2adfa6594d5ea08eab32f076f48c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20153471319187externalstora-hio0k66bkn2f"
     },
     "20062273670163-How-to-Control-and-Schedule-Playlist-Items": {
       "id": 20062273670163,
@@ -793,6 +785,14 @@
       "hash": "f5d60d87a9b07ef9c1f38ec9f1adbae8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13097501958291optisignsiots-rkd9s2opk0sw"
     },
+    "12947300131731-Show-Hide-downloading-status-on-your-Player": {
+      "id": 12947300131731,
+      "title": "Show/Hide downloading status on your Player",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player",
+      "updated_at": "2026-09-08T08:53:05Z",
+      "hash": "bc1904e9758ecb974361e0ddfa4aaf9e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12947300131731showhidedownl-5mnyqcm3wjvc"
+    },
     "11412877112595-What-if-the-OptiSigns-app-does-not-auto-start-on-an-Android-TV": {
       "id": 11412877112595,
       "title": "What if the OptiSigns app does not auto-start on an Android TV?",
@@ -841,14 +841,6 @@
       "hash": "8dd3d95c4ac2026dcbb1f15e8b0ee4a9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/7865572050195howtohidecerta-448rzdqoa8n3"
     },
-    "7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website": {
-      "id": 7592123111699,
-      "title": "Host your HTML/JS or Create your own Web App with Hosted Website",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
-      "updated_at": "2025-08-29T20:55:40Z",
-      "hash": "be363ef0543074eef72e97e57125ce23",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/7592123111699hostyourhtmljs-m6zrd91xotwi"
-    },
     "7589195635219-Using-eyedrop-feature-to-select-color-in-Designer-app": {
       "id": 7589195635219,
       "title": "Using eyedrop feature to select color in Designer app",
@@ -872,6 +864,14 @@
       "updated_at": "2025-08-28T19:56:40Z",
       "hash": "303adbb9352d0988943d58c646764196",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4428997257491howtoorganizet-fz46yhdlbnst"
+    },
+    "4416704273811-Manually-control-playlist-playback-with-OptiSigns": {
+      "id": 4416704273811,
+      "title": "Manually control playlist playback with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns",
+      "updated_at": "2026-09-08T16:46:49Z",
+      "hash": "af3d7fee6558584bae026fb0a185ff4a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416704273811manuallycontro-221arsq949c2"
     },
     "4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns": {
       "id": 4416542923667,
@@ -1417,6 +1417,14 @@
       "hash": "f3548252616d849bca47179a68d3af59",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360043670633organizingyourf-nj2pf0m7og4w"
     },
+    "360043621953-How-to-Create-and-Use-Nested-Playlists": {
+      "id": 360043621953,
+      "title": "How to Create and Use Nested Playlists",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
+      "updated_at": "2026-09-08T19:09:15Z",
+      "hash": "c0412220b0cfc2ea9d616295ca48862b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360043621953howtocreateandu-3sx8oy8lgz4o"
+    },
     "360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time": {
       "id": 360042736794,
       "title": "How to set an asset to Live or Expire at specific time",
@@ -1497,14 +1505,6 @@
       "hash": "72b0a24b238968854ef67270440cbfab",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037391854howtodisplaycon-upq5xdotzvb5"
     },
-    "360036465673-Adjusting-social-news-wall-speeds": {
-      "id": 360036465673,
-      "title": "Adjusting social, news wall speeds",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360036465673-Adjusting-social-news-wall-speeds",
-      "updated_at": "2025-09-04T16:12:31Z",
-      "hash": "c3df7df15b4b16c82d8de5d2c0b3ffe8",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360036465673adjustingsocial-8die3gqd2coe"
-    },
     "360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration": {
       "id": 360035538093,
       "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
@@ -1553,6 +1553,14 @@
       "hash": "7bb301bad0456ddae8c04264009d431d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026610194stretchyourimag-fyyvwvupyh84"
     },
+    "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar": {
+      "id": 360026559613,
+      "title": "How to Create a Scrolling Strip or Bar",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
+      "updated_at": "2026-09-08T20:13:08Z",
+      "hash": "94a83f19c5173600ce917e1c8847e850",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559613howtocreateascr-qpaqa1yf8n5a"
+    },
     "360026559573-How-to-Create-and-Use-the-Split-Screen-App": {
       "id": 360026559573,
       "title": "How to Create and Use the Split Screen App",
@@ -1560,6 +1568,14 @@
       "updated_at": "2026-08-19T14:57:06Z",
       "hash": "7383e52539effdd45b89461bc1f44041",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559573howtocreateandu-pjvakuilpy5e"
+    },
+    "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets": {
+      "id": 360025661053,
+      "title": "How Can I Remove/Delete Uploaded Files or Assets?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
+      "updated_at": "2026-09-08T20:49:51Z",
+      "hash": "79c5e4df52273e7140a55b4139e37730",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360025661053howcaniremovede-h4d0w61a7z2x"
     },
     "360025626853-How-to-start-OptiSigns-automatically-when-devices-boot-up": {
       "id": 360025626853,
@@ -1681,13 +1697,13 @@
       "hash": "06920e69e04233966f4b71c84279a2cd",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4472060158355howtogetthelis-khuyq2co9mah"
     },
-    "4414563797139-Generate-Manage-OptiSigns-API-Key": {
-      "id": 4414563797139,
-      "title": "Generate & Manage OptiSigns API Key",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key",
-      "updated_at": "2025-09-04T18:50:38Z",
-      "hash": "7c80b45de4bbc1e5193c1c6484c5c427",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414563797139generatemanage-qhhkhbfgxzdv"
+    "360054557434-View-Billing-History-and-Download-Receipts": {
+      "id": 360054557434,
+      "title": "View Billing History and Download Receipts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
+      "updated_at": "2026-09-08T21:26:23Z",
+      "hash": "fd6574c1084c836d5b8dbcaefa11617b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054557434viewbillinghist-tgyg65hg9lgo"
     },
     "360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account": {
       "id": 360050855313,
@@ -1961,14 +1977,6 @@
       "hash": "dcef5ad307f7274d0f6ff05c4d8fada8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019588654howtotellwhichd-r63r5lmutr7z"
     },
-    "360017964153-How-to-Use-Weather-Apps-in-OptiSigns": {
-      "id": 360017964153,
-      "title": "How to Use Weather Apps in OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "updated_at": "2025-09-02T19:43:55Z",
-      "hash": "9c6902aa6281bc98c8291ca60d896d06",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-ecsmn4ldug17"
-    },
     "360016375153-Assign-content-to-your-screens": {
       "id": 360016375153,
       "title": "Assign content to your screens",
@@ -2096,14 +2104,6 @@
       "updated_at": "2025-10-01T19:04:05Z",
       "hash": "e52d6c759736cbfe35c57a2d8a43519b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35337746613139howtocreatecu-nsj62x6eophy"
-    },
-    "34087061669523-Amazon-Signage-Stick": {
-      "id": 34087061669523,
-      "title": "Amazon Signage Stick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-      "updated_at": "2025-09-02T18:43:56Z",
-      "hash": "0ed142f389f58d7e9d5947d28aa71de0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-48lsosoe3cvb"
     },
     "14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing": {
       "id": 14502723487379,
@@ -2233,6 +2233,14 @@
       "hash": "207946bdd1dab732286c70e317025360",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/42313875427859brandkitanden-zd8w1cwvn7r9"
     },
+    "21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script": {
+      "id": 21449362442003,
+      "title": "Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script",
+      "updated_at": "2026-09-08T21:23:44Z",
+      "hash": "c084f55c2071fb070862b92af9fb8637",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/21449362442003updateoptisig-zk7q7vpdjbek"
+    },
     "12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns": {
       "id": 12454101966355,
       "title": "How to use the MustHaveMenus  app with OptiSigns",
@@ -2241,6 +2249,14 @@
       "hash": "1151c55a82ed17d0ef3bfedada6b8536",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12454101966355howtousethemu-idw2oandv71n"
     },
+    "4414558369811-Pagination": {
+      "id": 4414558369811,
+      "title": "Pagination",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination",
+      "updated_at": "2026-09-08T21:23:42Z",
+      "hash": "5015e0996e10f8046f5ed6feb243a087",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414558369811paginationmd-s4y32mfbit4q"
+    },
     "1500009498782-How-to-replace-update-an-existing-asset-image-video-documents": {
       "id": 1500009498782,
       "title": "How to replace/update an existing asset (image, video, documents)",
@@ -2248,6 +2264,14 @@
       "updated_at": "2025-08-29T19:08:59Z",
       "hash": "ba2b63826db8f7e85402a7f4f34f3783",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009498782howtoreplaceup-roiv8dv88zl8"
+    },
+    "1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL": {
+      "id": 1500009042742,
+      "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
+      "updated_at": "2026-09-08T08:33:10Z",
+      "hash": "90832f400c31cfb5ea373b031262405b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009042742fireostvsamazo-u7pss5bo31z2"
     },
     "1500003244381-About-the-OnHold-Devices-Folder": {
       "id": 1500003244381,
@@ -2329,6 +2353,14 @@
       "hash": "5af1c020ea1575f8015a8c754a4cadf6",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/36558469962643subscriptionf-1b87c48enbml"
     },
+    "360019710493-How-to-display-Google-Slide-in-Portrait-Mode": {
+      "id": 360019710493,
+      "title": "How to display Google Slide in Portrait Mode",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode",
+      "updated_at": "2026-09-08T21:26:00Z",
+      "hash": "7adb236553f598f77c06dd63f5224ffa",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019710493howtodisplaygoo-o9lj2chj87qy"
+    },
     "360016376793-What-happen-if-internet-connection-is-lost": {
       "id": 360016376793,
       "title": "What happen if internet connection is lost?",
@@ -2369,6 +2401,14 @@
       "hash": "0dda605e16b6387bc126296b94b2bac1",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414558392339apireferencemd-3mojzqskqzqt"
     },
+    "360060049534-How-to-export-high-resolution-canvas-template-designs": {
+      "id": 360060049534,
+      "title": "How to export high resolution canvas, template designs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs",
+      "updated_at": "2026-09-08T04:06:29Z",
+      "hash": "7dd3690cec9c200a84689be1064c728c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060049534howtoexporthigh-n9mmh1miizia"
+    },
     "12498801963027-Show-Offline-Indicator-feature": {
       "id": 12498801963027,
       "title": "Show Offline Indicator feature",
@@ -2376,6 +2416,14 @@
       "updated_at": "2026-09-07T11:26:19Z",
       "hash": "684e6636494417dcd237d4ba0d375b6a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-r9fhm8ysfgwp"
+    },
+    "10259143299219-How-to-Use-the-Website-Screenshot-app": {
+      "id": 10259143299219,
+      "title": "How to Use the Website Screenshot app",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-Use-the-Website-Screenshot-app",
+      "updated_at": "2026-09-08T21:51:42Z",
+      "hash": "3e8e191561e6c78fa0aa28e413afde40",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10259143299219howtousethewe-j1t0iflwwh1k"
     },
     "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
       "id": 4414496579475,
@@ -2593,14 +2641,6 @@
       "hash": "d64f45590fab8bf2b9d7c99b5c5d8af7",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4409448788499howtousemrssfe-0p4e4ehppb8p"
     },
-    "4408052949139-How-to-use-Calendar-Mix-app": {
-      "id": 4408052949139,
-      "title": "How to use Calendar Mix app",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app",
-      "updated_at": "2025-09-04T14:10:19Z",
-      "hash": "449716420df3ba30752744c5574fe968",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408052949139howtousecalend-7lcov7sfpx7p"
-    },
     "4407335862931-How-to-use-Slack-App": {
       "id": 4407335862931,
       "title": "How to use Slack App",
@@ -2640,14 +2680,6 @@
       "updated_at": "2025-09-02T18:26:51Z",
       "hash": "d9d1bb9ccf2a5f3c2ba43e06cdcd0d15",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403267825171howtousethesoc-flft3zugxub7"
-    },
-    "1500011611322-How-to-use-the-CBC-News-App": {
-      "id": 1500011611322,
-      "title": "How to use the CBC News App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App",
-      "updated_at": "2025-10-10T18:50:47Z",
-      "hash": "e928cd95467c8af414cfe557a3a90cef",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500011611322howtousethecbc-sey893niup8i"
     },
     "1500009492202-How-to-use-On-This-Day-app": {
       "id": 1500009492202,
@@ -2841,14 +2873,6 @@
       "hash": "cce44f14823583f1ca086d68b062e313",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049875794howtousefollowu-q2iqrb2ld065"
     },
-    "360049872414-How-to-use-Facebook-Video-App": {
-      "id": 360049872414,
-      "title": "How to use Facebook Video App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App",
-      "updated_at": "2025-09-05T14:55:21Z",
-      "hash": "4bcf3466ffcb5afd23e178333ac4ec1b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049872414howtousefaceboo-a801kites5l6"
-    },
     "360050665413-How-to-use-Dropbox-App": {
       "id": 360050665413,
       "title": "How to use Dropbox App",
@@ -2881,6 +2905,22 @@
       "hash": "9078224127dd4c715b94a2e6af3732de",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049159814howtousewallsio-j7ep1uk6eykl"
     },
+    "360049156234-How-to-Use-the-Currency-Exchange-App": {
+      "id": 360049156234,
+      "title": "How to Use the Currency Exchange App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-Use-the-Currency-Exchange-App",
+      "updated_at": "2026-09-08T19:52:57Z",
+      "hash": "04e01054b11ee2f6bce952f64dd28a09",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049156234howtousethecurr-r6m0rgaktugi"
+    },
+    "360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App": {
+      "id": 360049919933,
+      "title": "How to Use the Crypto Index & Crypto Exchange App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App",
+      "updated_at": "2026-09-08T20:18:39Z",
+      "hash": "fb9c5118eaa2c0cba2dfca4552f8876b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049919933howtousethecryp-e6m4ttu9771x"
+    },
     "360049155994-How-to-use-Market-Index-App": {
       "id": 360049155994,
       "title": "How to use Market Index App",
@@ -2896,14 +2936,6 @@
       "updated_at": "2025-08-29T19:49:24Z",
       "hash": "f35e2cb6ddd6cccf8a096983c79fc483",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049518313howtousegoogled-2qpmwhiflo0v"
-    },
-    "360049030453-How-to-use-the-Motivational-Quote-App": {
-      "id": 360049030453,
-      "title": "How to use the Motivational Quote App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App",
-      "updated_at": "2025-08-29T21:33:29Z",
-      "hash": "6cb3d38e6f2dae57e3dbb77cd5ebaa6d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049030453howtousethemoti-pxiuvn382vcp"
     },
     "360048660813-How-to-use-Facebook-Live-Stream-App": {
       "id": 360048660813,
@@ -2937,14 +2969,6 @@
       "hash": "2919cbefab5b73657c067004f1889895",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360046859534howtousetwitcha-oqg4ajvg3a17"
     },
-    "360044619014-How-to-use-the-Facebook-Counter-App": {
-      "id": 360044619014,
-      "title": "How to use the Facebook Counter App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App",
-      "updated_at": "2026-02-02T15:31:45Z",
-      "hash": "06c9f295bccda7ac8c66be2e0ac9e32b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044619014howtousetheface-zyxihhy6ahlc"
-    },
     "360045121233-How-to-use-the-New-York-Times-app": {
       "id": 360045121233,
       "title": "How to use the New York Times app",
@@ -2953,14 +2977,6 @@
       "hash": "c43ed388d214f976669dda3a44ec26c4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360045121233howtousethenewy-gpdfnerz1vjq"
     },
-    "360044613874-How-to-use-the-Guardian-App": {
-      "id": 360044613874,
-      "title": "How to use the Guardian App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App",
-      "updated_at": "2025-10-10T19:42:20Z",
-      "hash": "c24120458ac2564bdf06971e3cbb9e80",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044613874howtousetheguar-i252ayq7tinp"
-    },
     "360045120133-How-to-use-the-Wall-Street-Journal-App": {
       "id": 360045120133,
       "title": "How to use the Wall Street Journal App",
@@ -2968,14 +2984,6 @@
       "updated_at": "2025-10-10T19:56:12Z",
       "hash": "226c739dda9f952eb371545924e7ec51",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360045120133howtousethewall-yx8q2j92j1es"
-    },
-    "360044115513-How-to-Use-the-Stock-App": {
-      "id": 360044115513,
-      "title": "How to Use the Stock App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
-      "updated_at": "2026-01-26T17:43:31Z",
-      "hash": "5245a7bf7c34b24e1b57dadab0b56f9d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044115513howtousethestoc-v5ytfnyorvpr"
     },
     "360042950593-How-to-Use-the-Simple-Clock-App": {
       "id": 360042950593,
@@ -3009,29 +3017,13 @@
       "hash": "c5b75e3b8e52352b49fb1c8389fedee3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041638433howtousethecoun-e1wx8w1rsfff"
     },
-    "360040991534-How-to-use-the-TechCrunch-News-App": {
-      "id": 360040991534,
-      "title": "How to use the TechCrunch News App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App",
-      "updated_at": "2025-10-10T19:57:42Z",
-      "hash": "cd3aa3a231102a5996bc3c7411488d60",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040991534howtousethetech-6xav92zlp6yf"
-    },
-    "360040991474-How-to-use-the-ESPN-News-App": {
-      "id": 360040991474,
-      "title": "How to use the ESPN News App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App",
-      "updated_at": "2025-10-10T18:54:38Z",
-      "hash": "867c380930412d19a92303c5f17e8f27",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040991474howtousetheespn-4gqx0x0wp4tw"
-    },
-    "360041476213-How-to-use-the-CNN-News-App": {
-      "id": 360041476213,
-      "title": "How to use the CNN News App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App",
-      "updated_at": "2025-09-30T20:41:34Z",
-      "hash": "dbcc05d7dd6d89a916e18ab648db2350",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041476213howtousethecnnn-90ptzb5d5u7t"
+    "360041481553-How-to-Use-the-Simple-Calendar-App": {
+      "id": 360041481553,
+      "title": "How to Use the Simple Calendar App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-Use-the-Simple-Calendar-App",
+      "updated_at": "2026-09-08T19:14:39Z",
+      "hash": "9139cc5b0ed79eb60e0c6d2c42b71be8",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041481553howtousethesimp-q6z1uw3nfsuj"
     },
     "360039264133-How-to-create-and-use-QR-Code-Call-To-Action-app": {
       "id": 360039264133,
@@ -3040,6 +3032,14 @@
       "updated_at": "2025-08-29T18:55:06Z",
       "hash": "81326f3900e8b85750db2fb667650692",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039264133howtocreateandu-x1l56uyssx2i"
+    },
+    "360038769394-How-to-Create-and-Use-the-Yelp-App": {
+      "id": 360038769394,
+      "title": "How to Create and Use the Yelp App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App",
+      "updated_at": "2026-09-08T20:18:24Z",
+      "hash": "61995fb53a353e1d2c6b022f6aefb121",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038769394howtocreateandu-o40w3nhm8fgu"
     },
     "360037463934-How-to-create-and-use-Google-Reviews-Wall": {
       "id": 360037463934,
@@ -3081,14 +3081,6 @@
       "hash": "92c7ad0b6ce2c667bcdd7293c492e619",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-eh829zfbwnsc"
     },
-    "360023848334-How-to-Use-the-Facebook-Page-App": {
-      "id": 360023848334,
-      "title": "How to Use the Facebook Page App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
-      "updated_at": "2026-02-02T17:17:28Z",
-      "hash": "942082160a4f3a399f5ec8bdc4984880",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360023848334howtousetheface-nc1qednlthhm"
-    },
     "360016375573-How-to-use-published-Google-Slides-with-OptiSigns-old-way": {
       "id": 360016375573,
       "title": "How to use published Google Slides with OptiSigns (old way)",
@@ -3096,14 +3088,6 @@
       "updated_at": "2025-09-02T18:55:54Z",
       "hash": "707e7909d106bcd0ec9c0df747dd0328",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375573howtousepublish-ateklsp4dt3a"
-    },
-    "360022393473-How-to-use-the-News-App": {
-      "id": 360022393473,
-      "title": "How to use the News App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-use-the-News-App",
-      "updated_at": "2025-09-30T20:42:39Z",
-      "hash": "b83bc5e5a060782773ed3619cd2078af",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360022393473howtousethenews-6uwgbbph1pq3"
     },
     "360019517953-How-to-use-Google-Calendar-with-OptiSigns": {
       "id": 360019517953,
@@ -3129,141 +3113,149 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-3zx7ogg1vja8"
     },
-    "360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App": {
-      "id": 360049919933,
-      "title": "How to Use the Crypto Index & Crypto Exchange App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App",
-      "updated_at": "2026-09-08T20:18:39Z",
-      "hash": "fb9c5118eaa2c0cba2dfca4552f8876b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049919933howtousethecryp-e6m4ttu9771x"
+    "4414563797139-Generate-Manage-an-OptiSigns-API-Key": {
+      "id": 4414563797139,
+      "title": "Generate & Manage an OptiSigns API Key",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key",
+      "updated_at": "2026-09-09T21:49:12Z",
+      "hash": "f79fff58829f514116c5391d74cd9a01",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414563797139generatemanage-0l9m2nye0vlw"
     },
-    "360041481553-How-to-Use-the-Simple-Calendar-App": {
-      "id": 360041481553,
-      "title": "How to Use the Simple Calendar App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-Use-the-Simple-Calendar-App",
-      "updated_at": "2026-09-08T19:14:39Z",
-      "hash": "9139cc5b0ed79eb60e0c6d2c42b71be8",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041481553howtousethesimp-q6z1uw3nfsuj"
+    "4408052949139-How-to-Use-the-Calendar-Mix-app": {
+      "id": 4408052949139,
+      "title": "How to Use the Calendar Mix app",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
+      "updated_at": "2026-09-09T15:32:17Z",
+      "hash": "74e92c857bfe5474fb08a0cec746b224",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408052949139howtousethecal-6ewjw8kz6xt7"
     },
-    "360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets": {
-      "id": 360025661053,
-      "title": "How Can I Remove/Delete Uploaded Files or Assets?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
-      "updated_at": "2026-09-08T20:49:51Z",
-      "hash": "79c5e4df52273e7140a55b4139e37730",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360025661053howcaniremovede-h4d0w61a7z2x"
+    "360044619014-How-to-Use-the-Facebook-Counter-App": {
+      "id": 360044619014,
+      "title": "How to Use the Facebook Counter App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
+      "updated_at": "2026-09-09T15:32:49Z",
+      "hash": "e2b931317d296f6eab78cda2f6dde242",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044619014howtousetheface-mrtajyt26yvs"
     },
-    "360054557434-View-Billing-History-and-Download-Receipts": {
-      "id": 360054557434,
-      "title": "View Billing History and Download Receipts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
-      "updated_at": "2026-09-08T21:26:23Z",
-      "hash": "fd6574c1084c836d5b8dbcaefa11617b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054557434viewbillinghist-tgyg65hg9lgo"
+    "360022393473-How-to-Use-the-News-App": {
+      "id": 360022393473,
+      "title": "How to Use the News App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App",
+      "updated_at": "2026-09-09T21:52:52Z",
+      "hash": "970addfad181697e8eace45aa74c2d2d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360022393473howtousethenews-f7fckwrkqegr"
     },
-    "10259143299219-How-to-Use-the-Website-Screenshot-app": {
-      "id": 10259143299219,
-      "title": "How to Use the Website Screenshot app",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-Use-the-Website-Screenshot-app",
-      "updated_at": "2026-09-08T21:51:42Z",
-      "hash": "3e8e191561e6c78fa0aa28e413afde40",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10259143299219howtousethewe-j1t0iflwwh1k"
+    "360040991474-How-to-Use-the-ESPN-News-App": {
+      "id": 360040991474,
+      "title": "How to Use the ESPN News App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App",
+      "updated_at": "2026-09-09T21:57:39Z",
+      "hash": "30f6c8840f3d23e5ed8655277534be75",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040991474howtousetheespn-dq0bn3yp0mzi"
     },
-    "360049156234-How-to-Use-the-Currency-Exchange-App": {
-      "id": 360049156234,
-      "title": "How to Use the Currency Exchange App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-Use-the-Currency-Exchange-App",
-      "updated_at": "2026-09-08T19:52:57Z",
-      "hash": "04e01054b11ee2f6bce952f64dd28a09",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049156234howtousethecurr-r6m0rgaktugi"
+    "20153471319187-External-Storage-on-OptiSigns-Devices": {
+      "id": 20153471319187,
+      "title": "External Storage on OptiSigns Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
+      "updated_at": "2026-09-09T14:46:27Z",
+      "hash": "db56aa7442e4f087a60d5dc5522f205b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20153471319187externalstora-q8xuj34980ia"
     },
-    "360038769394-How-to-Create-and-Use-the-Yelp-App": {
-      "id": 360038769394,
-      "title": "How to Create and Use the Yelp App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App",
-      "updated_at": "2026-09-08T20:18:24Z",
-      "hash": "61995fb53a353e1d2c6b022f6aefb121",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038769394howtocreateandu-o40w3nhm8fgu"
+    "360023848334-How-to-Use-the-Facebook-Page-App": {
+      "id": 360023848334,
+      "title": "How to Use the Facebook Page App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
+      "updated_at": "2026-09-09T16:20:47Z",
+      "hash": "f261c2be5bb2e8068946eb4c1f5a39b9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360023848334howtousetheface-1hkbu65erycg"
     },
-    "1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL": {
-      "id": 1500009042742,
-      "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-      "updated_at": "2026-09-08T08:33:10Z",
-      "hash": "90832f400c31cfb5ea373b031262405b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009042742fireostvsamazo-u7pss5bo31z2"
+    "7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website": {
+      "id": 7592123111699,
+      "title": "Host your HTML/JS or Create your own Web App with Hosted Website",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
+      "updated_at": "2026-09-09T19:14:29Z",
+      "hash": "fd129a1e1d175004b4eb97ede4ef4cfc",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/7592123111699hostyourhtmljs-9da9ie0o9ygk"
     },
-    "23565267463315-Engage-Plan-FAQs": {
-      "id": 23565267463315,
-      "title": "Engage Plan - FAQs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-      "updated_at": "2026-09-08T04:06:22Z",
-      "hash": "02397dea98f653e4a5f23818cd2b959f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23565267463315engageplanfaq-byq0x5zcozmr"
+    "34087061669523-Amazon-Signage-Stick": {
+      "id": 34087061669523,
+      "title": "Amazon Signage Stick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
+      "updated_at": "2026-09-09T07:45:55Z",
+      "hash": "32de111c8a2675132b62bed16761b5c9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-5pycfzs4g8s7"
     },
-    "360043621953-How-to-Create-and-Use-Nested-Playlists": {
-      "id": 360043621953,
-      "title": "How to Create and Use Nested Playlists",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
-      "updated_at": "2026-09-08T19:09:15Z",
-      "hash": "c0412220b0cfc2ea9d616295ca48862b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360043621953howtocreateandu-3sx8oy8lgz4o"
+    "1500011611322-How-to-use-the-CBC-News-App": {
+      "id": 1500011611322,
+      "title": "How to use the CBC News App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App",
+      "updated_at": "2026-09-09T19:26:10Z",
+      "hash": "5c66022793f532206c6c1c9a8a9805f7",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500011611322howtousethecbc-8u848smvpn8i"
     },
-    "360060049534-How-to-export-high-resolution-canvas-template-designs": {
-      "id": 360060049534,
-      "title": "How to export high resolution canvas, template designs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs",
-      "updated_at": "2026-09-08T04:06:29Z",
-      "hash": "7dd3690cec9c200a84689be1064c728c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060049534howtoexporthigh-n9mmh1miizia"
+    "360044115513-How-to-Use-the-Stock-App": {
+      "id": 360044115513,
+      "title": "How to Use the Stock App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
+      "updated_at": "2026-09-09T19:22:54Z",
+      "hash": "4f731d625599cd8677dd19538908eecd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044115513howtousethestoc-om8ctk7wla8d"
     },
-    "4414558369811-Pagination": {
-      "id": 4414558369811,
-      "title": "Pagination",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination",
-      "updated_at": "2026-09-08T21:23:42Z",
-      "hash": "5015e0996e10f8046f5ed6feb243a087",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414558369811paginationmd-s4y32mfbit4q"
+    "360040991534-How-to-use-the-TechCrunch-News-App": {
+      "id": 360040991534,
+      "title": "How to use the TechCrunch News App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App",
+      "updated_at": "2026-09-09T20:54:43Z",
+      "hash": "c12fa9b22390631c8db3eac95dff49bf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040991534howtousethetech-091urzlsrfb1"
     },
-    "4416704273811-Manually-control-playlist-playback-with-OptiSigns": {
-      "id": 4416704273811,
-      "title": "Manually control playlist playback with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns",
-      "updated_at": "2026-09-08T16:46:49Z",
-      "hash": "af3d7fee6558584bae026fb0a185ff4a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4416704273811manuallycontro-221arsq949c2"
+    "360044613874-How-to-Use-the-Guardian-News-App": {
+      "id": 360044613874,
+      "title": "How to Use the Guardian News App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App",
+      "updated_at": "2026-09-09T21:32:02Z",
+      "hash": "0ca3bf9dfb4cad1b03f8034a9860965e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360044613874howtousetheguar-atpdzolxu4dn"
     },
-    "360019710493-How-to-display-Google-Slide-in-Portrait-Mode": {
-      "id": 360019710493,
-      "title": "How to display Google Slide in Portrait Mode",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode",
-      "updated_at": "2026-09-08T21:26:00Z",
-      "hash": "7adb236553f598f77c06dd63f5224ffa",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019710493howtodisplaygoo-o9lj2chj87qy"
+    "24338756617747-Feeds-and-How-to-Use-Them": {
+      "id": 24338756617747,
+      "title": "Feeds and How to Use Them",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them",
+      "updated_at": "2026-09-09T21:11:45Z",
+      "hash": "44c2d4c5a9f35f775fb7c51a7036e373",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/24338756617747feedsandhowto-yuqo8tuqppqv"
     },
-    "21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script": {
-      "id": 21449362442003,
-      "title": "Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script",
-      "updated_at": "2026-09-08T21:23:44Z",
-      "hash": "c084f55c2071fb070862b92af9fb8637",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/21449362442003updateoptisig-zk7q7vpdjbek"
+    "360041476213-How-to-use-the-CNN-Wall-App": {
+      "id": 360041476213,
+      "title": "How to use the CNN Wall App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App",
+      "updated_at": "2026-09-09T17:00:22Z",
+      "hash": "08fa0b69207e578015df5243714d88e9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041476213howtousethecnnw-an6swty2q9jw"
     },
-    "12947300131731-Show-Hide-downloading-status-on-your-Player": {
-      "id": 12947300131731,
-      "title": "Show/Hide downloading status on your Player",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player",
-      "updated_at": "2026-09-08T08:53:05Z",
-      "hash": "bc1904e9758ecb974361e0ddfa4aaf9e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12947300131731showhidedownl-5mnyqcm3wjvc"
+    "360049030453-How-to-use-the-Motivational-Quote-App": {
+      "id": 360049030453,
+      "title": "How to use the Motivational Quote App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App",
+      "updated_at": "2026-09-09T20:46:35Z",
+      "hash": "7277cb21e806bfebf2b572fea2fe777f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049030453howtousethemoti-ettu1ra3xr0f"
     },
-    "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar": {
-      "id": 360026559613,
-      "title": "How to Create a Scrolling Strip or Bar",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
-      "updated_at": "2026-09-08T20:13:08Z",
-      "hash": "94a83f19c5173600ce917e1c8847e850",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559613howtocreateascr-qpaqa1yf8n5a"
+    "360017964153-How-to-Use-Weather-Apps-in-OptiSigns": {
+      "id": 360017964153,
+      "title": "How to Use Weather Apps in OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
+      "updated_at": "2026-09-09T16:30:11Z",
+      "hash": "95ad3376723d8a6d55ef25e10cedca81",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-rc1tf0trs6x1"
+    },
+    "360049872414-How-to-use-Facebook-Video-App": {
+      "id": 360049872414,
+      "title": "How to use Facebook Video App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App",
+      "updated_at": "2026-09-09T14:23:01Z",
+      "hash": "010c4acbce02fb03598e013b1967f416",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049872414howtousefaceboo-6dj3kb2j5mnm"
     }
   }
 }
