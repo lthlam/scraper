@@ -425,6 +425,14 @@
       "hash": "1ad9fee1d0604a934dee9a1adf580e4f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29217646663187howtosetupdyn-6zmgki4bhxr9"
     },
+    "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232": {
+      "id": 28598173096723,
+      "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
+      "updated_at": "2026-09-11T20:59:10Z",
+      "hash": "ec9ce590e9e1ac0e0351a970b261392a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28598173096723howtocreatean-o3jy7qkxhqfr"
+    },
     "28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices": {
       "id": 28427819992979,
       "title": "Performance/Stability issues on Android devices and Best Practices",
@@ -569,6 +577,14 @@
       "hash": "b87841483fe06bbf0ca6de3807dc56f5",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23274673797139howtoenableau-42rxzi1h82lo"
     },
+    "23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing": {
+      "id": 23030445716883,
+      "title": "How to setup AeriCast Meet (Wireless Video Conferencing)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
+      "updated_at": "2026-09-11T17:16:28Z",
+      "hash": "f18439301d5622db6cd1c34ceaab55e8",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23030445716883howtosetupaer-acq7l6xeazdt"
+    },
     "22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync": {
       "id": 22875592994195,
       "title": "How to Integrate API and Publish API Data via OptiSync",
@@ -584,6 +600,22 @@
       "updated_at": "2026-09-10T09:50:21Z",
       "hash": "83b1eb643fd95e0678c161d130feeed4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/22474034993043advancedplayl-oe8e3adpv09s"
+    },
+    "21708242980755-Sharing-Playlists-and-Folders-with-External-Users": {
+      "id": 21708242980755,
+      "title": "Sharing Playlists and Folders with External Users",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
+      "updated_at": "2026-09-11T17:02:25Z",
+      "hash": "8e2d8f5cf41ac8095ff0e871b0fbd996",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/21708242980755sharingplayli-327e5xqn17ay"
+    },
+    "20879903340947-How-to-Use-Content-Tags-in-The-Playlist": {
+      "id": 20879903340947,
+      "title": "How to Use Content Tags in The Playlist",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
+      "updated_at": "2026-09-11T11:22:47Z",
+      "hash": "d3e676bb5311ecbd078b751845297b1d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20879903340947howtouseconte-s9dgwkfc97u9"
     },
     "20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List": {
       "id": 20750060900883,
@@ -1401,6 +1433,22 @@
       "hash": "3c00d8b89f5f9be7080ce1638ea8326a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360043670633organizingyourf-lg0kxlu2yeuw"
     },
+    "360043621953-How-to-Create-and-Use-Nested-Playlists": {
+      "id": 360043621953,
+      "title": "How to Create and Use Nested Playlists",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
+      "updated_at": "2026-09-11T02:59:22Z",
+      "hash": "c0412220b0cfc2ea9d616295ca48862b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360043621953howtocreateandu-5hgeju6i3ehr"
+    },
+    "360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time": {
+      "id": 360042736794,
+      "title": "How to set an asset to Live or Expire at specific time",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
+      "updated_at": "2026-09-11T20:37:05Z",
+      "hash": "1cdaf75b9ae080c8667d1c6d30f920c3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042736794howtosetanasset-8ksrtit95h5u"
+    },
     "360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices": {
       "id": 360042143753,
       "title": "How to re-encode video files for better compatibility on your devices",
@@ -1520,6 +1568,14 @@
       "updated_at": "2026-09-10T09:40:48Z",
       "hash": "7bb301bad0456ddae8c04264009d431d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026610194stretchyourimag-r3pfilp6dz7o"
+    },
+    "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar": {
+      "id": 360026559613,
+      "title": "How to Create a Scrolling Strip or Bar",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
+      "updated_at": "2026-09-11T08:02:40Z",
+      "hash": "94a83f19c5173600ce917e1c8847e850",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559613howtocreateascr-60m2hyfy7b2t"
     },
     "360026559573-How-to-Create-and-Use-the-Split-Screen-App": {
       "id": 360026559573,
@@ -1769,6 +1825,14 @@
       "hash": "9b9f498b891c1cce4789f792cb2242f6",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17639078588691howtocancelsu-55okfud7qpn9"
     },
+    "6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV": {
+      "id": 6636047009427,
+      "title": "How to install OptiSigns Player on Apple TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
+      "updated_at": "2026-09-11T11:00:02Z",
+      "hash": "0b0029d09662a9cdaf03c19898acc701",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6636047009427howtoinstallop-9xqpg6bgy75h"
+    },
     "4414563863827-Get-Started-with-OptiSigns-API": {
       "id": 4414563863827,
       "title": "Get Started with OptiSigns API",
@@ -1992,6 +2056,14 @@
       "updated_at": "2026-09-10T09:49:15Z",
       "hash": "515252f619c9faa89e7081a1d7bc9d7d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14557706459283presentsharei-2suzxvr3ma9y"
+    },
+    "4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists": {
+      "id": 4414558295955,
+      "title": "Tutorial: Create, Update, Add, Remove items from Playlists",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
+      "updated_at": "2026-09-11T10:15:55Z",
+      "hash": "c80cf54bd761dc6c21bce9661f6659cf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414558295955tutorialcreate-b5c32eq3l6p4"
     },
     "4411762539027-Multilingual-and-multi-currency": {
       "id": 4411762539027,
@@ -2721,6 +2793,14 @@
       "hash": "9298acdfea7959bc467e08e9d365f641",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500002042241howtousehdmiot-sr14n99bbmt4"
     },
+    "1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns": {
+      "id": 1500001985341,
+      "title": "How to Use the Local Folder App in OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
+      "updated_at": "2026-09-11T11:30:23Z",
+      "hash": "084e57c9e532c506491cd51666bd353c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500001985341howtousetheloc-b8889pusthy9"
+    },
     "360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns": {
       "id": 360060284174,
       "title": "How to use YouTube Live Schedule with OptiSigns",
@@ -2760,6 +2840,14 @@
       "updated_at": "2025-12-12T21:10:43Z",
       "hash": "7135a4a1b8291b138d387cef9114747c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056977214howtousegoogles-y82f9rrcgzt1"
+    },
+    "360056356414-How-to-use-Scrolling-Website-App": {
+      "id": 360056356414,
+      "title": "How to use Scrolling Website App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
+      "updated_at": "2026-09-11T16:16:33Z",
+      "hash": "d9a7ce66bf48ecb164f065777fe92b8c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056356414howtousescrolli-wc1tfhiflsr2"
     },
     "360055900513-How-to-create-and-use-Virtual-Screen-App": {
       "id": 360055900513,
@@ -3017,6 +3105,14 @@
       "hash": "a2172cf1c68f6886b1748ca6a299b2c1",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041222994howtousethecoun-7vpttj4cocji"
     },
+    "360041638433-How-to-use-the-CountDown-App": {
+      "id": 360041638433,
+      "title": "How to use the CountDown App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
+      "updated_at": "2026-09-11T04:37:51Z",
+      "hash": "2948ac1d241473497f4eb6e4ce0729aa",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041638433howtousethecoun-r5djfndxcl5r"
+    },
     "360041481553-How-to-Use-the-Simple-Calendar-App": {
       "id": 360041481553,
       "title": "How to Use the Simple Calendar App",
@@ -3152,102 +3248,6 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
-    },
-    "20879903340947-How-to-Use-Content-Tags-in-The-Playlist": {
-      "id": 20879903340947,
-      "title": "How to Use Content Tags in The Playlist",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-      "updated_at": "2026-09-11T11:22:47Z",
-      "hash": "d3e676bb5311ecbd078b751845297b1d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20879903340947howtouseconte-s9dgwkfc97u9"
-    },
-    "360041638433-How-to-use-the-CountDown-App": {
-      "id": 360041638433,
-      "title": "How to use the CountDown App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-      "updated_at": "2026-09-11T04:37:51Z",
-      "hash": "2948ac1d241473497f4eb6e4ce0729aa",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041638433howtousethecoun-r5djfndxcl5r"
-    },
-    "23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing": {
-      "id": 23030445716883,
-      "title": "How to setup AeriCast Meet (Wireless Video Conferencing)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
-      "updated_at": "2026-09-11T17:16:28Z",
-      "hash": "f18439301d5622db6cd1c34ceaab55e8",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23030445716883howtosetupaer-acq7l6xeazdt"
-    },
-    "4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists": {
-      "id": 4414558295955,
-      "title": "Tutorial: Create, Update, Add, Remove items from Playlists",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
-      "updated_at": "2026-09-11T10:15:55Z",
-      "hash": "c80cf54bd761dc6c21bce9661f6659cf",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414558295955tutorialcreate-b5c32eq3l6p4"
-    },
-    "360043621953-How-to-Create-and-Use-Nested-Playlists": {
-      "id": 360043621953,
-      "title": "How to Create and Use Nested Playlists",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
-      "updated_at": "2026-09-11T02:59:22Z",
-      "hash": "c0412220b0cfc2ea9d616295ca48862b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360043621953howtocreateandu-5hgeju6i3ehr"
-    },
-    "360056356414-How-to-use-Scrolling-Website-App": {
-      "id": 360056356414,
-      "title": "How to use Scrolling Website App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
-      "updated_at": "2026-09-11T16:16:33Z",
-      "hash": "d9a7ce66bf48ecb164f065777fe92b8c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056356414howtousescrolli-wc1tfhiflsr2"
-    },
-    "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232": {
-      "id": 28598173096723,
-      "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "updated_at": "2026-09-11T20:59:10Z",
-      "hash": "ec9ce590e9e1ac0e0351a970b261392a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28598173096723howtocreatean-o3jy7qkxhqfr"
-    },
-    "1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns": {
-      "id": 1500001985341,
-      "title": "How to Use the Local Folder App in OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-      "updated_at": "2026-09-11T11:30:23Z",
-      "hash": "084e57c9e532c506491cd51666bd353c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500001985341howtousetheloc-b8889pusthy9"
-    },
-    "21708242980755-Sharing-Playlists-and-Folders-with-External-Users": {
-      "id": 21708242980755,
-      "title": "Sharing Playlists and Folders with External Users",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
-      "updated_at": "2026-09-11T17:02:25Z",
-      "hash": "8e2d8f5cf41ac8095ff0e871b0fbd996",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/21708242980755sharingplayli-327e5xqn17ay"
-    },
-    "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar": {
-      "id": 360026559613,
-      "title": "How to Create a Scrolling Strip or Bar",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
-      "updated_at": "2026-09-11T08:02:40Z",
-      "hash": "94a83f19c5173600ce917e1c8847e850",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026559613howtocreateascr-60m2hyfy7b2t"
-    },
-    "360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time": {
-      "id": 360042736794,
-      "title": "How to set an asset to Live or Expire at specific time",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
-      "updated_at": "2026-09-11T20:37:05Z",
-      "hash": "1cdaf75b9ae080c8667d1c6d30f920c3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042736794howtosetanasset-8ksrtit95h5u"
-    },
-    "6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV": {
-      "id": 6636047009427,
-      "title": "How to install OptiSigns Player on Apple TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
-      "updated_at": "2026-09-11T11:00:02Z",
-      "hash": "0b0029d09662a9cdaf03c19898acc701",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6636047009427howtoinstallop-9xqpg6bgy75h"
     }
   }
 }
