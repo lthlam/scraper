@@ -513,14 +513,6 @@
       "hash": "8ab8459140a769c5f22bf17f3b132896",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-buvjl70fbc6g"
     },
-    "27267311796243-OptiStick": {
-      "id": 27267311796243,
-      "title": "OptiStick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-      "updated_at": "2026-07-26T22:40:02Z",
-      "hash": "fb98483a37140a4874396b39cd26903f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-wi5zuubaud5n"
-    },
     "25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility": {
       "id": 25273043501587,
       "title": "How to Lockdown iPad/Single App with Guided Accessibility",
@@ -1608,14 +1600,6 @@
       "updated_at": "2026-09-10T08:16:16Z",
       "hash": "3bb47c0c901ca735514d2a7e0967a6e9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-xjxp6dft6w0k"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-09-10T09:39:36Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-cmxqgsl5j3oq"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -3248,6 +3232,22 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
+    },
+    "27267311796243-OptiStick": {
+      "id": 27267311796243,
+      "title": "OptiStick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+      "updated_at": "2026-09-13T02:35:58Z",
+      "hash": "fb98483a37140a4874396b39cd26903f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-gho5pqn6uf9t"
+    },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-09-13T15:02:03Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-2o7x8uk7cf93"
     }
   }
 }
