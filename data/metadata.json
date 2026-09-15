@@ -513,6 +513,14 @@
       "hash": "8ab8459140a769c5f22bf17f3b132896",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-buvjl70fbc6g"
     },
+    "27267311796243-OptiStick": {
+      "id": 27267311796243,
+      "title": "OptiStick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+      "updated_at": "2026-09-13T02:35:58Z",
+      "hash": "fb98483a37140a4874396b39cd26903f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-gho5pqn6uf9t"
+    },
     "25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility": {
       "id": 25273043501587,
       "title": "How to Lockdown iPad/Single App with Guided Accessibility",
@@ -600,14 +608,6 @@
       "updated_at": "2026-09-11T17:02:25Z",
       "hash": "8e2d8f5cf41ac8095ff0e871b0fbd996",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/21708242980755sharingplayli-327e5xqn17ay"
-    },
-    "20879903340947-How-to-Use-Content-Tags-in-The-Playlist": {
-      "id": 20879903340947,
-      "title": "How to Use Content Tags in The Playlist",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-      "updated_at": "2026-09-11T11:22:47Z",
-      "hash": "d3e676bb5311ecbd078b751845297b1d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20879903340947howtouseconte-s9dgwkfc97u9"
     },
     "20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List": {
       "id": 20750060900883,
@@ -737,14 +737,6 @@
       "hash": "c6e2afed99423888e328e01b2c717a57",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17112492659475displaypowerp-pg1xdny69hyj"
     },
-    "16364134190355-How-to-use-Streaming-App-with-OptiSigns": {
-      "id": 16364134190355,
-      "title": "How to use Streaming App with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
-      "updated_at": "2026-09-10T09:49:25Z",
-      "hash": "d3ad3397c6266c78b41630e3aaf2216a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/16364134190355howtousestrea-ygsute4bww7x"
-    },
     "15861880059283-Silent-Installation-process-for-OptiSigns-Player-on-Windows": {
       "id": 15861880059283,
       "title": "Silent Installation process for OptiSigns Player on Windows",
@@ -777,22 +769,6 @@
       "hash": "f327193c8019dc43f79c8d2d91cb5dba",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15268811715347cannotfindthe-bkm61344fhvi"
     },
-    "13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App": {
-      "id": 13320135306515,
-      "title": "Build Integration Using OptiSigns Enterprise App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App",
-      "updated_at": "2026-09-10T09:49:12Z",
-      "hash": "d793b2fb1290b54e7dc997e2cc61009b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13320135306515buildintegrat-ixjjstm7sb7y"
-    },
-    "13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start": {
-      "id": 13097501958291,
-      "title": "OptiSigns IoT Sensor Add-on - Quick Start",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
-      "updated_at": "2025-09-02T18:16:29Z",
-      "hash": "f5d60d87a9b07ef9c1f38ec9f1adbae8",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13097501958291optisignsiots-rkd9s2opk0sw"
-    },
     "12947300131731-Show-Hide-downloading-status-on-your-Player": {
       "id": 12947300131731,
       "title": "Show/Hide downloading status on your Player",
@@ -824,14 +800,6 @@
       "updated_at": "2026-09-10T09:48:42Z",
       "hash": "918746c3f5db1a73f7bac253297bc1ef",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-56xp62fe7kaz"
-    },
-    "9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands": {
-      "id": 9061950942995,
-      "title": "Using RS-232 to Schedule TV Power On/Off or other commands",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands",
-      "updated_at": "2026-09-10T09:48:39Z",
-      "hash": "fbd3c64675d9b55abe0a660a5c89c8b1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9061950942995usingrs232tosc-c2lh2wfjyvyq"
     },
     "8099928867475-How-to-get-the-MAC-Address-on-your-media-player": {
       "id": 8099928867475,
@@ -1160,14 +1128,6 @@
       "updated_at": "2026-09-10T09:45:19Z",
       "hash": "f50e64bd04eab406ae56a9d58927217c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000941981howtoallowtheo-a0sxjgxnpuoi"
-    },
-    "360059386254-How-to-use-YouTube-Playlist-with-OptiSigns": {
-      "id": 360059386254,
-      "title": "How to use YouTube Playlist with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns",
-      "updated_at": "2026-09-10T09:44:51Z",
-      "hash": "7181a74ee07582aef78fd4b8ecc88e4e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360059386254howtouseyoutube-pjusd18wdue4"
     },
     "1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan": {
       "id": 1500000493782,
@@ -1601,6 +1561,14 @@
       "hash": "3bb47c0c901ca735514d2a7e0967a6e9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-xjxp6dft6w0k"
     },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-09-13T15:02:03Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-2o7x8uk7cf93"
+    },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
       "title": "Does OptiSigns offer Non-profit/Education discount?",
@@ -1656,14 +1624,6 @@
       "updated_at": "2026-09-10T09:51:23Z",
       "hash": "275aaaadbf2a890e93b9264522f19c01",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29863080711059howtoaddamicr-238ufw78glh2"
-    },
-    "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings": {
-      "id": 28295074995859,
-      "title": "How to Manage and Edit Your Playlist Settings",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "updated_at": "2026-06-04T22:14:32Z",
-      "hash": "ce2f68252e611c8e14f4e5a83fde3534",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-yj29twp75ojh"
     },
     "28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3": {
       "id": 28026588373139,
@@ -1841,14 +1801,6 @@
       "hash": "4debfb4dcc81fa9569e252739c779021",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360053211594setoptisignsass-prl96v602e14"
     },
-    "360051014773-Show-YouTube-video-s-subtitle-closed-caption": {
-      "id": 360051014773,
-      "title": "Show YouTube video's subtitle/closed caption",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
-      "updated_at": "2026-09-10T09:43:30Z",
-      "hash": "4aecea972a649436d28bbb93c816c0b9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014773showyoutubevide-jnw8pr1dv2nn"
-    },
     "360034379573-Linux": {
       "id": 360034379573,
       "title": "Linux",
@@ -1968,14 +1920,6 @@
       "updated_at": "2026-09-10T09:45:08Z",
       "hash": "56acb8693102a9153970518366defad3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360063693093howtouseapprova-fmoydseifrt2"
-    },
-    "360021855653-What-hardware-and-devices-are-supported": {
-      "id": 360021855653,
-      "title": "What hardware and devices are supported?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-      "updated_at": "2026-09-10T09:40:28Z",
-      "hash": "d58e487f29eaea0f4d9e498507223919",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-7sdv60jqe5qc"
     },
     "360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns": {
       "id": 360019588654,
@@ -2641,14 +2585,6 @@
       "hash": "747cf1ee36760535c115e87786e08fb6",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4410655948563howtouselivest-m04sq02sxsjl"
     },
-    "4409673381011-How-to-Use-the-Emergency-Feed-App": {
-      "id": 4409673381011,
-      "title": "How to Use the Emergency Feed App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
-      "updated_at": "2026-09-10T09:47:27Z",
-      "hash": "efebb21364246153ddb054366ddcb7ce",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4409673381011howtousetheeme-7bl6stjzhrgn"
-    },
     "4409607912211-How-to-setup-WIFI-with-OptiSigns-Admin-mobile-app-on-OptiSigns-Pre-Configured-Android-Player": {
       "id": 4409607912211,
       "title": "How to setup WIFI with OptiSigns Admin mobile app on OptiSigns Pre-Configured Android Player",
@@ -2720,14 +2656,6 @@
       "updated_at": "2026-09-10T09:46:17Z",
       "hash": "5c66022793f532206c6c1c9a8a9805f7",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500011611322howtousethecbc-49lgox7z2kor"
-    },
-    "1500009492202-How-to-use-On-This-Day-app": {
-      "id": 1500009492202,
-      "title": "How to use On This Day app",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-use-On-This-Day-app",
-      "updated_at": "2026-09-10T09:46:01Z",
-      "hash": "f687150d50d7957bf6b505eff2dc8c3c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009492202howtouseonthis-3zuhop0itdx8"
     },
     "1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns": {
       "id": 1500009343862,
@@ -3233,21 +3161,93 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "27267311796243-OptiStick": {
-      "id": 27267311796243,
-      "title": "OptiStick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-      "updated_at": "2026-09-13T02:35:58Z",
-      "hash": "fb98483a37140a4874396b39cd26903f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27267311796243optistickmd-gho5pqn6uf9t"
+    "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands": {
+      "id": 9061950942995,
+      "title": "Using RS232 to Schedule TV Power On/Off or other commands",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
+      "updated_at": "2026-09-14T20:13:11Z",
+      "hash": "8c3296a7a0daf2cdd32c247ea3564195",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9061950942995usingrs232tosc-k36e9hxegox7"
     },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-09-13T15:02:03Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-2o7x8uk7cf93"
+    "20879903340947-How-to-Use-Content-Tags-in-The-Playlist": {
+      "id": 20879903340947,
+      "title": "How to Use Content Tags in The Playlist",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
+      "updated_at": "2026-09-14T02:42:33Z",
+      "hash": "d3e676bb5311ecbd078b751845297b1d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/20879903340947howtouseconte-p7ce2ktsjh92"
+    },
+    "360051014773-Show-YouTube-video-s-subtitle-closed-caption": {
+      "id": 360051014773,
+      "title": "Show YouTube video's subtitle/closed caption",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
+      "updated_at": "2026-09-14T11:06:00Z",
+      "hash": "ea30d0de1ec26867d1b628712e631e4d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014773showyoutubevide-esaeiespdb0d"
+    },
+    "4409673381011-How-to-Use-the-Emergency-Feed-App": {
+      "id": 4409673381011,
+      "title": "How to Use the Emergency Feed App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
+      "updated_at": "2026-09-14T21:00:39Z",
+      "hash": "420ce629953ec50b77b77cd820485ed0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4409673381011howtousetheeme-ristpizb93gs"
+    },
+    "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App": {
+      "id": 13320135306515,
+      "title": "Build Integrations Using the OptiSigns Enterprise App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+      "updated_at": "2026-09-14T15:53:06Z",
+      "hash": "e44e0a2cbc21d8c197c7486fdcdb11c4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13320135306515buildintegrat-c2ctrr7v4euy"
+    },
+    "360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns": {
+      "id": 360059386254,
+      "title": "How to Use the YouTube Playlist App with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
+      "updated_at": "2026-09-14T18:47:59Z",
+      "hash": "a833c2201414316dd7f198c388135754",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360059386254howtousetheyout-obej6k6gg19a"
+    },
+    "13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start": {
+      "id": 13097501958291,
+      "title": "OptiSigns IoT Sensor Add-on - Quick Start",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
+      "updated_at": "2026-09-14T18:49:07Z",
+      "hash": "7e651e9b0438281e347c4245772bf5a2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13097501958291optisignsiots-8m0f4c1sbtx0"
+    },
+    "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings": {
+      "id": 28295074995859,
+      "title": "How to Manage and Edit Your Playlist Settings",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
+      "updated_at": "2026-09-14T16:01:05Z",
+      "hash": "87f53afdee4e80db4cdb513d22f35ec7",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-6m5fnhp63077"
+    },
+    "1500009492202-How-to-Use-the-On-This-Day-App": {
+      "id": 1500009492202,
+      "title": "How to Use the On This Day App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App",
+      "updated_at": "2026-09-14T20:35:04Z",
+      "hash": "20273d20d4f557a3501347077c5f7a87",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009492202howtousetheont-0iiitxinlmpb"
+    },
+    "360021855653-What-hardware-and-devices-are-supported": {
+      "id": 360021855653,
+      "title": "What hardware and devices are supported?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
+      "updated_at": "2026-09-14T15:11:31Z",
+      "hash": "d58e487f29eaea0f4d9e498507223919",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-mj43t0jqj8j1"
+    },
+    "16364134190355-How-to-use-Streaming-App-with-OptiSigns": {
+      "id": 16364134190355,
+      "title": "How to use Streaming App with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
+      "updated_at": "2026-09-14T16:05:11Z",
+      "hash": "d7b19cc89ad43d39c47ee9983ddefc67",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/16364134190355howtousestrea-x37j44mlpsqv"
     }
   }
 }
