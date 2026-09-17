@@ -1,6 +1,30 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage": {
+      "id": 55450681344915,
+      "title": "Connect SharePoint News to OptiSigns Digital Signage",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+      "updated_at": "2026-09-15T23:09:01Z",
+      "hash": "a6fcbeed77c4bb2b5e0b4e573376b6a0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55450681344915connectsharep-0w1qd8hfjwyx"
+    },
+    "55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast": {
+      "id": 55416186918163,
+      "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+      "updated_at": "2026-09-15T17:33:06Z",
+      "hash": "fc8b012bb6bea041e552070d336ac40f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416186918163howtogetamicr-hmwap6zkzfrf"
+    },
+    "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards": {
+      "id": 55416185869331,
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+      "updated_at": "2026-09-15T15:34:23Z",
+      "hash": "f87d6a824c0fd9f97ac51bb532af2715",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-xg4gd9z1pir7"
+    },
     "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing": {
       "id": 54095075680275,
       "title": "OptiDev Add-on - Free Trial and Pricing",
@@ -2833,6 +2857,14 @@
       "hash": "485f43ab0667fa6141ae006c0f130e8e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360058855273howtousegoogled-kggyq0n3dm9c"
     },
+    "360056977214-How-to-use-Google-Sheets-with-OptiSigns": {
+      "id": 360056977214,
+      "title": "How to use Google Sheets with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
+      "updated_at": "2026-09-15T14:05:54Z",
+      "hash": "0935116c32adb5dab91742d740cb15fd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056977214howtousegoogles-640q93wzwpcc"
+    },
     "360056356414-How-to-use-Scrolling-Website-App": {
       "id": 360056356414,
       "title": "How to use Scrolling Website App",
@@ -2905,6 +2937,14 @@
       "hash": "6a8576a9bf71bad0081be071df58e906",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050244454howtousetrelloa-wp105r4ax2ij"
     },
+    "360051014713-How-to-Use-YouTube-with-OptiSigns": {
+      "id": 360051014713,
+      "title": "How to Use YouTube with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+      "updated_at": "2026-09-15T09:51:14Z",
+      "hash": "ea6213c6fd1fbc00744281cb00382037",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-bjtwtm7gvkq3"
+    },
     "360049875794-How-to-use-Follow-Us-App": {
       "id": 360049875794,
       "title": "How to use Follow Us App",
@@ -2936,14 +2976,6 @@
       "updated_at": "2026-09-10T09:43:15Z",
       "hash": "362031ca838390f7d86bb5f85c901a21",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665253howtousetheoned-2flib58jxm2g"
-    },
-    "360050664913-How-to-use-Google-Trends-App": {
-      "id": 360050664913,
-      "title": "How to use Google Trends App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
-      "updated_at": "2026-09-10T09:43:12Z",
-      "hash": "099e12cfa1fa0c474b3c9ccfd55a0212",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050664913howtousegooglet-nxzfl7r9p51q"
     },
     "360049159814-How-to-use-Walls-io-App": {
       "id": 360049159814,
@@ -3008,6 +3040,14 @@
       "updated_at": "2026-09-10T09:42:34Z",
       "hash": "f01419b51d98eabb0e914ede43fdb2e7",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047501233howtouseinstagr-z58uvw870kwy"
+    },
+    "360047499893-How-to-use-Google-Traffic-App": {
+      "id": 360047499893,
+      "title": "How to use Google Traffic App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
+      "updated_at": "2026-09-15T11:32:26Z",
+      "hash": "d7e075bb766a9c48a8b972fcd833993b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047499893howtousegooglet-ox5965u6f768"
     },
     "360046859534-How-to-use-Twitch-App": {
       "id": 360046859534,
@@ -3225,53 +3265,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360047499893-How-to-use-Google-Traffic-App": {
-      "id": 360047499893,
-      "title": "How to use Google Traffic App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
-      "updated_at": "2026-09-15T11:32:26Z",
-      "hash": "d7e075bb766a9c48a8b972fcd833993b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047499893howtousegooglet-ox5965u6f768"
-    },
-    "55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast": {
-      "id": 55416186918163,
-      "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
-      "updated_at": "2026-09-15T17:33:06Z",
-      "hash": "fc8b012bb6bea041e552070d336ac40f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416186918163howtogetamicr-hmwap6zkzfrf"
-    },
-    "360051014713-How-to-Use-YouTube-with-OptiSigns": {
-      "id": 360051014713,
-      "title": "How to Use YouTube with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "updated_at": "2026-09-15T09:51:14Z",
-      "hash": "ea6213c6fd1fbc00744281cb00382037",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-bjtwtm7gvkq3"
-    },
-    "360056977214-How-to-use-Google-Sheets-with-OptiSigns": {
-      "id": 360056977214,
-      "title": "How to use Google Sheets with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-      "updated_at": "2026-09-15T14:05:54Z",
-      "hash": "0935116c32adb5dab91742d740cb15fd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056977214howtousegoogles-640q93wzwpcc"
-    },
-    "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards": {
-      "id": 55416185869331,
-      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-      "updated_at": "2026-09-15T15:34:23Z",
-      "hash": "f87d6a824c0fd9f97ac51bb532af2715",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-xg4gd9z1pir7"
-    },
-    "55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage": {
-      "id": 55450681344915,
-      "title": "Connect SharePoint News to OptiSigns Digital Signage",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
-      "updated_at": "2026-09-15T23:09:01Z",
-      "hash": "a6fcbeed77c4bb2b5e0b4e573376b6a0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55450681344915connectsharep-0w1qd8hfjwyx"
+    "360050664913-How-to-use-Google-Trends-App": {
+      "id": 360050664913,
+      "title": "How to use Google Trends App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
+      "updated_at": "2026-09-16T03:55:59Z",
+      "hash": "4b6de67437caf7a76b684b59c9155fed",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050664913howtousegooglet-pgg82raxcfau"
     }
   }
 }
