@@ -841,14 +841,6 @@
       "hash": "7b89f640223b7c97417a66963a85f70b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11412877112595whatiftheopti-1ib6i1g26hal"
     },
-    "10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns": {
-      "id": 10159088954387,
-      "title": "How to put Live TV on your screens with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
-      "updated_at": "2026-09-10T09:48:47Z",
-      "hash": "d4c02acfb730824d94b8a5b30e6c20d2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-40oig3zqum4d"
-    },
     "9169378546195-Data-Residency-and-OptiSigns": {
       "id": 9169378546195,
       "title": "Data Residency and OptiSigns",
@@ -1409,14 +1401,6 @@
       "hash": "834b67be70875f99337136e0a6671401",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-ackuekal7j83"
     },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-09-10T09:42:30Z",
-      "hash": "d2600a4e7361bb7a5ffdb085fb66acd6",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-993ty8otc6hu"
-    },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
       "title": "Amazon Fire Stick and security considerations",
@@ -1897,14 +1881,6 @@
       "hash": "8cc3dc81e3e551b378fc0e503d9aa559",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034379573linuxmd-4uioxt80up65"
     },
-    "360016833514-Changing-screen-s-orientation-portrait-landscape": {
-      "id": 360016833514,
-      "title": "Changing screen's orientation (portrait & landscape)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
-      "updated_at": "2025-09-04T15:18:11Z",
-      "hash": "42ca5487ebee2f9bf31ce82c03c750ab",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016833514changingscreens-yxnw21phr3fn"
-    },
     "360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV": {
       "id": 360016485633,
       "title": "How can I remotely start/restart OptiSigns app on Fire TV?",
@@ -2032,14 +2008,6 @@
       "updated_at": "2026-09-10T09:40:16Z",
       "hash": "95ad3376723d8a6d55ef25e10cedca81",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-kn53ryhynqpo"
-    },
-    "360016375153-Assign-content-to-your-screens": {
-      "id": 360016375153,
-      "title": "Assign content to your screens",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-      "updated_at": "2026-09-10T09:39:44Z",
-      "hash": "26c308b2fd339df0136a360dcf62767d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375153assigncontentto-igr19jnjgajk"
     },
     "44669013147923-Kiosk32": {
       "id": 44669013147923,
@@ -2977,6 +2945,14 @@
       "hash": "362031ca838390f7d86bb5f85c901a21",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665253howtousetheoned-2flib58jxm2g"
     },
+    "360050664913-How-to-use-Google-Trends-App": {
+      "id": 360050664913,
+      "title": "How to use Google Trends App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
+      "updated_at": "2026-09-16T03:55:59Z",
+      "hash": "4b6de67437caf7a76b684b59c9155fed",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050664913howtousegooglet-pgg82raxcfau"
+    },
     "360049159814-How-to-use-Walls-io-App": {
       "id": 360049159814,
       "title": "How to use Walls.io App",
@@ -3265,13 +3241,37 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360050664913-How-to-use-Google-Trends-App": {
-      "id": 360050664913,
-      "title": "How to use Google Trends App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
-      "updated_at": "2026-09-16T03:55:59Z",
-      "hash": "4b6de67437caf7a76b684b59c9155fed",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050664913howtousegooglet-pgg82raxcfau"
+    "360016833514-Changing-screen-s-orientation-portrait-landscape": {
+      "id": 360016833514,
+      "title": "Changing screen's orientation (portrait & landscape)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
+      "updated_at": "2026-09-17T04:18:56Z",
+      "hash": "357bdd655b6f08cf3a4eefdda6aee0b1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016833514changingscreens-swyr5ud7a9lj"
+    },
+    "360016375153-Assign-content-to-your-screens": {
+      "id": 360016375153,
+      "title": "Assign content to your screens",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
+      "updated_at": "2026-09-17T10:07:46Z",
+      "hash": "fa4607f19c983f92bd19236966b78070",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016375153assigncontentto-nfxh6yknwizh"
+    },
+    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "updated_at": "2026-09-17T15:37:11Z",
+      "hash": "0692c1fc68be575da7abacc73baf7a77",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-zfnpzpac0q6g"
+    },
+    "10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns": {
+      "id": 10159088954387,
+      "title": "How to put Live TV on your screens with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
+      "updated_at": "2026-09-17T05:00:57Z",
+      "hash": "32bec08ff34269f3dda816eba380aaf0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-qjn26ubw6ncg"
     }
   }
 }
