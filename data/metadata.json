@@ -369,14 +369,6 @@
       "hash": "5ca4ca23d6e0bb4785bf4aa81695eccd",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31860170199955integratingpo-ffhkbq5wjqb0"
     },
-    "31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices": {
-      "id": 31695220475283,
-      "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
-      "updated_at": "2025-08-29T17:04:07Z",
-      "hash": "4fb43c2249bbc790b15c3cd09ef86d68",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31695220475283configuringma-6j5sl8djlhtc"
-    },
     "31449657955347-Getting-Started-with-Touch-Screen-Kiosks": {
       "id": 31449657955347,
       "title": "Getting Started with Touch Screen Kiosks",
@@ -1064,14 +1056,6 @@
       "updated_at": "2026-09-10T09:46:30Z",
       "hash": "82fd5ddeae69d5d98dfdb77ef077cd72",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403616315539howtoapproveop-5cvq27w4y6v6"
-    },
-    "4403332894867-How-to-set-up-Audit-Log-for-your-account": {
-      "id": 4403332894867,
-      "title": "How to set up Audit Log for your account",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account",
-      "updated_at": "2026-09-10T09:46:28Z",
-      "hash": "2376aef6927cc1739d9ab09cd0f4e953",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403332894867howtosetupaudi-aif806q7huoo"
     },
     "4403306341523-How-to-set-up-Monitoring-Alert-feature": {
       "id": 4403306341523,
@@ -2089,14 +2073,6 @@
       "hash": "c80cf54bd761dc6c21bce9661f6659cf",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414558295955tutorialcreate-b5c32eq3l6p4"
     },
-    "4411762539027-Multilingual-and-multi-currency": {
-      "id": 4411762539027,
-      "title": "Multilingual and multi-currency",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency",
-      "updated_at": "2025-09-04T15:30:19Z",
-      "hash": "c55e646ccd85f451c8db608ef9061d19",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411762539027multilingualan-viodd6sgfxcm"
-    },
     "1500008112642-How-to-install-OptiSigns-Player-on-Android-Boxes": {
       "id": 1500008112642,
       "title": "How to install OptiSigns Player on Android Boxes",
@@ -2240,14 +2216,6 @@
       "updated_at": "2026-09-10T10:46:21Z",
       "hash": "7156873cc8ea400031e0323f534f93e4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/36558834998291tutorialcreat-92w7j95m1prq"
-    },
-    "35577511423635-OptiSigns-Pro-Player-Advanced-Features": {
-      "id": 35577511423635,
-      "title": "OptiSigns Pro Player Advanced Features",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
-      "updated_at": "2026-03-30T17:22:38Z",
-      "hash": "60827bfe590479a47e62e7ccf13f8bdd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35577511423635optisignsprop-qotubdkv221b"
     },
     "18500083191059-How-to-add-captions-to-Vimeo-videos": {
       "id": 18500083191059,
@@ -3272,6 +3240,46 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
+    },
+    "31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices": {
+      "id": 31695220475283,
+      "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
+      "updated_at": "2026-09-21T19:42:14Z",
+      "hash": "15a6a69b300cf61005a8033db109570b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/31695220475283configuringma-z1h4py1srfmz"
+    },
+    "35577511423635-OptiSigns-Pro-Player-Advanced-Features": {
+      "id": 35577511423635,
+      "title": "OptiSigns Pro Player Advanced Features",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
+      "updated_at": "2026-09-21T15:11:34Z",
+      "hash": "52e0788a9b0b470d1290f5096861a076",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35577511423635optisignsprop-cko4foshb4we"
+    },
+    "4411762539027-Multilingual-and-Multi-Currency-Options": {
+      "id": 4411762539027,
+      "title": "Multilingual and Multi-Currency Options",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
+      "updated_at": "2026-09-21T17:51:53Z",
+      "hash": "1c9064fbad1f7ebf0f2269820c07fdfe",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411762539027multilingualan-b5oplnwe8mh1"
+    },
+    "4403332894867-Setting-Up-Audit-Logging": {
+      "id": 4403332894867,
+      "title": "Setting Up Audit Logging",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
+      "updated_at": "2026-09-21T20:44:11Z",
+      "hash": "b659cee5effbf6d78d8863d65fb98ab2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403332894867settingupaudit-dacp5ryublgl"
+    },
+    "55640830295187-Using-the-Japan-Transit-App": {
+      "id": 55640830295187,
+      "title": "Using the Japan Transit App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
+      "updated_at": "2026-09-21T20:41:52Z",
+      "hash": "418379d5b0010f1e652954897ee016e9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55640830295187usingthejapan-35dsjgqd86lm"
     }
   }
 }
