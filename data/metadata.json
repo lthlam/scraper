@@ -1,6 +1,14 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "55669121864979-Using-the-Flight-Schedule-App": {
+      "id": 55669121864979,
+      "title": "Using the Flight Schedule App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
+      "updated_at": "2026-09-22T18:59:24Z",
+      "hash": "1636312f30c1a2d9d1dec118857abd70",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55669121864979usingthefligh-n7q295qa1026"
+    },
     "55640830295187-Using-the-Japan-Transit-App": {
       "id": 55640830295187,
       "title": "Using the Japan Transit App",
@@ -17,6 +25,14 @@
       "hash": "a6fcbeed77c4bb2b5e0b4e573376b6a0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55450681344915connectsharep-0w1qd8hfjwyx"
     },
+    "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns": {
+      "id": 55447693635731,
+      "title": "How to Display Grafana Dashboards on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+      "updated_at": "2026-09-22T14:14:49Z",
+      "hash": "377135628f3edf62572ebf6381ddc463",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55447693635731howtodisplayg-gythhpvc3ip6"
+    },
     "55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast": {
       "id": 55416186918163,
       "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
@@ -24,14 +40,6 @@
       "updated_at": "2026-09-15T17:33:06Z",
       "hash": "fc8b012bb6bea041e552070d336ac40f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416186918163howtogetamicr-hmwap6zkzfrf"
-    },
-    "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards": {
-      "id": 55416185869331,
-      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-      "updated_at": "2026-09-15T15:34:23Z",
-      "hash": "f87d6a824c0fd9f97ac51bb532af2715",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-xg4gd9z1pir7"
     },
     "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing": {
       "id": 54095075680275,
@@ -1561,14 +1569,6 @@
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gx8scjthnoon"
     },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-09-18T10:36:31Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-ybeee0dy4moj"
-    },
     "360034379293-Windows": {
       "id": 360034379293,
       "title": "Windows",
@@ -2369,14 +2369,6 @@
       "hash": "83c1b108d4f89868c87e00819a188302",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016484473whydoesmyscreen-8wvsb6b5p7pq"
     },
-    "32129032857875-Where-to-Buy-OptiSigns-Devices": {
-      "id": 32129032857875,
-      "title": "Where to Buy OptiSigns Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "updated_at": "2026-09-10T09:51:39Z",
-      "hash": "d8603b46242a76cf6f84f8e4a2b3ee43",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32129032857875wheretobuyopt-ug6ncu1arucu"
-    },
     "11784310183571-How-to-use-Waitwhile-App": {
       "id": 11784310183571,
       "title": "How to use Waitwhile App",
@@ -2825,6 +2817,14 @@
       "hash": "9298acdfea7959bc467e08e9d365f641",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500002042241howtousehdmiot-sr14n99bbmt4"
     },
+    "1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns": {
+      "id": 1500001985341,
+      "title": "How to Use the Local Folder App in OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
+      "updated_at": "2026-09-22T15:01:01Z",
+      "hash": "c8fbbfacd19debbb2d3b1d0214ec2102",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500001985341howtousetheloc-m947rfr8f0iu"
+    },
     "360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns": {
       "id": 360060284174,
       "title": "How to use YouTube Live Schedule with OptiSigns",
@@ -3032,6 +3032,14 @@
       "updated_at": "2026-09-10T09:42:45Z",
       "hash": "7277cb21e806bfebf2b572fea2fe777f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049030453howtousethemoti-6hywnrmdchqt"
+    },
+    "360048660813-How-to-use-Facebook-Live-Stream-App": {
+      "id": 360048660813,
+      "title": "How to use Facebook Live Stream App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
+      "updated_at": "2026-09-22T09:12:00Z",
+      "hash": "978940259dc7d4e08d9e749155c6ed9b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048660813howtousefaceboo-z83teticd1ap"
     },
     "360047501233-How-to-use-Instagram-Counter-App": {
       "id": 360047501233,
@@ -3265,37 +3273,37 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns": {
-      "id": 55447693635731,
-      "title": "How to Display Grafana Dashboards on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-      "updated_at": "2026-09-22T14:14:49Z",
-      "hash": "377135628f3edf62572ebf6381ddc463",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55447693635731howtodisplayg-gythhpvc3ip6"
+    "55709616003219-Using-the-X-Social-App-Add-On": {
+      "id": 55709616003219,
+      "title": "Using the X Social App / Add-On",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+      "updated_at": "2026-09-23T19:58:50Z",
+      "hash": "801fe5009084644bb8905e88cef923d2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55709616003219usingthexsoci-04zebpum514d"
     },
-    "55669121864979-Using-the-Flight-Schedule-App": {
-      "id": 55669121864979,
-      "title": "Using the Flight Schedule App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
-      "updated_at": "2026-09-22T18:59:24Z",
-      "hash": "1636312f30c1a2d9d1dec118857abd70",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55669121864979usingthefligh-n7q295qa1026"
+    "32129032857875-Where-to-Buy-OptiSigns-Devices": {
+      "id": 32129032857875,
+      "title": "Where to Buy OptiSigns Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
+      "updated_at": "2026-09-23T19:17:01Z",
+      "hash": "1b43d554d6f36a5195f6c632aacf35cf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32129032857875wheretobuyopt-lqtikt3bcbjl"
     },
-    "1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns": {
-      "id": 1500001985341,
-      "title": "How to Use the Local Folder App in OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-      "updated_at": "2026-09-22T15:01:01Z",
-      "hash": "c8fbbfacd19debbb2d3b1d0214ec2102",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500001985341howtousetheloc-m947rfr8f0iu"
+    "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards": {
+      "id": 55416185869331,
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+      "updated_at": "2026-09-23T16:24:51Z",
+      "hash": "2c70e3da05c00dfb12b0e4833ad489c3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-djv15j0bfgon"
     },
-    "360048660813-How-to-use-Facebook-Live-Stream-App": {
-      "id": 360048660813,
-      "title": "How to use Facebook Live Stream App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
-      "updated_at": "2026-09-22T09:12:00Z",
-      "hash": "978940259dc7d4e08d9e749155c6ed9b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048660813howtousefaceboo-z83teticd1ap"
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-09-23T12:25:53Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-q8h9rrugr4sy"
     }
   }
 }
