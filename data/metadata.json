@@ -1,6 +1,14 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "55709616003219-Using-the-X-Social-App-Add-On": {
+      "id": 55709616003219,
+      "title": "Using the X Social App / Add-On",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+      "updated_at": "2026-09-23T19:58:50Z",
+      "hash": "801fe5009084644bb8905e88cef923d2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55709616003219usingthexsoci-04zebpum514d"
+    },
     "55669121864979-Using-the-Flight-Schedule-App": {
       "id": 55669121864979,
       "title": "Using the Flight Schedule App",
@@ -40,6 +48,14 @@
       "updated_at": "2026-09-15T17:33:06Z",
       "hash": "fc8b012bb6bea041e552070d336ac40f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416186918163howtogetamicr-hmwap6zkzfrf"
+    },
+    "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards": {
+      "id": 55416185869331,
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+      "updated_at": "2026-09-23T16:24:51Z",
+      "hash": "2c70e3da05c00dfb12b0e4833ad489c3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-djv15j0bfgon"
     },
     "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing": {
       "id": 54095075680275,
@@ -704,14 +720,6 @@
       "updated_at": "2026-09-10T09:50:01Z",
       "hash": "96407dbe453a23b273936b65fb613461",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/19589190970771howtousesecur-x0zbpjzfmvmd"
-    },
-    "19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns": {
-      "id": 19171222981523,
-      "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
-      "updated_at": "2026-08-21T18:40:48Z",
-      "hash": "3b56ae76fd320dcc73a1e607396c19e5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/19171222981523howtousethevi-e624errknu18"
     },
     "18988049363859-Push-Contents-to-your-Screens": {
       "id": 18988049363859,
@@ -1569,6 +1577,14 @@
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gx8scjthnoon"
     },
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-09-23T12:25:53Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-q8h9rrugr4sy"
+    },
     "360034379293-Windows": {
       "id": 360034379293,
       "title": "Windows",
@@ -2369,6 +2385,14 @@
       "hash": "83c1b108d4f89868c87e00819a188302",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016484473whydoesmyscreen-8wvsb6b5p7pq"
     },
+    "32129032857875-Where-to-Buy-OptiSigns-Devices": {
+      "id": 32129032857875,
+      "title": "Where to Buy OptiSigns Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
+      "updated_at": "2026-09-23T19:17:01Z",
+      "hash": "1b43d554d6f36a5195f6c632aacf35cf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32129032857875wheretobuyopt-lqtikt3bcbjl"
+    },
     "11784310183571-How-to-use-Waitwhile-App": {
       "id": 11784310183571,
       "title": "How to use Waitwhile App",
@@ -2937,14 +2961,6 @@
       "hash": "6a8576a9bf71bad0081be071df58e906",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050244454howtousetrelloa-wp105r4ax2ij"
     },
-    "360051014713-How-to-Use-YouTube-with-OptiSigns": {
-      "id": 360051014713,
-      "title": "How to Use YouTube with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "updated_at": "2026-09-15T09:51:14Z",
-      "hash": "ea6213c6fd1fbc00744281cb00382037",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-bjtwtm7gvkq3"
-    },
     "360049875794-How-to-use-Follow-Us-App": {
       "id": 360049875794,
       "title": "How to use Follow Us App",
@@ -3273,37 +3289,29 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "55709616003219-Using-the-X-Social-App-Add-On": {
-      "id": 55709616003219,
-      "title": "Using the X Social App / Add-On",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
-      "updated_at": "2026-09-23T19:58:50Z",
-      "hash": "801fe5009084644bb8905e88cef923d2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55709616003219usingthexsoci-04zebpum514d"
+    "55719322614803-Inbound-Webhook-DataSources-in-Designer": {
+      "id": 55719322614803,
+      "title": "Inbound Webhook DataSources in Designer",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
+      "updated_at": "2026-09-24T17:00:10Z",
+      "hash": "55c69a5fb1211064f699ea1d72fbe746",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55719322614803inboundwebhoo-9vo5ubu535dm"
     },
-    "32129032857875-Where-to-Buy-OptiSigns-Devices": {
-      "id": 32129032857875,
-      "title": "Where to Buy OptiSigns Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "updated_at": "2026-09-23T19:17:01Z",
-      "hash": "1b43d554d6f36a5195f6c632aacf35cf",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32129032857875wheretobuyopt-lqtikt3bcbjl"
+    "19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns": {
+      "id": 19171222981523,
+      "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+      "updated_at": "2026-09-24T08:59:57Z",
+      "hash": "a2cd3ac0584e0008056c396305b55374",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/19171222981523howtousethevi-zkpkmbeoklvw"
     },
-    "55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards": {
-      "id": 55416185869331,
-      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-      "updated_at": "2026-09-23T16:24:51Z",
-      "hash": "2c70e3da05c00dfb12b0e4833ad489c3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-djv15j0bfgon"
-    },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-09-23T12:25:53Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-q8h9rrugr4sy"
+    "360051014713-How-to-Use-YouTube-with-OptiSigns": {
+      "id": 360051014713,
+      "title": "How to Use YouTube with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+      "updated_at": "2026-09-24T14:52:18Z",
+      "hash": "f6fee393b336b6ee8ba0b3aad5cb22e3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-2amcmctyjnyv"
     }
   }
 }
