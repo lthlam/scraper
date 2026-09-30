@@ -377,6 +377,14 @@
       "hash": "1bbf5f97f0f9096b8c8068eecbfb9082",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-xnwdql5okk0a"
     },
+    "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns": {
+      "id": 32860569148819,
+      "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
+      "updated_at": "2026-09-28T20:24:07Z",
+      "hash": "5b24d61687f70ba1bb241a958841a90a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32860569148819howtosetupapo-o4omf9h0ipyh"
+    },
     "32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting": {
       "id": 32839794222099,
       "title": "Display Salesforce Dashboards with MFA using Web Scripting",
@@ -608,6 +616,14 @@
       "updated_at": "2025-09-04T16:54:55Z",
       "hash": "8e9ad1b0e29ee3023cc75126d8aa98eb",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23629657318547howtogetgoogl-zcfd9hwsf4j9"
+    },
+    "23566927217939-How-to-use-Check-in-app-with-SMS-follow-up": {
+      "id": 23566927217939,
+      "title": "How to use Check-in app with SMS follow up",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
+      "updated_at": "2026-09-28T22:24:04Z",
+      "hash": "c531274ea23875917e80419e3b8c982d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23566927217939howtousecheck-2fccz1ozk9ln"
     },
     "23565267463315-Engage-Plan-FAQs": {
       "id": 23565267463315,
@@ -1113,6 +1129,14 @@
       "hash": "bfa7c915c51a05921e53f1a91509029f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500012522362howtousetheweb-ssr4en2xd0rx"
     },
+    "1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi": {
+      "id": 1500010436341,
+      "title": "Adjust the GPU memory on the Raspberry Pi",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi",
+      "updated_at": "2026-09-28T17:02:14Z",
+      "hash": "ad325b557f08f75174a7671657eacc41",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500010436341adjustthegpume-2nl0urirgdm5"
+    },
     "1500009937122-Resolve-Autostart-issues-on-your-Android-TV-devices": {
       "id": 1500009937122,
       "title": "Resolve Autostart issues on your Android TV devices",
@@ -1193,6 +1217,14 @@
       "hash": "a47df4737a0014a76562e43dd70d8fe8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500001561861howtomixplayli-q9gg0hrl7mac"
     },
+    "360061576673-Advanced-Enforce-SSO-login-for-your-account": {
+      "id": 360061576673,
+      "title": "Advanced: Enforce SSO login for your account",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
+      "updated_at": "2026-09-28T21:53:26Z",
+      "hash": "244527991c7fb9b1cb2198e15f6327c7",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360061576673advancedenforce-10hbuksr2if0"
+    },
     "1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick": {
       "id": 1500000941981,
       "title": "How to allow the OptiSigns app to access local storage on a Fire Stick",
@@ -1208,6 +1240,14 @@
       "updated_at": "2026-09-14T18:47:59Z",
       "hash": "a833c2201414316dd7f198c388135754",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360059386254howtousetheyout-obej6k6gg19a"
+    },
+    "1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan": {
+      "id": 1500000493782,
+      "title": "Billing: How Do I Change my Subscription Plan?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
+      "updated_at": "2026-09-28T19:34:27Z",
+      "hash": "341ada0fab2172cfd60615cbb9190499",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billinghowdoic-dyv63yiltzug"
     },
     "1500000485202-Custom-Branding-Settings": {
       "id": 1500000485202,
@@ -1641,14 +1681,6 @@
       "hash": "1ca84c819d920ad842efb5ce0e21485d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-2o7x8uk7cf93"
     },
-    "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
-      "id": 360016252654,
-      "title": "Does OptiSigns offer Non-profit/Education discount?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
-      "updated_at": "2026-09-10T09:39:31Z",
-      "hash": "dbc7186c1c63db4361bfc187a84e80ac",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016252654doesoptisignsof-n9kcse8itvho"
-    },
     "360016247974-How-to-Upload-Manage-Your-Files-Assets": {
       "id": 360016247974,
       "title": "How to Upload & Manage Your Files/ Assets",
@@ -1824,6 +1856,14 @@
       "updated_at": "2026-09-10T10:46:17Z",
       "hash": "4f4e3d51cf47951d9f09dfde5da73141",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-w3okfbr2hlv2"
+    },
+    "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync": {
+      "id": 29838866920211,
+      "title": "How to add Google Sheets as a DataSource for OptiSync",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
+      "updated_at": "2026-09-28T19:13:38Z",
+      "hash": "7e73c69a7b902bb8b8d10aafa2bb9706",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29838866920211howtoaddgoogl-cnqs2xx6mvir"
     },
     "27676133574547-I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content": {
       "id": 27676133574547,
@@ -2016,14 +2056,6 @@
       "updated_at": "2026-09-10T09:40:23Z",
       "hash": "dcef5ad307f7274d0f6ff05c4d8fada8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019588654howtotellwhichd-qeqmhechvn3j"
-    },
-    "360017964153-How-to-Use-Weather-Apps-in-OptiSigns": {
-      "id": 360017964153,
-      "title": "How to Use Weather Apps in OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "updated_at": "2026-09-10T09:40:16Z",
-      "hash": "95ad3376723d8a6d55ef25e10cedca81",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-kn53ryhynqpo"
     },
     "360016375153-Assign-content-to-your-screens": {
       "id": 360016375153,
@@ -2272,14 +2304,6 @@
       "updated_at": "2026-09-10T09:39:18Z",
       "hash": "2c8f2db4b056840f840b8a60923ddad2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016174554amazonfirestick-p473mrchxv0r"
-    },
-    "44650391786131-Kiosk-Setup-Hub": {
-      "id": 44650391786131,
-      "title": "Kiosk Setup Hub",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
-      "updated_at": "2026-03-30T17:22:38Z",
-      "hash": "c58c4790feb33f65b4e053af4ae4296c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/44650391786131kiosksetuphub-hl1aa3z1iu5s"
     },
     "42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines": {
       "id": 42313875427859,
@@ -3209,6 +3233,14 @@
       "hash": "b0ab1212cd0da0c97bae707d4c8cc771",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035815114howtouseembedap-1f0swtfxgqy3"
     },
+    "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns": {
+      "id": 360024859713,
+      "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+      "updated_at": "2026-09-28T20:24:16Z",
+      "hash": "987fd45da32974270383d4913c078267",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-ijnmn1jyeqrw"
+    },
     "360023848334-How-to-Use-the-Facebook-Page-App": {
       "id": 360023848334,
       "title": "How to Use the Facebook Page App",
@@ -3257,61 +3289,45 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns": {
-      "id": 360024859713,
-      "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "updated_at": "2026-09-28T20:24:16Z",
-      "hash": "987fd45da32974270383d4913c078267",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360024859713howtodisplaymic-ijnmn1jyeqrw"
+    "360017964153-How-to-Use-Weather-Apps-in-OptiSigns": {
+      "id": 360017964153,
+      "title": "How to Use Weather Apps in OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
+      "updated_at": "2026-09-29T19:54:35Z",
+      "hash": "9a8b2d6c21bad7e91bda279169e8bd2d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-chahw9jracp4"
     },
-    "360061576673-Advanced-Enforce-SSO-login-for-your-account": {
-      "id": 360061576673,
-      "title": "Advanced: Enforce SSO login for your account",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
-      "updated_at": "2026-09-28T21:53:26Z",
-      "hash": "244527991c7fb9b1cb2198e15f6327c7",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360061576673advancedenforce-10hbuksr2if0"
+    "44650391786131-Kiosk-Setup-Hub": {
+      "id": 44650391786131,
+      "title": "Kiosk Setup Hub",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
+      "updated_at": "2026-09-29T12:54:41Z",
+      "hash": "b14618d8e9ea79994e4739ffc6155647",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/44650391786131kiosksetuphub-eiwtm994wz47"
     },
-    "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns": {
-      "id": 32860569148819,
-      "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-      "updated_at": "2026-09-28T20:24:07Z",
-      "hash": "5b24d61687f70ba1bb241a958841a90a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32860569148819howtosetupapo-o4omf9h0ipyh"
+    "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
+      "id": 360016252654,
+      "title": "Does OptiSigns offer Non-profit/Education discount?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
+      "updated_at": "2026-09-29T17:04:04Z",
+      "hash": "15e956e67ca716c3165036d85f3fd21a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016252654doesoptisignsof-chtzyo9etfa6"
     },
-    "23566927217939-How-to-use-Check-in-app-with-SMS-follow-up": {
-      "id": 23566927217939,
-      "title": "How to use Check-in app with SMS follow up",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/23566927217939-How-to-use-Check-in-app-with-SMS-follow-up",
-      "updated_at": "2026-09-28T22:24:04Z",
-      "hash": "c531274ea23875917e80419e3b8c982d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23566927217939howtousecheck-2fccz1ozk9ln"
+    "55906396437523-How-to-Use-the-Weather-Radar-App": {
+      "id": 55906396437523,
+      "title": "How to Use the Weather Radar App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
+      "updated_at": "2026-09-29T19:04:57Z",
+      "hash": "b586b4195619142ad79994b789da892f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55906396437523howtousethewe-e0z7vz5k2kky"
     },
-    "1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan": {
-      "id": 1500000493782,
-      "title": "Billing: How Do I Change my Subscription Plan?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-      "updated_at": "2026-09-28T19:34:27Z",
-      "hash": "341ada0fab2172cfd60615cbb9190499",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billinghowdoic-dyv63yiltzug"
-    },
-    "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync": {
-      "id": 29838866920211,
-      "title": "How to add Google Sheets as a DataSource for OptiSync",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync",
-      "updated_at": "2026-09-28T19:13:38Z",
-      "hash": "7e73c69a7b902bb8b8d10aafa2bb9706",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29838866920211howtoaddgoogl-cnqs2xx6mvir"
-    },
-    "1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi": {
-      "id": 1500010436341,
-      "title": "Adjust the GPU memory on the Raspberry Pi",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi",
-      "updated_at": "2026-09-28T17:02:14Z",
-      "hash": "ad325b557f08f75174a7671657eacc41",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500010436341adjustthegpume-2nl0urirgdm5"
+    "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns": {
+      "id": 55895814798739,
+      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+      "updated_at": "2026-09-29T19:44:32Z",
+      "hash": "b8f9eaa346a90340ce7a10c6f415ff95",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55895814798739howtodisplays-5ynswt0wkac2"
     }
   }
 }
