@@ -1,6 +1,22 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "55906396437523-How-to-Use-the-Weather-Radar-App": {
+      "id": 55906396437523,
+      "title": "How to Use the Weather Radar App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
+      "updated_at": "2026-09-29T19:04:57Z",
+      "hash": "b586b4195619142ad79994b789da892f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55906396437523howtousethewe-e0z7vz5k2kky"
+    },
+    "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns": {
+      "id": 55895814798739,
+      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+      "updated_at": "2026-09-29T19:44:32Z",
+      "hash": "b8f9eaa346a90340ce7a10c6f415ff95",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55895814798739howtodisplays-5ynswt0wkac2"
+    },
     "55719322614803-Inbound-Webhook-DataSources-in-Designer": {
       "id": 55719322614803,
       "title": "Inbound Webhook DataSources in Designer",
@@ -320,14 +336,6 @@
       "updated_at": "2026-09-10T10:46:25Z",
       "hash": "893f796fe6806a8708b8220f518c1e80",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/37966066335891gettingstarte-3s9vtxd8e0l5"
-    },
-    "36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms": {
-      "id": 36911639377683,
-      "title": "How to Use OptiSigns with Microsoft Teams Rooms",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-      "updated_at": "2026-09-10T10:46:24Z",
-      "hash": "54a908909c31b1a2a7d7590493a17f71",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/36911639377683howtouseoptis-jv7kreco4b7b"
     },
     "36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player": {
       "id": 36501302096915,
@@ -1681,6 +1689,14 @@
       "hash": "1ca84c819d920ad842efb5ce0e21485d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-2o7x8uk7cf93"
     },
+    "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
+      "id": 360016252654,
+      "title": "Does OptiSigns offer Non-profit/Education discount?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
+      "updated_at": "2026-09-29T17:04:04Z",
+      "hash": "15e956e67ca716c3165036d85f3fd21a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016252654doesoptisignsof-chtzyo9etfa6"
+    },
     "360016247974-How-to-Upload-Manage-Your-Files-Assets": {
       "id": 360016247974,
       "title": "How to Upload & Manage Your Files/ Assets",
@@ -2057,6 +2073,14 @@
       "hash": "dcef5ad307f7274d0f6ff05c4d8fada8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019588654howtotellwhichd-qeqmhechvn3j"
     },
+    "360017964153-How-to-Use-Weather-Apps-in-OptiSigns": {
+      "id": 360017964153,
+      "title": "How to Use Weather Apps in OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
+      "updated_at": "2026-09-29T19:54:35Z",
+      "hash": "9a8b2d6c21bad7e91bda279169e8bd2d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-chahw9jracp4"
+    },
     "360016375153-Assign-content-to-your-screens": {
       "id": 360016375153,
       "title": "Assign content to your screens",
@@ -2304,6 +2328,14 @@
       "updated_at": "2026-09-10T09:39:18Z",
       "hash": "2c8f2db4b056840f840b8a60923ddad2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016174554amazonfirestick-p473mrchxv0r"
+    },
+    "44650391786131-Kiosk-Setup-Hub": {
+      "id": 44650391786131,
+      "title": "Kiosk Setup Hub",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
+      "updated_at": "2026-09-29T12:54:41Z",
+      "hash": "b14618d8e9ea79994e4739ffc6155647",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/44650391786131kiosksetuphub-eiwtm994wz47"
     },
     "42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines": {
       "id": 42313875427859,
@@ -2649,14 +2681,6 @@
       "hash": "fac772ac5c164544ddf7cc07c63fbe0b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5119724468371howtousenotion-tvl0ryb6rxz4"
     },
-    "4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns": {
-      "id": 4529298306963,
-      "title": "How to use Microsoft Excel Online with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns",
-      "updated_at": "2025-08-29T19:58:56Z",
-      "hash": "9d28cca98504c500558d8744ea48f800",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4529298306963howtousemicros-3msfgodkeb2s"
-    },
     "4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns": {
       "id": 4417940565139,
       "title": "How to display Microsoft Teams on OptiSigns",
@@ -2672,22 +2696,6 @@
       "updated_at": "2026-09-10T09:47:40Z",
       "hash": "7c5d55526534254013eab028c834bfa1",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414539282067displayingshar-u2o6tr1180ui"
-    },
-    "4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns": {
-      "id": 4414355658899,
-      "title": "How to Use Microsoft PowerPoint with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-      "updated_at": "2026-02-05T17:57:12Z",
-      "hash": "ae067df75eab43d5fba79349afb46b17",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414355658899howtousemicros-1e89zup1cjas"
-    },
-    "4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns": {
-      "id": 4411530012307,
-      "title": "How to use Microsoft Teams Live app with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns",
-      "updated_at": "2026-09-10T09:47:32Z",
-      "hash": "70869c8179fca1be05844f87999bb66c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411530012307howtousemicros-m1kyow060lx2"
     },
     "4410655948563-How-to-use-livestream-com-app": {
       "id": 4410655948563,
@@ -2985,14 +2993,6 @@
       "hash": "ce580d5864ff3b58d176ec01e8793449",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665413howtousedropbox-pjb4gmyi5rtz"
     },
-    "360050665253-How-to-use-the-OneDrive-App": {
-      "id": 360050665253,
-      "title": "How to use the OneDrive App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App",
-      "updated_at": "2026-09-10T09:43:15Z",
-      "hash": "362031ca838390f7d86bb5f85c901a21",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665253howtousetheoned-2flib58jxm2g"
-    },
     "360050664913-How-to-use-Google-Trends-App": {
       "id": 360050664913,
       "title": "How to use Google Trends App",
@@ -3289,45 +3289,45 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360017964153-How-to-Use-Weather-Apps-in-OptiSigns": {
-      "id": 360017964153,
-      "title": "How to Use Weather Apps in OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "updated_at": "2026-09-29T19:54:35Z",
-      "hash": "9a8b2d6c21bad7e91bda279169e8bd2d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360017964153howtouseweather-chahw9jracp4"
+    "4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns": {
+      "id": 4414355658899,
+      "title": "How to Use Microsoft PowerPoint with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
+      "updated_at": "2026-09-30T15:53:27Z",
+      "hash": "625c39f5781f4a0bb1849837f7a4dc81",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414355658899howtousemicros-e6yszx8cv4pb"
     },
-    "44650391786131-Kiosk-Setup-Hub": {
-      "id": 44650391786131,
-      "title": "Kiosk Setup Hub",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
-      "updated_at": "2026-09-29T12:54:41Z",
-      "hash": "b14618d8e9ea79994e4739ffc6155647",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/44650391786131kiosksetuphub-eiwtm994wz47"
+    "4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns": {
+      "id": 4411530012307,
+      "title": "How to Use Microsoft Teams Live app with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+      "updated_at": "2026-09-30T18:46:41Z",
+      "hash": "100b07825a311f04437ae3339e59f298",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411530012307howtousemicros-95oelgb6lm16"
     },
-    "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
-      "id": 360016252654,
-      "title": "Does OptiSigns offer Non-profit/Education discount?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
-      "updated_at": "2026-09-29T17:04:04Z",
-      "hash": "15e956e67ca716c3165036d85f3fd21a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016252654doesoptisignsof-chtzyo9etfa6"
+    "360050665253-How-to-Use-the-OneDrive-App": {
+      "id": 360050665253,
+      "title": "How to Use the OneDrive App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
+      "updated_at": "2026-09-30T18:35:21Z",
+      "hash": "a5201b1bb332326087e9721449e44360",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665253howtousetheoned-g5brctt8ardl"
     },
-    "55906396437523-How-to-Use-the-Weather-Radar-App": {
-      "id": 55906396437523,
-      "title": "How to Use the Weather Radar App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
-      "updated_at": "2026-09-29T19:04:57Z",
-      "hash": "b586b4195619142ad79994b789da892f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55906396437523howtousethewe-e0z7vz5k2kky"
+    "36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms": {
+      "id": 36911639377683,
+      "title": "How to Use OptiSigns with Microsoft Teams Rooms",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
+      "updated_at": "2026-09-30T21:54:02Z",
+      "hash": "cef57cd7806a3d9aa23830da13b36b8f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/36911639377683howtouseoptis-sjp0byg44jdl"
     },
-    "55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns": {
-      "id": 55895814798739,
-      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-      "updated_at": "2026-09-29T19:44:32Z",
-      "hash": "b8f9eaa346a90340ce7a10c6f415ff95",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55895814798739howtodisplays-5ynswt0wkac2"
+    "4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns": {
+      "id": 4529298306963,
+      "title": "How to Use Microsoft Excel Online with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+      "updated_at": "2026-09-30T20:03:12Z",
+      "hash": "6f2eb125b95e9645dbbb97c621a78638",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4529298306963howtousemicros-pqdjrgn8v6pc"
     }
   }
 }
