@@ -337,6 +337,14 @@
       "hash": "893f796fe6806a8708b8220f518c1e80",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/37966066335891gettingstarte-3s9vtxd8e0l5"
     },
+    "36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms": {
+      "id": 36911639377683,
+      "title": "How to Use OptiSigns with Microsoft Teams Rooms",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
+      "updated_at": "2026-09-30T21:54:02Z",
+      "hash": "cef57cd7806a3d9aa23830da13b36b8f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/36911639377683howtouseoptis-sjp0byg44jdl"
+    },
     "36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player": {
       "id": 36501302096915,
       "title": "How to access the Troubleshooting page of the OptiSigns Player",
@@ -576,14 +584,6 @@
       "updated_at": "2026-09-10T09:50:47Z",
       "hash": "fbd79475455039e2b45185913fd9fcd5",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27458261258387movescreensor-9qgviojgm12g"
-    },
-    "27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns": {
-      "id": 27356288211859,
-      "title": "How to use iCloud Calendar with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns",
-      "updated_at": "2026-03-26T16:45:12Z",
-      "hash": "8ab8459140a769c5f22bf17f3b132896",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-buvjl70fbc6g"
     },
     "27267311796243-OptiStick": {
       "id": 27267311796243,
@@ -1000,14 +1000,6 @@
       "updated_at": "2026-09-10T09:47:34Z",
       "hash": "0c26e71dbba6dcee2939b64620c3c574",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411743936147howtoconnectto-zj30a5lj6cjn"
-    },
-    "4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns": {
-      "id": 4408946045715,
-      "title": "How to Integrate Bonusly Digital Signage with Optisigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
-      "updated_at": "2026-09-10T09:47:16Z",
-      "hash": "ef6beffa55095a2de0b6a987b4ce6b56",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408946045715howtointegrate-iy7dbh83my9y"
     },
     "4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux": {
       "id": 4408658251027,
@@ -2681,21 +2673,29 @@
       "hash": "fac772ac5c164544ddf7cc07c63fbe0b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5119724468371howtousenotion-tvl0ryb6rxz4"
     },
-    "4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns": {
-      "id": 4417940565139,
-      "title": "How to display Microsoft Teams on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
-      "updated_at": "2026-09-10T09:47:53Z",
-      "hash": "f752672919e20b389e43a3e11a4e66da",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4417940565139howtodisplaymi-z1c7jrqr6de9"
+    "4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns": {
+      "id": 4529298306963,
+      "title": "How to Use Microsoft Excel Online with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+      "updated_at": "2026-09-30T20:03:12Z",
+      "hash": "6f2eb125b95e9645dbbb97c621a78638",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4529298306963howtousemicros-pqdjrgn8v6pc"
     },
-    "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns": {
-      "id": 4414539282067,
-      "title": "Displaying SharePoint Sites on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "updated_at": "2026-09-10T09:47:40Z",
-      "hash": "7c5d55526534254013eab028c834bfa1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414539282067displayingshar-u2o6tr1180ui"
+    "4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns": {
+      "id": 4414355658899,
+      "title": "How to Use Microsoft PowerPoint with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
+      "updated_at": "2026-09-30T15:53:27Z",
+      "hash": "625c39f5781f4a0bb1849837f7a4dc81",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414355658899howtousemicros-e6yszx8cv4pb"
+    },
+    "4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns": {
+      "id": 4411530012307,
+      "title": "How to Use Microsoft Teams Live app with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+      "updated_at": "2026-09-30T18:46:41Z",
+      "hash": "100b07825a311f04437ae3339e59f298",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411530012307howtousemicros-95oelgb6lm16"
     },
     "4410655948563-How-to-use-livestream-com-app": {
       "id": 4410655948563,
@@ -2737,14 +2737,6 @@
       "hash": "74e92c857bfe5474fb08a0cec746b224",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408052949139howtousethecal-eaa4tozcce3t"
     },
-    "4407335862931-How-to-use-Slack-App": {
-      "id": 4407335862931,
-      "title": "How to use Slack App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App",
-      "updated_at": "2026-09-10T09:47:03Z",
-      "hash": "171555ea1b032840dd65eac6ec70e302",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4407335862931howtouseslacka-gxn8j36easi4"
-    },
     "4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App": {
       "id": 4406214738707,
       "title": "How to Use the Microsoft Meeting Room App",
@@ -2760,14 +2752,6 @@
       "updated_at": "2025-09-04T18:05:53Z",
       "hash": "d039def09c3b8373996613110557fcfe",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4406180781203howtouselinked-e9rn6y7zugj2"
-    },
-    "4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns": {
-      "id": 4404053129619,
-      "title": "How to use Microsoft Teams Meeting app with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns",
-      "updated_at": "2026-09-10T09:46:32Z",
-      "hash": "1b420266e7acd8e372d40726c5006bd8",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404053129619howtousemicros-2vn7kicp2wed"
     },
     "4403267825171-How-to-use-the-Social-Mix-App": {
       "id": 4403267825171,
@@ -2985,13 +2969,13 @@
       "hash": "010c4acbce02fb03598e013b1967f416",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049872414howtousefaceboo-8497x8skg8au"
     },
-    "360050665413-How-to-use-Dropbox-App": {
-      "id": 360050665413,
-      "title": "How to use Dropbox App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-use-Dropbox-App",
-      "updated_at": "2026-09-10T09:43:16Z",
-      "hash": "ce580d5864ff3b58d176ec01e8793449",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665413howtousedropbox-pjb4gmyi5rtz"
+    "360050665253-How-to-Use-the-OneDrive-App": {
+      "id": 360050665253,
+      "title": "How to Use the OneDrive App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
+      "updated_at": "2026-09-30T18:35:21Z",
+      "hash": "a5201b1bb332326087e9721449e44360",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665253howtousetheoned-g5brctt8ardl"
     },
     "360050664913-How-to-use-Google-Trends-App": {
       "id": 360050664913,
@@ -3137,14 +3121,6 @@
       "hash": "9727e14b9352f7990285d868933aa5bc",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042450514howtouseworldcl-itclaskwkjsi"
     },
-    "360041222994-How-to-Use-the-CountUp-App": {
-      "id": 360041222994,
-      "title": "How to Use the CountUp App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-      "updated_at": "2026-09-10T09:41:44Z",
-      "hash": "a2172cf1c68f6886b1748ca6a299b2c1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041222994howtousethecoun-7vpttj4cocji"
-    },
     "360041638433-How-to-use-the-CountDown-App": {
       "id": 360041638433,
       "title": "How to use the CountDown App",
@@ -3208,14 +3184,6 @@
       "updated_at": "2026-07-27T15:39:23Z",
       "hash": "effe39f898d7b1d8ad5e174c024b7064",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037463934howtocreateandu-cualz2bhrgol"
-    },
-    "360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns": {
-      "id": 360036250853,
-      "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-      "updated_at": "2026-03-25T21:28:19Z",
-      "hash": "2eee68ca45dcd107e9f4d0c764ebe89c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360036250853howtousemicroso-eyg0jnfn6a5w"
     },
     "360037965133-How-to-Use-RSS-feeds-with-OptiSigns": {
       "id": 360037965133,
@@ -3289,45 +3257,77 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns": {
-      "id": 4414355658899,
-      "title": "How to Use Microsoft PowerPoint with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-      "updated_at": "2026-09-30T15:53:27Z",
-      "hash": "625c39f5781f4a0bb1849837f7a4dc81",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414355658899howtousemicros-e6yszx8cv4pb"
+    "4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns": {
+      "id": 4417940565139,
+      "title": "How to Display Microsoft Teams Chat on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+      "updated_at": "2026-10-01T20:13:18Z",
+      "hash": "464e52b47aa2dee7bfc6c487cd6ca469",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4417940565139howtodisplaymi-z4z48ck8fz1s"
     },
-    "4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns": {
-      "id": 4411530012307,
-      "title": "How to Use Microsoft Teams Live app with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
-      "updated_at": "2026-09-30T18:46:41Z",
-      "hash": "100b07825a311f04437ae3339e59f298",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4411530012307howtousemicros-95oelgb6lm16"
+    "360041222994-How-to-Use-the-CountUp-App": {
+      "id": 360041222994,
+      "title": "How to Use the CountUp App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
+      "updated_at": "2026-10-01T17:24:51Z",
+      "hash": "a2172cf1c68f6886b1748ca6a299b2c1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041222994howtousethecoun-y97cenr5m429"
     },
-    "360050665253-How-to-Use-the-OneDrive-App": {
-      "id": 360050665253,
-      "title": "How to Use the OneDrive App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
-      "updated_at": "2026-09-30T18:35:21Z",
-      "hash": "a5201b1bb332326087e9721449e44360",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665253howtousetheoned-g5brctt8ardl"
+    "4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns": {
+      "id": 4408946045715,
+      "title": "How to Integrate Bonusly Digital Signage with Optisigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
+      "updated_at": "2026-10-01T20:21:01Z",
+      "hash": "7411ea23867dd6e8f568e2bf0b0a6c5d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408946045715howtointegrate-pvlto3jxkhba"
     },
-    "36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms": {
-      "id": 36911639377683,
-      "title": "How to Use OptiSigns with Microsoft Teams Rooms",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-      "updated_at": "2026-09-30T21:54:02Z",
-      "hash": "cef57cd7806a3d9aa23830da13b36b8f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/36911639377683howtouseoptis-sjp0byg44jdl"
+    "360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns": {
+      "id": 360036250853,
+      "title": "How to Use Microsoft Outlook Calendar with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
+      "updated_at": "2026-10-01T15:00:40Z",
+      "hash": "6e60c271256def3eaf919a08badd6d20",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360036250853howtousemicroso-de77v6fwlrgf"
     },
-    "4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns": {
-      "id": 4529298306963,
-      "title": "How to Use Microsoft Excel Online with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
-      "updated_at": "2026-09-30T20:03:12Z",
-      "hash": "6f2eb125b95e9645dbbb97c621a78638",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4529298306963howtousemicros-pqdjrgn8v6pc"
+    "360050665413-How-to-Use-the-Dropbox-App": {
+      "id": 360050665413,
+      "title": "How to Use the Dropbox App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
+      "updated_at": "2026-10-01T21:20:35Z",
+      "hash": "273051a2b706bb12f367f5d88b5c6881",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050665413howtousethedrop-574mqqzo5mz3"
+    },
+    "27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns": {
+      "id": 27356288211859,
+      "title": "How to Use iCloud Calendar with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
+      "updated_at": "2026-10-01T19:37:52Z",
+      "hash": "96890dec10db086a025301c09a114a4f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27356288211859howtouseiclou-vfffi671tn9s"
+    },
+    "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns": {
+      "id": 4414539282067,
+      "title": "Displaying SharePoint Sites on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
+      "updated_at": "2026-10-01T16:01:20Z",
+      "hash": "ff62790e8c1a9ab10b96a7c4a5a1b7f5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414539282067displayingshar-q36ethya45o1"
+    },
+    "4407335862931-How-to-Use-the-Slack-App": {
+      "id": 4407335862931,
+      "title": "How to Use the Slack App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
+      "updated_at": "2026-10-01T21:46:16Z",
+      "hash": "456c5a6a47987d28930dae990baf0245",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4407335862931howtousethesla-gthjc1y4mljw"
+    },
+    "4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App": {
+      "id": 4404053129619,
+      "title": "How to Use the Microsoft Teams Meeting App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
+      "updated_at": "2026-10-01T19:33:01Z",
+      "hash": "4b90b0d9b8dba2fdcaa2f206f2751492",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404053129619howtousethemic-mqu9wkez0rap"
     }
   }
 }
