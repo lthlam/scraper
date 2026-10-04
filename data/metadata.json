@@ -561,6 +561,14 @@
       "hash": "c76bddfcc018e2d0dd34b30f3e20b7a2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27690296225555aicameraappqu-ikdlx2uwlyjy"
     },
+    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
+      "id": 27463953562899,
+      "title": "Amazon TV / FireStick Troubleshooting Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+      "updated_at": "2026-10-02T14:02:01Z",
+      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-zr4tofolhwgk"
+    },
     "27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another": {
       "id": 27458261258387,
       "title": "Move Screens or Devices from One Account to Another",
@@ -1392,14 +1400,6 @@
       "updated_at": "2026-09-10T09:44:22Z",
       "hash": "8c81a5e64dc9e79495252a2ce06dced2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056087613howtoclearcache-pfkzvz8u7mme"
-    },
-    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
-      "id": 360056086653,
-      "title": "How to Change Time Zone on Your Fire Stick device",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "updated_at": "2026-09-10T09:44:18Z",
-      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-8lqwxptb7avk"
     },
     "360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device": {
       "id": 360053198573,
@@ -2489,6 +2489,14 @@
       "hash": "00c3d04cb0b9f470377b9a42db38bc5a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11116333259283settingupyour-f4y9dgtbe1q2"
     },
+    "11032964830227-How-to-Use-the-Monday-com-App": {
+      "id": 11032964830227,
+      "title": "How to Use the Monday.com App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
+      "updated_at": "2026-10-02T15:17:32Z",
+      "hash": "1b54b47da244d394a1b5a624da7833e2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11032964830227howtousethemo-zcjnw54nqu0j"
+    },
     "4414558392339-API-Reference": {
       "id": 4414558392339,
       "title": "API Reference",
@@ -2544,6 +2552,14 @@
       "updated_at": "2026-09-10T08:01:07Z",
       "hash": "681cefcda4852512df991ba447788738",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12947820509971showhideoffli-gp518hjg9jp2"
+    },
+    "9392587446675-How-to-use-Airtable-with-OptiSigns": {
+      "id": 9392587446675,
+      "title": "How to use Airtable with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
+      "updated_at": "2026-10-02T15:09:00Z",
+      "hash": "acdbe5908cff6fad8cfa154a33af7422",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9392587446675howtouseairtab-lkkye12orvhn"
     },
     "4404879296403-How-to-Clean-Data-on-the-OptiSigns-Android-Stick": {
       "id": 4404879296403,
@@ -2800,6 +2816,22 @@
       "updated_at": "2025-09-04T15:16:41Z",
       "hash": "fdc8759c602154aa8a861b3f865df463",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009343862howtousethetag-lcbvyr9x0toc"
+    },
+    "1500005889381-How-to-Use-the-MindMeister-App": {
+      "id": 1500005889381,
+      "title": "How to Use the MindMeister App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
+      "updated_at": "2026-10-02T18:17:46Z",
+      "hash": "055162a641214d41af150ce360225fd1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500005889381howtousethemin-jhu0l4ui4ett"
+    },
+    "1500005888781-How-to-Best-Use-Canva-with-OptiSigns": {
+      "id": 1500005888781,
+      "title": "How to Best Use Canva with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
+      "updated_at": "2026-10-02T15:05:25Z",
+      "hash": "4cb2d64c34161705651df4f474299ab0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500005888781howtobestuseca-sopgb6l7djmj"
     },
     "1500002233221-How-to-use-Asana-App": {
       "id": 1500002233221,
@@ -3281,45 +3313,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "1500005889381-How-to-Use-the-MindMeister-App": {
-      "id": 1500005889381,
-      "title": "How to Use the MindMeister App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
-      "updated_at": "2026-10-02T18:17:46Z",
-      "hash": "055162a641214d41af150ce360225fd1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500005889381howtousethemin-jhu0l4ui4ett"
-    },
-    "1500005888781-How-to-Best-Use-Canva-with-OptiSigns": {
-      "id": 1500005888781,
-      "title": "How to Best Use Canva with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
-      "updated_at": "2026-10-02T15:05:25Z",
-      "hash": "4cb2d64c34161705651df4f474299ab0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500005888781howtobestuseca-sopgb6l7djmj"
-    },
-    "9392587446675-How-to-use-Airtable-with-OptiSigns": {
-      "id": 9392587446675,
-      "title": "How to use Airtable with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
-      "updated_at": "2026-10-02T15:09:00Z",
-      "hash": "acdbe5908cff6fad8cfa154a33af7422",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9392587446675howtouseairtab-lkkye12orvhn"
-    },
-    "11032964830227-How-to-Use-the-Monday-com-App": {
-      "id": 11032964830227,
-      "title": "How to Use the Monday.com App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
-      "updated_at": "2026-10-02T15:17:32Z",
-      "hash": "1b54b47da244d394a1b5a624da7833e2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11032964830227howtousethemo-zcjnw54nqu0j"
-    },
-    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
-      "id": 27463953562899,
-      "title": "Amazon TV / FireStick Troubleshooting Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "updated_at": "2026-10-02T14:02:01Z",
-      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-zr4tofolhwgk"
+    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
+      "id": 360056086653,
+      "title": "How to Change Time Zone on Your Fire Stick device",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+      "updated_at": "2026-10-03T10:02:59Z",
+      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-0vpc67v8igp3"
     }
   }
 }
