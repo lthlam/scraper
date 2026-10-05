@@ -1401,6 +1401,14 @@
       "hash": "8c81a5e64dc9e79495252a2ce06dced2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056087613howtoclearcache-pfkzvz8u7mme"
     },
+    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
+      "id": 360056086653,
+      "title": "How to Change Time Zone on Your Fire Stick device",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+      "updated_at": "2026-10-03T10:02:59Z",
+      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-0vpc67v8igp3"
+    },
     "360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device": {
       "id": 360053198573,
       "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
@@ -1672,14 +1680,6 @@
       "updated_at": "2026-09-10T08:16:16Z",
       "hash": "3bb47c0c901ca735514d2a7e0967a6e9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-xjxp6dft6w0k"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-09-13T15:02:03Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-2o7x8uk7cf93"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -3313,13 +3313,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
-      "id": 360056086653,
-      "title": "How to Change Time Zone on Your Fire Stick device",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "updated_at": "2026-10-03T10:02:59Z",
-      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-0vpc67v8igp3"
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-10-04T09:21:08Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-e7w1f7y78joh"
     }
   }
 }
