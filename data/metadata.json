@@ -1817,14 +1817,6 @@
       "hash": "f76d8cfe4b8c1ceb2656ced938e684fe",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041501494macosmd-eid40kjggq7l"
     },
-    "360035739414-How-to-Preview-a-Screen": {
-      "id": 360035739414,
-      "title": "How to Preview a Screen",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-      "updated_at": "2026-09-07T08:20:47Z",
-      "hash": "925e32f19fc7cf9c1822103064a8e6cd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035739414howtopreviewasc-76tth675wnz2"
-    },
     "360024310813-How-to-use-a-PDF-with-OptiSigns": {
       "id": 360024310813,
       "title": "How to use a PDF with OptiSigns",
@@ -3317,9 +3309,17 @@
       "id": 360016313754,
       "title": "How to Install an APK file on your Fire TV",
       "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-10-04T09:21:08Z",
+      "updated_at": "2026-10-05T21:09:30Z",
       "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-e7w1f7y78joh"
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-qs6lp5fwyvk9"
+    },
+    "360035739414-How-to-Preview-a-Screen": {
+      "id": 360035739414,
+      "title": "How to Preview a Screen",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+      "updated_at": "2026-10-05T16:37:23Z",
+      "hash": "925e32f19fc7cf9c1822103064a8e6cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035739414howtopreviewasc-h8de229iglhg"
     }
   }
 }
