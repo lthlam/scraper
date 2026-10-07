@@ -1625,14 +1625,6 @@
       "hash": "544b6a0a80a1138e6e738706c5e9c5f0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034219593powerpointtrans-2vk5795uncli"
     },
-    "360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage": {
-      "id": 360033693534,
-      "title": "PowerPoint Resolution, Size for use with Digital Signage",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
-      "updated_at": "2026-09-10T09:40:52Z",
-      "hash": "2eea1d4b470d04c828491013aab3e8b5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360033693534powerpointresol-7mvw86grygs4"
-    },
     "360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content": {
       "id": 360026610194,
       "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
@@ -1680,6 +1672,14 @@
       "updated_at": "2026-09-10T08:16:16Z",
       "hash": "3bb47c0c901ca735514d2a7e0967a6e9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-xjxp6dft6w0k"
+    },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-10-05T21:09:30Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-qs6lp5fwyvk9"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -1753,14 +1753,6 @@
       "hash": "0069c9c8033426932517a67fd843ac7f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28026588373139howtofixthesc-gdcaw6pmluaq"
     },
-    "25607930101907-How-to-get-the-most-out-of-your-Digital-Signs": {
-      "id": 25607930101907,
-      "title": "How to get the most out of your Digital Signs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
-      "updated_at": "2026-09-10T09:50:43Z",
-      "hash": "8680a7cd5a8a6a053cb8668c769108dc",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/25607930101907howtogetthemo-u9hvjxhl1l93"
-    },
     "18986181635859-How-to-Share-Contents-with-Other-Users-Teams": {
       "id": 18986181635859,
       "title": "How to Share Contents with Other Users/Teams",
@@ -1816,6 +1808,14 @@
       "updated_at": "2026-09-10T09:41:51Z",
       "hash": "f76d8cfe4b8c1ceb2656ced938e684fe",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041501494macosmd-eid40kjggq7l"
+    },
+    "360035739414-How-to-Preview-a-Screen": {
+      "id": 360035739414,
+      "title": "How to Preview a Screen",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+      "updated_at": "2026-10-05T16:37:23Z",
+      "hash": "925e32f19fc7cf9c1822103064a8e6cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035739414howtopreviewasc-h8de229iglhg"
     },
     "360024310813-How-to-use-a-PDF-with-OptiSigns": {
       "id": 360024310813,
@@ -3305,21 +3305,21 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-10-05T21:09:30Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-qs6lp5fwyvk9"
+    "25607930101907-How-to-get-the-most-out-of-your-Digital-Signs": {
+      "id": 25607930101907,
+      "title": "How to get the most out of your Digital Signs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
+      "updated_at": "2026-10-06T21:57:44Z",
+      "hash": "8680a7cd5a8a6a053cb8668c769108dc",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/25607930101907howtogetthemo-gevh7ek644bb"
     },
-    "360035739414-How-to-Preview-a-Screen": {
-      "id": 360035739414,
-      "title": "How to Preview a Screen",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-      "updated_at": "2026-10-05T16:37:23Z",
-      "hash": "925e32f19fc7cf9c1822103064a8e6cd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035739414howtopreviewasc-h8de229iglhg"
+    "360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage": {
+      "id": 360033693534,
+      "title": "PowerPoint Resolution, Size for use with Digital Signage",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
+      "updated_at": "2026-10-06T06:37:46Z",
+      "hash": "2eea1d4b470d04c828491013aab3e8b5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360033693534powerpointresol-aeh5bzorlnxs"
     }
   }
 }
