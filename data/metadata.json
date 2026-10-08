@@ -377,14 +377,6 @@
       "hash": "33e6241c28575bba374b71008eb40c5d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-uq7zriw1zmrq"
     },
-    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
-      "id": 33940834613139,
-      "title": "What Do I Get With an OptiSigns Free Plan?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "updated_at": "2026-09-10T09:51:52Z",
-      "hash": "38cd78864a3e3e703240e16934389905",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-obf5bkx2t7qa"
-    },
     "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
       "id": 33382537925267,
       "title": "Making a Video Wall with OptiSigns (Video Wall App)",
@@ -1625,6 +1617,14 @@
       "hash": "544b6a0a80a1138e6e738706c5e9c5f0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034219593powerpointtrans-2vk5795uncli"
     },
+    "360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage": {
+      "id": 360033693534,
+      "title": "PowerPoint Resolution, Size for use with Digital Signage",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
+      "updated_at": "2026-10-06T06:37:46Z",
+      "hash": "2eea1d4b470d04c828491013aab3e8b5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360033693534powerpointresol-aeh5bzorlnxs"
+    },
     "360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content": {
       "id": 360026610194,
       "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
@@ -1752,6 +1752,14 @@
       "updated_at": "2026-09-10T09:50:58Z",
       "hash": "0069c9c8033426932517a67fd843ac7f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28026588373139howtofixthesc-gdcaw6pmluaq"
+    },
+    "25607930101907-How-to-get-the-most-out-of-your-Digital-Signs": {
+      "id": 25607930101907,
+      "title": "How to get the most out of your Digital Signs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
+      "updated_at": "2026-10-06T21:57:44Z",
+      "hash": "8680a7cd5a8a6a053cb8668c769108dc",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/25607930101907howtogetthemo-gevh7ek644bb"
     },
     "18986181635859-How-to-Share-Contents-with-Other-Users-Teams": {
       "id": 18986181635859,
@@ -3305,21 +3313,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "25607930101907-How-to-get-the-most-out-of-your-Digital-Signs": {
-      "id": 25607930101907,
-      "title": "How to get the most out of your Digital Signs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
-      "updated_at": "2026-10-06T21:57:44Z",
-      "hash": "8680a7cd5a8a6a053cb8668c769108dc",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/25607930101907howtogetthemo-gevh7ek644bb"
-    },
-    "360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage": {
-      "id": 360033693534,
-      "title": "PowerPoint Resolution, Size for use with Digital Signage",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
-      "updated_at": "2026-10-06T06:37:46Z",
-      "hash": "2eea1d4b470d04c828491013aab3e8b5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360033693534powerpointresol-aeh5bzorlnxs"
+    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
+      "id": 33940834613139,
+      "title": "What Do I Get With an OptiSigns Free Plan?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+      "updated_at": "2026-10-07T22:30:11Z",
+      "hash": "37467b591ea601faeb3dc0ebe56b6faf",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-567v3tlae5tw"
     }
   }
 }
