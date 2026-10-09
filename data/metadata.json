@@ -57,14 +57,6 @@
       "hash": "a6fcbeed77c4bb2b5e0b4e573376b6a0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55450681344915connectsharep-0w1qd8hfjwyx"
     },
-    "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns": {
-      "id": 55447693635731,
-      "title": "How to Display Grafana Dashboards on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-      "updated_at": "2026-09-22T14:14:49Z",
-      "hash": "377135628f3edf62572ebf6381ddc463",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55447693635731howtodisplayg-gythhpvc3ip6"
-    },
     "55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast": {
       "id": 55416186918163,
       "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
@@ -3313,13 +3305,21 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
+    "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns": {
+      "id": 55447693635731,
+      "title": "How to Display Grafana Dashboards on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+      "updated_at": "2026-10-08T16:32:47Z",
+      "hash": "192c2bf802a808bb9a32f14d1acfb744",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55447693635731howtodisplayg-uml1ezjr2721"
+    },
     "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
       "id": 33940834613139,
       "title": "What Do I Get With an OptiSigns Free Plan?",
       "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "updated_at": "2026-10-07T22:30:11Z",
-      "hash": "37467b591ea601faeb3dc0ebe56b6faf",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-567v3tlae5tw"
+      "updated_at": "2026-10-08T16:57:16Z",
+      "hash": "10260f885a582ccd6ba05bb111a817b9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-k3zzz6tnv0xr"
     }
   }
 }
