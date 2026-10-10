@@ -57,6 +57,14 @@
       "hash": "a6fcbeed77c4bb2b5e0b4e573376b6a0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55450681344915connectsharep-0w1qd8hfjwyx"
     },
+    "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns": {
+      "id": 55447693635731,
+      "title": "How to Display Grafana Dashboards on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+      "updated_at": "2026-10-08T16:32:47Z",
+      "hash": "192c2bf802a808bb9a32f14d1acfb744",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55447693635731howtodisplayg-uml1ezjr2721"
+    },
     "55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast": {
       "id": 55416186918163,
       "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
@@ -368,6 +376,14 @@
       "updated_at": "2025-09-04T15:39:32Z",
       "hash": "33e6241c28575bba374b71008eb40c5d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-uq7zriw1zmrq"
+    },
+    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
+      "id": 33940834613139,
+      "title": "What Do I Get With an OptiSigns Free Plan?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+      "updated_at": "2026-10-08T16:57:16Z",
+      "hash": "10260f885a582ccd6ba05bb111a817b9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-k3zzz6tnv0xr"
     },
     "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
       "id": 33382537925267,
@@ -1664,14 +1680,6 @@
       "updated_at": "2026-09-10T08:16:16Z",
       "hash": "3bb47c0c901ca735514d2a7e0967a6e9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-xjxp6dft6w0k"
-    },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-10-05T21:09:30Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-qs6lp5fwyvk9"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -3305,21 +3313,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns": {
-      "id": 55447693635731,
-      "title": "How to Display Grafana Dashboards on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-      "updated_at": "2026-10-08T16:32:47Z",
-      "hash": "192c2bf802a808bb9a32f14d1acfb744",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55447693635731howtodisplayg-uml1ezjr2721"
-    },
-    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
-      "id": 33940834613139,
-      "title": "What Do I Get With an OptiSigns Free Plan?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "updated_at": "2026-10-08T16:57:16Z",
-      "hash": "10260f885a582ccd6ba05bb111a817b9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-k3zzz6tnv0xr"
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-10-09T06:17:18Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-8oveq7z78him"
     }
   }
 }
