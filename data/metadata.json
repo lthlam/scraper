@@ -465,14 +465,6 @@
       "hash": "6ee85957028e031271e5c73f3d0978d3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29792081890323guideforcreat-3rsu6nclmzwb"
     },
-    "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes": {
-      "id": 29465595849235,
-      "title": "List of Supported Cities for Weather Wall City Themes",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "updated_at": "2026-09-10T09:51:18Z",
-      "hash": "a3f88342ac42334e5520c720712d70da",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29465595849235listofsupport-4b46mkp50w64"
-    },
     "29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player": {
       "id": 29238381023123,
       "title": "How to Clear Cache on a BrightSign Player",
@@ -1680,6 +1672,14 @@
       "updated_at": "2026-09-10T08:16:16Z",
       "hash": "3bb47c0c901ca735514d2a7e0967a6e9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360020931734canidisablethed-xjxp6dft6w0k"
+    },
+    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
+      "id": 360016313754,
+      "title": "How to Install an APK file on your Fire TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "updated_at": "2026-10-09T06:17:18Z",
+      "hash": "1ca84c819d920ad842efb5ce0e21485d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-8oveq7z78him"
     },
     "360016252654-Does-OptiSigns-offer-Non-profit-Education-discount": {
       "id": 360016252654,
@@ -3313,13 +3313,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360016313754-How-to-Install-an-APK-file-on-your-Fire-TV": {
-      "id": 360016313754,
-      "title": "How to Install an APK file on your Fire TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "updated_at": "2026-10-09T06:17:18Z",
-      "hash": "1ca84c819d920ad842efb5ce0e21485d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016313754howtoinstallana-8oveq7z78him"
+    "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes": {
+      "id": 29465595849235,
+      "title": "List of Supported Cities for Weather Wall City Themes",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+      "updated_at": "2026-10-10T22:18:29Z",
+      "hash": "a3f88342ac42334e5520c720712d70da",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29465595849235listofsupport-wowowj7wml81"
     }
   }
 }
