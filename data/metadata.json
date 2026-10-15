@@ -185,14 +185,6 @@
       "hash": "e654055f6c0178eb431f6763471584a3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/51343184586643connectciscow-yubexrm6x4vm"
     },
-    "49039295567891-ChromeOS-PWA-Instructions": {
-      "id": 49039295567891,
-      "title": "ChromeOS PWA Instructions",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-      "updated_at": "2026-05-05T15:48:27Z",
-      "hash": "1c9dfeb5efb2d909b09ef2d043597dc7",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/49039295567891chromeospwain-dsm3wkohh47g"
-    },
     "48751096814995-How-to-Use-the-Google-Ads-Dashboard-App": {
       "id": 48751096814995,
       "title": "How to Use the Google Ads Dashboard App",
@@ -272,14 +264,6 @@
       "updated_at": "2026-01-13T21:20:16Z",
       "hash": "00ce1b7e7a3a3419c657fefee2693fa4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/40736654972563optisignsprop-02v0sx2ujg6i"
-    },
-    "40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound": {
-      "id": 40671590645651,
-      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-      "updated_at": "2026-09-18T13:02:26Z",
-      "hash": "2593b3043b5b0249602da8afa1906c44",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/40671590645651howtoplaylice-bv3w7d6huhba"
     },
     "40212027797523-Disk-Encryption": {
       "id": 40212027797523,
@@ -384,6 +368,14 @@
       "updated_at": "2026-10-08T16:57:16Z",
       "hash": "10260f885a582ccd6ba05bb111a817b9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-k3zzz6tnv0xr"
+    },
+    "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
+      "id": 33382537925267,
+      "title": "Making a Video Wall with OptiSigns (Video Wall App)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
+      "updated_at": "2026-10-13T04:44:01Z",
+      "hash": "1bbf5f97f0f9096b8c8068eecbfb9082",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-6qxb0c57ewd2"
     },
     "32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns": {
       "id": 32860569148819,
@@ -552,6 +544,14 @@
       "updated_at": "2026-09-10T09:50:56Z",
       "hash": "c76bddfcc018e2d0dd34b30f3e20b7a2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27690296225555aicameraappqu-ikdlx2uwlyjy"
+    },
+    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
+      "id": 27463953562899,
+      "title": "Amazon TV / FireStick Troubleshooting Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+      "updated_at": "2026-10-13T13:00:37Z",
+      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-k8rk7zw69lkv"
     },
     "27458261258387-Move-Screens-or-Devices-from-One-Account-to-Another": {
       "id": 27458261258387,
@@ -1433,14 +1433,6 @@
       "hash": "a2cce828231ed64054c53eb5e83cbdf7",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050602413howtouseoverlay-hzvfupjimsaf"
     },
-    "360048914673-Edit-Screen-What-does-each-option-do": {
-      "id": 360048914673,
-      "title": "Edit Screen: What does each option do?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-      "updated_at": "2026-09-10T09:42:40Z",
-      "hash": "834b67be70875f99337136e0a6671401",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-ackuekal7j83"
-    },
     "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
       "id": 360047275934,
       "title": "Whitelist OptiSigns IP addresses & ports",
@@ -1560,6 +1552,14 @@
       "updated_at": "2026-09-10T09:41:25Z",
       "hash": "260881b333d75ad0f05ef60f9f606d46",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038992973videocodecorvid-g47xcz0doktp"
+    },
+    "360037416494-How-to-Use-the-Jira-App": {
+      "id": 360037416494,
+      "title": "How to Use the Jira App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
+      "updated_at": "2026-10-13T21:50:54Z",
+      "hash": "9e193a0dcf468da6c9cf077fee6e7ff9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-me9nzoyc5twn"
     },
     "360037391854-How-to-display-content-inside-websites-that-require-login": {
       "id": 360037391854,
@@ -1720,14 +1720,6 @@
       "updated_at": "2026-09-10T09:51:23Z",
       "hash": "275aaaadbf2a890e93b9264522f19c01",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29863080711059howtoaddamicr-238ufw78glh2"
-    },
-    "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings": {
-      "id": 28295074995859,
-      "title": "How to Manage and Edit Your Playlist Settings",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "updated_at": "2026-10-12T21:22:30Z",
-      "hash": "98fd4c69e2f022f8a78b2e5f29b4a3f0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-az5y5p82uv0m"
     },
     "28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3": {
       "id": 28026588373139,
@@ -2321,6 +2313,14 @@
       "hash": "c084f55c2071fb070862b92af9fb8637",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/21449362442003updateoptisig-zk7q7vpdjbek"
     },
+    "12454101966355-How-to-Use-the-MustHaveMenus-App": {
+      "id": 12454101966355,
+      "title": "How to Use the MustHaveMenus App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
+      "updated_at": "2026-10-13T20:53:34Z",
+      "hash": "1f0a9ae27d00cd991dd0f73bf5dc6227",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12454101966355howtousethemu-z616hdb2lodj"
+    },
     "4414558369811-Pagination": {
       "id": 4414558369811,
       "title": "Pagination",
@@ -2609,6 +2609,14 @@
       "hash": "ff994bd32bc76a2bf3f79f3eb11f88a4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6604468198291howtousethecap-jo7z3cuu4gtb"
     },
+    "6091289267475-How-to-Use-the-Matterport-App": {
+      "id": 6091289267475,
+      "title": "How to Use the Matterport App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
+      "updated_at": "2026-10-13T20:37:01Z",
+      "hash": "979740f02023a3c42bef9ee7cf2b35a9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6091289267475howtousethemat-w125lt9yk134"
+    },
     "6086986017299-How-to-use-OptiSigns-Screen-Capture-app": {
       "id": 6086986017299,
       "title": "How to use OptiSigns Screen Capture app",
@@ -2624,6 +2632,14 @@
       "updated_at": "2026-09-10T09:48:08Z",
       "hash": "9fdaf74e13286d3ff98645ba0dcb8b35",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5149077938835howtouseadvanc-ju74ce93h7sb"
+    },
+    "5119724468371-How-to-Use-the-Notion-App": {
+      "id": 5119724468371,
+      "title": "How to Use the Notion App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
+      "updated_at": "2026-10-13T17:37:02Z",
+      "hash": "40051d7c4f41aded5377a4cc5e3ae90d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5119724468371howtousethenot-nxi7o61kq54e"
     },
     "4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns": {
       "id": 4529298306963,
@@ -2785,6 +2801,14 @@
       "hash": "4cb2d64c34161705651df4f474299ab0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500005888781howtobestuseca-sopgb6l7djmj"
     },
+    "1500002233221-How-to-Use-the-Asana-App": {
+      "id": 1500002233221,
+      "title": "How to Use the Asana App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
+      "updated_at": "2026-10-13T16:34:14Z",
+      "hash": "a1652ee41079a1d520cba926fc0d2bf5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500002233221howtousetheasa-jkdgzfufk57u"
+    },
     "1500002131621-How-to-use-YouTube-Live-with-OptiSigns": {
       "id": 1500002131621,
       "title": "How to use YouTube Live with OptiSigns",
@@ -2824,14 +2848,6 @@
       "updated_at": "2026-09-10T09:44:55Z",
       "hash": "15ad80715fa7aacb19720202b3271917",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060202914howtouseyoutube-q4twic88zxfm"
-    },
-    "360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs": {
-      "id": 360060919453,
-      "title": "How to put ZenDesk Dashboard on your signs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs",
-      "updated_at": "2026-09-10T09:45:01Z",
-      "hash": "dbda60a8706cbc0f5b473fe3b18901e7",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060919453howtoputzendesk-ssflffaz2thn"
     },
     "360058855273-How-to-use-Google-Docs-with-OptiSigns": {
       "id": 360058855273,
@@ -2912,6 +2928,14 @@
       "updated_at": "2026-09-10T09:43:33Z",
       "hash": "1aa5b0cf2071d2bc03ed538ad03e7591",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051495193howtouseinstagr-6o7j7pjmzcmi"
+    },
+    "360050244454-How-to-Use-the-Trello-App": {
+      "id": 360050244454,
+      "title": "How to Use the Trello App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
+      "updated_at": "2026-10-13T21:49:36Z",
+      "hash": "7a75cb38469aa0bdea0601f33aeefb65",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050244454howtousethetrel-nx3n7ufo47ba"
     },
     "360051014713-How-to-Use-YouTube-with-OptiSigns": {
       "id": 360051014713,
@@ -3032,6 +3056,14 @@
       "updated_at": "2026-09-15T11:32:26Z",
       "hash": "d7e075bb766a9c48a8b972fcd833993b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047499893howtousegooglet-ox5965u6f768"
+    },
+    "360046859534-How-to-Use-the-Twitch-App": {
+      "id": 360046859534,
+      "title": "How to Use the Twitch App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
+      "updated_at": "2026-10-13T17:00:14Z",
+      "hash": "0f71e19f0cfeff9c79bf2e6d473f0745",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360046859534howtousethetwit-2mnxij4myks1"
     },
     "360044619014-How-to-Use-the-Facebook-Counter-App": {
       "id": 360044619014,
@@ -3225,54 +3257,6 @@
       "hash": "14b67be49f618f52be0d9504a1612a38",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019517953howtousegooglec-6gnzbei6d8rc"
     },
-    "360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns": {
-      "id": 360016382473,
-      "title": "How to Use the Website App and Display URLs on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
-      "updated_at": "2026-09-10T09:39:57Z",
-      "hash": "3b8087b2028734db9fdf1a7631f24c4e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
-    },
-    "360050244454-How-to-Use-the-Trello-App": {
-      "id": 360050244454,
-      "title": "How to Use the Trello App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
-      "updated_at": "2026-10-13T21:49:36Z",
-      "hash": "7a75cb38469aa0bdea0601f33aeefb65",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050244454howtousethetrel-nx3n7ufo47ba"
-    },
-    "5119724468371-How-to-Use-the-Notion-App": {
-      "id": 5119724468371,
-      "title": "How to Use the Notion App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
-      "updated_at": "2026-10-13T17:37:02Z",
-      "hash": "40051d7c4f41aded5377a4cc5e3ae90d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5119724468371howtousethenot-nxi7o61kq54e"
-    },
-    "12454101966355-How-to-Use-the-MustHaveMenus-App": {
-      "id": 12454101966355,
-      "title": "How to Use the MustHaveMenus App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
-      "updated_at": "2026-10-13T20:53:34Z",
-      "hash": "1f0a9ae27d00cd991dd0f73bf5dc6227",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12454101966355howtousethemu-z616hdb2lodj"
-    },
-    "6091289267475-How-to-Use-the-Matterport-App": {
-      "id": 6091289267475,
-      "title": "How to Use the Matterport App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
-      "updated_at": "2026-10-13T20:37:01Z",
-      "hash": "979740f02023a3c42bef9ee7cf2b35a9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6091289267475howtousethemat-w125lt9yk134"
-    },
-    "360046859534-How-to-Use-the-Twitch-App": {
-      "id": 360046859534,
-      "title": "How to Use the Twitch App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
-      "updated_at": "2026-10-13T17:00:14Z",
-      "hash": "0f71e19f0cfeff9c79bf2e6d473f0745",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360046859534howtousethetwit-2mnxij4myks1"
-    },
     "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns": {
       "id": 360016254994,
       "title": "How to Display Vimeo Videos with OptiSigns",
@@ -3281,37 +3265,53 @@
       "hash": "c7a1dde5824b54eace97808cd89f81cd",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016254994howtodisplayvim-r5s4pr2bb7ku"
     },
-    "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
-      "id": 33382537925267,
-      "title": "Making a Video Wall with OptiSigns (Video Wall App)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "updated_at": "2026-10-13T04:44:01Z",
-      "hash": "1bbf5f97f0f9096b8c8068eecbfb9082",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33382537925267makingavideow-6qxb0c57ewd2"
+    "360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns": {
+      "id": 360016382473,
+      "title": "How to Use the Website App and Display URLs on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
+      "updated_at": "2026-09-10T09:39:57Z",
+      "hash": "3b8087b2028734db9fdf1a7631f24c4e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360037416494-How-to-Use-the-Jira-App": {
-      "id": 360037416494,
-      "title": "How to Use the Jira App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
-      "updated_at": "2026-10-13T21:50:54Z",
-      "hash": "9e193a0dcf468da6c9cf077fee6e7ff9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-me9nzoyc5twn"
+    "360060919453-How-to-Use-the-Zendesk-App": {
+      "id": 360060919453,
+      "title": "How to Use the Zendesk App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
+      "updated_at": "2026-10-14T18:07:38Z",
+      "hash": "80f4d2c7e521c4ab9e881f57cbd335f2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060919453howtousethezend-v3bxx50s8wl4"
     },
-    "27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide": {
-      "id": 27463953562899,
-      "title": "Amazon TV / FireStick Troubleshooting Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
-      "updated_at": "2026-10-13T13:00:37Z",
-      "hash": "0ae56fb778a0e520f2161ec59f1c4eb1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27463953562899amazontvfires-k8rk7zw69lkv"
+    "360048914673-Edit-Screen-What-does-each-option-do": {
+      "id": 360048914673,
+      "title": "Edit Screen: What does each option do?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+      "updated_at": "2026-10-14T18:02:17Z",
+      "hash": "78857218e1e333993163a3e20587b830",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-6uzd4t31ldgm"
     },
-    "1500002233221-How-to-Use-the-Asana-App": {
-      "id": 1500002233221,
-      "title": "How to Use the Asana App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
-      "updated_at": "2026-10-13T16:34:14Z",
-      "hash": "a1652ee41079a1d520cba926fc0d2bf5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500002233221howtousetheasa-jkdgzfufk57u"
+    "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings": {
+      "id": 28295074995859,
+      "title": "How to Manage and Edit Your Playlist Settings",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
+      "updated_at": "2026-10-14T18:00:33Z",
+      "hash": "c1a5eb0d784e254f80cbb3f51af9db68",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-4qrnhbx6024g"
+    },
+    "49039295567891-ChromeOS-PWA-Instructions": {
+      "id": 49039295567891,
+      "title": "ChromeOS PWA Instructions",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
+      "updated_at": "2026-10-14T19:21:13Z",
+      "hash": "fafec1665a76577250c40f90ac259d4f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/49039295567891chromeospwain-r58uei2u93hi"
+    },
+    "40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound": {
+      "id": 40671590645651,
+      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
+      "updated_at": "2026-10-14T21:03:18Z",
+      "hash": "a56823581602b1b8e91f8b958b6fc689",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/40671590645651howtoplaylice-n7t149oupu2t"
     }
   }
 }
