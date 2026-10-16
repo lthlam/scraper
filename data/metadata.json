@@ -97,14 +97,6 @@
       "hash": "1931cd10e51248a807ba413920503b05",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53952018650515howtodisplayd-y40m7he3rl2t"
     },
-    "53497007807251-Device-Management-and-Mass-Provisioning": {
-      "id": 53497007807251,
-      "title": "Device Management and Mass Provisioning",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-      "updated_at": "2026-07-16T16:39:52Z",
-      "hash": "3739f4c73405fec5639132645689ff61",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53497007807251devicemanagem-llowviexgs7j"
-    },
     "53293393593491-Refer-Earn-OptiSigns-Referral-Program": {
       "id": 53293393593491,
       "title": "Refer & Earn: OptiSigns Referral Program",
@@ -185,6 +177,14 @@
       "hash": "e654055f6c0178eb431f6763471584a3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/51343184586643connectciscow-yubexrm6x4vm"
     },
+    "49039295567891-ChromeOS-PWA-Instructions": {
+      "id": 49039295567891,
+      "title": "ChromeOS PWA Instructions",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
+      "updated_at": "2026-10-14T19:21:13Z",
+      "hash": "fafec1665a76577250c40f90ac259d4f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/49039295567891chromeospwain-r58uei2u93hi"
+    },
     "48751096814995-How-to-Use-the-Google-Ads-Dashboard-App": {
       "id": 48751096814995,
       "title": "How to Use the Google Ads Dashboard App",
@@ -264,6 +264,14 @@
       "updated_at": "2026-01-13T21:20:16Z",
       "hash": "00ce1b7e7a3a3419c657fefee2693fa4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/40736654972563optisignsprop-02v0sx2ujg6i"
+    },
+    "40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound": {
+      "id": 40671590645651,
+      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
+      "updated_at": "2026-10-14T21:03:18Z",
+      "hash": "a56823581602b1b8e91f8b958b6fc689",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/40671590645651howtoplaylice-n7t149oupu2t"
     },
     "40212027797523-Disk-Encryption": {
       "id": 40212027797523,
@@ -1433,6 +1441,14 @@
       "hash": "a2cce828231ed64054c53eb5e83cbdf7",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050602413howtouseoverlay-hzvfupjimsaf"
     },
+    "360048914673-Edit-Screen-What-does-each-option-do": {
+      "id": 360048914673,
+      "title": "Edit Screen: What does each option do?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+      "updated_at": "2026-10-14T18:02:17Z",
+      "hash": "78857218e1e333993163a3e20587b830",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-6uzd4t31ldgm"
+    },
     "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
       "id": 360047275934,
       "title": "Whitelist OptiSigns IP addresses & ports",
@@ -1609,14 +1625,6 @@
       "hash": "2eea1d4b470d04c828491013aab3e8b5",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360033693534powerpointresol-aeh5bzorlnxs"
     },
-    "360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content": {
-      "id": 360026610194,
-      "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content",
-      "updated_at": "2026-09-10T09:40:48Z",
-      "hash": "7bb301bad0456ddae8c04264009d431d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360026610194stretchyourimag-r3pfilp6dz7o"
-    },
     "360026559613-How-to-Create-a-Scrolling-Strip-or-Bar": {
       "id": 360026559613,
       "title": "How to Create a Scrolling Strip or Bar",
@@ -1720,6 +1728,14 @@
       "updated_at": "2026-09-10T09:51:23Z",
       "hash": "275aaaadbf2a890e93b9264522f19c01",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29863080711059howtoaddamicr-238ufw78glh2"
+    },
+    "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings": {
+      "id": 28295074995859,
+      "title": "How to Manage and Edit Your Playlist Settings",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
+      "updated_at": "2026-10-14T18:00:33Z",
+      "hash": "c1a5eb0d784e254f80cbb3f51af9db68",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-4qrnhbx6024g"
     },
     "28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3": {
       "id": 28026588373139,
@@ -2737,14 +2753,6 @@
       "hash": "5c121acfb0fb0bc96bfb4f08fe005a98",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4406214738707howtousethemic-51rdqtf0jc9o"
     },
-    "4406180781203-How-to-use-LinkedIn-App": {
-      "id": 4406180781203,
-      "title": "How to use LinkedIn App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App",
-      "updated_at": "2025-09-04T18:05:53Z",
-      "hash": "d039def09c3b8373996613110557fcfe",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4406180781203howtouselinked-e9rn6y7zugj2"
-    },
     "4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App": {
       "id": 4404053129619,
       "title": "How to Use the Microsoft Teams Meeting App",
@@ -2752,14 +2760,6 @@
       "updated_at": "2026-10-01T19:33:01Z",
       "hash": "4b90b0d9b8dba2fdcaa2f206f2751492",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404053129619howtousethemic-mqu9wkez0rap"
-    },
-    "4403267825171-How-to-use-the-Social-Mix-App": {
-      "id": 4403267825171,
-      "title": "How to use the Social Mix App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-use-the-Social-Mix-App",
-      "updated_at": "2026-09-10T09:46:24Z",
-      "hash": "d9d1bb9ccf2a5f3c2ba43e06cdcd0d15",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403267825171howtousethesoc-rljelghp3pou"
     },
     "1500011611322-How-to-use-the-CBC-News-App": {
       "id": 1500011611322,
@@ -2776,14 +2776,6 @@
       "updated_at": "2026-09-14T20:35:04Z",
       "hash": "20273d20d4f557a3501347077c5f7a87",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009492202howtousetheont-0iiitxinlmpb"
-    },
-    "1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns": {
-      "id": 1500009343862,
-      "title": "How to use the Taggbox Display app with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns",
-      "updated_at": "2025-09-04T15:16:41Z",
-      "hash": "fdc8759c602154aa8a861b3f865df463",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009343862howtousethetag-lcbvyr9x0toc"
     },
     "1500005889381-How-to-Use-the-MindMeister-App": {
       "id": 1500005889381,
@@ -2848,6 +2840,14 @@
       "updated_at": "2026-09-10T09:44:55Z",
       "hash": "15ad80715fa7aacb19720202b3271917",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060202914howtouseyoutube-q4twic88zxfm"
+    },
+    "360060919453-How-to-Use-the-Zendesk-App": {
+      "id": 360060919453,
+      "title": "How to Use the Zendesk App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
+      "updated_at": "2026-10-14T18:07:38Z",
+      "hash": "80f4d2c7e521c4ab9e881f57cbd335f2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060919453howtousethezend-v3bxx50s8wl4"
     },
     "360058855273-How-to-use-Google-Docs-with-OptiSigns": {
       "id": 360058855273,
@@ -2921,14 +2921,6 @@
       "hash": "db288ac029b464a26b87a4bd76205103",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051317774howtousefaceboo-wxekoqx5eqf7"
     },
-    "360051495193-How-to-use-Instagram-Business-App": {
-      "id": 360051495193,
-      "title": "How to use Instagram Business App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App",
-      "updated_at": "2026-09-10T09:43:33Z",
-      "hash": "1aa5b0cf2071d2bc03ed538ad03e7591",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051495193howtouseinstagr-6o7j7pjmzcmi"
-    },
     "360050244454-How-to-Use-the-Trello-App": {
       "id": 360050244454,
       "title": "How to Use the Trello App",
@@ -2944,14 +2936,6 @@
       "updated_at": "2026-09-24T14:52:18Z",
       "hash": "f6fee393b336b6ee8ba0b3aad5cb22e3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-2amcmctyjnyv"
-    },
-    "360049875794-How-to-use-Follow-Us-App": {
-      "id": 360049875794,
-      "title": "How to use Follow Us App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
-      "updated_at": "2026-09-10T09:42:59Z",
-      "hash": "cce44f14823583f1ca086d68b062e313",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049875794howtousefollowu-shlc0qveqpp5"
     },
     "360049872414-How-to-use-Facebook-Video-App": {
       "id": 360049872414,
@@ -3121,22 +3105,6 @@
       "hash": "9727e14b9352f7990285d868933aa5bc",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042450514howtouseworldcl-itclaskwkjsi"
     },
-    "360041222994-How-to-Use-the-CountUp-App": {
-      "id": 360041222994,
-      "title": "How to Use the CountUp App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-      "updated_at": "2026-10-01T17:24:51Z",
-      "hash": "a2172cf1c68f6886b1748ca6a299b2c1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041222994howtousethecoun-y97cenr5m429"
-    },
-    "360041638433-How-to-use-the-CountDown-App": {
-      "id": 360041638433,
-      "title": "How to use the CountDown App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-      "updated_at": "2026-09-11T04:37:51Z",
-      "hash": "2948ac1d241473497f4eb6e4ce0729aa",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041638433howtousethecoun-r5djfndxcl5r"
-    },
     "360041481553-How-to-Use-the-Simple-Calendar-App": {
       "id": 360041481553,
       "title": "How to Use the Simple Calendar App",
@@ -3273,45 +3241,69 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360060919453-How-to-Use-the-Zendesk-App": {
-      "id": 360060919453,
-      "title": "How to Use the Zendesk App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
-      "updated_at": "2026-10-14T18:07:38Z",
-      "hash": "80f4d2c7e521c4ab9e881f57cbd335f2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060919453howtousethezend-v3bxx50s8wl4"
+    "360049875794-How-to-Use-the-Follow-Us-App": {
+      "id": 360049875794,
+      "title": "How to Use the Follow Us App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App",
+      "updated_at": "2026-10-15T21:48:40Z",
+      "hash": "a822fa71c6435f275ea15ca67cd418de",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360049875794howtousethefoll-zt2md94t3rcu"
     },
-    "360048914673-Edit-Screen-What-does-each-option-do": {
-      "id": 360048914673,
-      "title": "Edit Screen: What does each option do?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-      "updated_at": "2026-10-14T18:02:17Z",
-      "hash": "78857218e1e333993163a3e20587b830",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-6uzd4t31ldgm"
+    "4406180781203-How-to-Use-the-LinkedIn-App": {
+      "id": 4406180781203,
+      "title": "How to Use the LinkedIn App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App",
+      "updated_at": "2026-10-15T21:52:35Z",
+      "hash": "fe54359304f512fefd6c597d501651ae",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4406180781203howtousethelin-ytudmgadrk3f"
     },
-    "28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings": {
-      "id": 28295074995859,
-      "title": "How to Manage and Edit Your Playlist Settings",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "updated_at": "2026-10-14T18:00:33Z",
-      "hash": "c1a5eb0d784e254f80cbb3f51af9db68",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-4qrnhbx6024g"
+    "1500009343862-How-to-Use-the-Taggbox-Display-App": {
+      "id": 1500009343862,
+      "title": "How to Use the Taggbox Display App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App",
+      "updated_at": "2026-10-15T22:17:54Z",
+      "hash": "c0b957bf32e3856c51ca7813638d4172",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009343862howtousethetag-i43x5j5fin9d"
     },
-    "49039295567891-ChromeOS-PWA-Instructions": {
-      "id": 49039295567891,
-      "title": "ChromeOS PWA Instructions",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-      "updated_at": "2026-10-14T19:21:13Z",
-      "hash": "fafec1665a76577250c40f90ac259d4f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/49039295567891chromeospwain-r58uei2u93hi"
+    "360051495193-How-to-Use-the-Instagram-Business-App": {
+      "id": 360051495193,
+      "title": "How to Use the Instagram Business App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
+      "updated_at": "2026-10-15T19:29:03Z",
+      "hash": "a5a244a6d49be95266ed321d044e6f2e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051495193howtousetheinst-ne2a4xxyvvb2"
     },
-    "40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound": {
-      "id": 40671590645651,
-      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-      "updated_at": "2026-10-14T21:03:18Z",
-      "hash": "a56823581602b1b8e91f8b958b6fc689",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/40671590645651howtoplaylice-n7t149oupu2t"
+    "360041222994-How-to-Use-the-CountUp-App": {
+      "id": 360041222994,
+      "title": "How to Use the CountUp App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
+      "updated_at": "2026-10-15T16:20:51Z",
+      "hash": "8c535a931edbf53725ff2f50b84863f4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041222994howtousethecoun-5zga1bdpe47o"
+    },
+    "53497007807251-Device-Management-and-Mass-Provisioning": {
+      "id": 53497007807251,
+      "title": "Device Management and Mass Provisioning",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+      "updated_at": "2026-10-15T16:10:20Z",
+      "hash": "a2c02ea00dd609ad3313b137cbf7fd27",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/53497007807251devicemanagem-i3g044ltkm7o"
+    },
+    "4403267825171-How-to-Use-the-Social-Mix-App": {
+      "id": 4403267825171,
+      "title": "How to Use the Social Mix App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App",
+      "updated_at": "2026-10-15T21:07:28Z",
+      "hash": "d3534f37bb2031bb71fb186e819e9957",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4403267825171howtousethesoc-k5wnixio3ttt"
+    },
+    "360041638433-How-to-Use-the-CountDown-App": {
+      "id": 360041638433,
+      "title": "How to Use the CountDown App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App",
+      "updated_at": "2026-10-15T18:24:17Z",
+      "hash": "175cf2b5c3dd369d7f9f31131420b965",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041638433howtousethecoun-wms0567ruoxi"
     }
   }
 }
