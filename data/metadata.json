@@ -873,14 +873,6 @@
       "hash": "ce77946e16686f1c90c50f20b3aa515b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15313086319763howtodesignki-1sj83b6valio"
     },
-    "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV": {
-      "id": 15268811715347,
-      "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
-      "updated_at": "2026-09-10T09:49:21Z",
-      "hash": "f327193c8019dc43f79c8d2d91cb5dba",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15268811715347cannotfindthe-bkm61344fhvi"
-    },
     "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App": {
       "id": 13320135306515,
       "title": "Build Integrations Using the OptiSigns Enterprise App",
@@ -3320,6 +3312,14 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
+    },
+    "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV": {
+      "id": 15268811715347,
+      "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
+      "updated_at": "2026-10-21T09:26:59Z",
+      "hash": "f327193c8019dc43f79c8d2d91cb5dba",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15268811715347cannotfindthe-vd0he1gfdlyh"
     }
   }
 }
