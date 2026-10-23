@@ -241,14 +241,6 @@
       "hash": "4916618b5b33128412158fd0682cd155",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/48626115821459howtousetheyo-dw3aj4d92e5h"
     },
-    "48241081473043-Operational-Schedule-Troubleshooting": {
-      "id": 48241081473043,
-      "title": "Operational Schedule Troubleshooting",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
-      "updated_at": "2026-04-20T21:26:17Z",
-      "hash": "9e65a827afe95d3956f05cee6342804d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/48241081473043operationalsc-jt11xowio0kh"
-    },
     "45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions": {
       "id": 45619214182803,
       "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
@@ -872,6 +864,14 @@
       "updated_at": "2026-07-14T07:45:20Z",
       "hash": "ce77946e16686f1c90c50f20b3aa515b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15313086319763howtodesignki-1sj83b6valio"
+    },
+    "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV": {
+      "id": 15268811715347,
+      "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
+      "updated_at": "2026-10-21T09:26:59Z",
+      "hash": "f327193c8019dc43f79c8d2d91cb5dba",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15268811715347cannotfindthe-vd0he1gfdlyh"
     },
     "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App": {
       "id": 13320135306515,
@@ -2425,14 +2425,6 @@
       "hash": "3d69d2293f4ce639faf4770ff401efbf",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5090125683219brightsignplay-soso5mpi0fmd"
     },
-    "4414564078995-Error-Handling": {
-      "id": 4414564078995,
-      "title": "Error Handling",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling",
-      "updated_at": "2025-09-11T14:10:24Z",
-      "hash": "00ddfa16220caa1a5df9288a0948a5bc",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414564078995errorhandlingm-0c3yegp7v49c"
-    },
     "360016484393-How-can-I-improve-stability-of-Fire-TV-as-Digital-Signage-player": {
       "id": 360016484393,
       "title": "How can I improve stability of Fire TV as Digital Signage player?",
@@ -3313,13 +3305,21 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV": {
-      "id": 15268811715347,
-      "title": "Cannot find the OptiSigns app on Your Samsung Smart TV",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
-      "updated_at": "2026-10-21T09:26:59Z",
-      "hash": "f327193c8019dc43f79c8d2d91cb5dba",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15268811715347cannotfindthe-vd0he1gfdlyh"
+    "4414564078995-Error-Handling": {
+      "id": 4414564078995,
+      "title": "Error Handling",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414564078995-Error-Handling",
+      "updated_at": "2026-10-22T10:22:18Z",
+      "hash": "00ddfa16220caa1a5df9288a0948a5bc",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414564078995errorhandlingm-gykqqzs59j08"
+    },
+    "48241081473043-Operational-Schedule-Troubleshooting": {
+      "id": 48241081473043,
+      "title": "Operational Schedule Troubleshooting",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
+      "updated_at": "2026-10-22T23:47:31Z",
+      "hash": "9e65a827afe95d3956f05cee6342804d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/48241081473043operationalsc-lq624v8iiqae"
     }
   }
 }
