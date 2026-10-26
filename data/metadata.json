@@ -2217,14 +2217,6 @@
       "hash": "e52d6c759736cbfe35c57a2d8a43519b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35337746613139howtocreatecu-nsj62x6eophy"
     },
-    "34087061669523-Amazon-Signage-Stick": {
-      "id": 34087061669523,
-      "title": "Amazon Signage Stick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-      "updated_at": "2026-09-09T07:45:55Z",
-      "hash": "32de111c8a2675132b62bed16761b5c9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-5pycfzs4g8s7"
-    },
     "14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing": {
       "id": 14502723487379,
       "title": "How to use AeriCast Add-on for Wireless Presentation and Video Conferencing",
@@ -2384,14 +2376,6 @@
       "updated_at": "2026-09-10T09:45:55Z",
       "hash": "90832f400c31cfb5ea373b031262405b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009042742fireostvsamazo-7tau17fg4wku"
-    },
-    "1500003244381-About-the-OnHold-Devices-Folder": {
-      "id": 1500003244381,
-      "title": "About the OnHold Devices Folder",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-      "updated_at": "2026-09-07T11:26:40Z",
-      "hash": "72d8d330a01fef1845de270262301627",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500003244381abouttheonhold-zuz9u7sz1udd"
     },
     "360016981853-Creating-and-Using-Schedules-with-OptiSigns": {
       "id": 360016981853,
@@ -3320,6 +3304,22 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
+    },
+    "34087061669523-Amazon-Signage-Stick": {
+      "id": 34087061669523,
+      "title": "Amazon Signage Stick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
+      "updated_at": "2026-10-25T02:01:21Z",
+      "hash": "32de111c8a2675132b62bed16761b5c9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-wo3h2hwstozk"
+    },
+    "1500003244381-About-the-OnHold-Devices-Folder": {
+      "id": 1500003244381,
+      "title": "About the OnHold Devices Folder",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
+      "updated_at": "2026-10-25T15:48:03Z",
+      "hash": "72d8d330a01fef1845de270262301627",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500003244381abouttheonhold-jt2ga2zll6ui"
     }
   }
 }
