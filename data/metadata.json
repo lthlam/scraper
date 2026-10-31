@@ -1,6 +1,14 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "56946344474003-LG-webOS-Smart-TVs-Consumer-Grade": {
+      "id": 56946344474003,
+      "title": "LG webOS Smart TVs (Consumer Grade)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+      "updated_at": "2026-10-29T16:54:08Z",
+      "hash": "bfddd3bc0aa3fc4d255f65cfb66d2524",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56946344474003lgwebossmartt-nsrsteeca030"
+    },
     "56498391179667-How-to-Use-the-Eventbrite-Events-App": {
       "id": 56498391179667,
       "title": "How to Use the Eventbrite Events App",
@@ -881,14 +889,6 @@
       "hash": "f327193c8019dc43f79c8d2d91cb5dba",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/15268811715347cannotfindthe-vd0he1gfdlyh"
     },
-    "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App": {
-      "id": 13320135306515,
-      "title": "Build Integrations Using the OptiSigns Enterprise App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-      "updated_at": "2026-10-26T08:22:44Z",
-      "hash": "3885e9992d8e969b4bf2699ce7b705be",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13320135306515buildintegrat-bsj8jw8rqf8z"
-    },
     "13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start": {
       "id": 13097501958291,
       "title": "OptiSigns IoT Sensor Add-on - Quick Start",
@@ -1449,14 +1449,6 @@
       "hash": "8ddba9dc2295a167213be3bb03fe2d17",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052361293howtoupdatefire-s5tba6mxo0rp"
     },
-    "360051745633-How-to-Set-up-an-Instagram-Business-Creator-account": {
-      "id": 360051745633,
-      "title": "How to Set up an Instagram Business/Creator account",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
-      "updated_at": "2026-09-10T09:43:35Z",
-      "hash": "c2cd7b74652a4d4399e39deeb369edba",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051745633howtosetupanins-n3wljjv7f7em"
-    },
     "360050602413-How-to-Use-Overlay-layers-with-OptiSigns": {
       "id": 360050602413,
       "title": "How to Use Overlay layers with OptiSigns",
@@ -1472,14 +1464,6 @@
       "updated_at": "2026-10-14T18:02:17Z",
       "hash": "78857218e1e333993163a3e20587b830",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360048914673editscreenwhatd-6uzd4t31ldgm"
-    },
-    "360047275934-Whitelist-OptiSigns-IP-addresses-ports": {
-      "id": 360047275934,
-      "title": "Whitelist OptiSigns IP addresses & ports",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "updated_at": "2026-09-17T15:37:11Z",
-      "hash": "0692c1fc68be575da7abacc73baf7a77",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-zfnpzpac0q6g"
     },
     "360047232054-Amazon-Fire-Stick-and-security-considerations": {
       "id": 360047232054,
@@ -1576,6 +1560,14 @@
       "updated_at": "2026-09-10T09:41:35Z",
       "hash": "7acf56e6cf7dd6f318fb8ebc932c057e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360040943374assigndefaultco-ctqrlrpcj776"
+    },
+    "360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku": {
+      "id": 360039566974,
+      "title": "Install OptiSigns as Channel or App on Roku",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+      "updated_at": "2026-10-29T16:45:01Z",
+      "hash": "d6c42cb2028b121f6bd8a41bd0edd8c5",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974installoptisign-3ih43u59gna1"
     },
     "360038992973-Video-codec-or-video-playback-issues": {
       "id": 360038992973,
@@ -1961,14 +1953,6 @@
       "hash": "075d93df2ed1cfd5c08607f443616a96",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016485633howcaniremotely-et5f7gebbuku"
     },
-    "360016388733-How-to-Use-the-Instagram-App": {
-      "id": 360016388733,
-      "title": "How to Use the Instagram App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
-      "updated_at": "2026-10-26T09:15:39Z",
-      "hash": "1385f74df55637b0b4761fa3275e0d90",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016388733howtousetheinst-mcw43knilcd6"
-    },
     "360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month": {
       "id": 360016219114,
       "title": "What if I want to increase, decrease number of screens during the month?",
@@ -2016,6 +2000,14 @@
       "updated_at": "2026-09-10T09:49:34Z",
       "hash": "7841ff6d01967c24c770f8c9b325f39a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17129313173395howtomanagesu-jtqqea9z3s3p"
+    },
+    "14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs": {
+      "id": 14726570281875,
+      "title": "Installing OptiSigns on Samsung Tizen Smart TVs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+      "updated_at": "2026-10-29T20:45:27Z",
+      "hash": "10f1c414a432d8e698bacc8d06197059",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14726570281875installingopt-nscz047fh1eb"
     },
     "4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen": {
       "id": 4414553099667,
@@ -2145,6 +2137,14 @@
       "hash": "2bba60f5e72cc8da2d67d2a3afb20047",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500008112642howtoinstallop-41gm4zgydsus"
     },
+    "360034379693-Raspberry-Pi": {
+      "id": 360034379693,
+      "title": "Raspberry Pi",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
+      "updated_at": "2026-10-29T17:18:19Z",
+      "hash": "f9c02df6a6479089e16d741cabd0f9a4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034379693raspberrypimd-ee92dwt3l3sy"
+    },
     "360016990233-Multi-users-Invite-your-team-members-to-your-account": {
       "id": 360016990233,
       "title": "Multi-users: Invite your team members to your account",
@@ -2192,6 +2192,14 @@
       "updated_at": "2025-10-01T19:04:05Z",
       "hash": "e52d6c759736cbfe35c57a2d8a43519b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35337746613139howtocreatecu-nsj62x6eophy"
+    },
+    "34087061669523-Amazon-Signage-Stick": {
+      "id": 34087061669523,
+      "title": "Amazon Signage Stick",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
+      "updated_at": "2026-10-29T20:18:17Z",
+      "hash": "bde401033eba81949bf3c3c72ab17e99",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-8xo0tfr7yomk"
     },
     "14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing": {
       "id": 14502723487379,
@@ -2377,6 +2385,14 @@
       "hash": "83c1b108d4f89868c87e00819a188302",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016484473whydoesmyscreen-8wvsb6b5p7pq"
     },
+    "32129032857875-Where-to-Buy-OptiSigns-Devices": {
+      "id": 32129032857875,
+      "title": "Where to Buy OptiSigns Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
+      "updated_at": "2026-10-29T15:32:35Z",
+      "hash": "d2be98fb1c888cf8992fe030dcb8a67c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32129032857875wheretobuyopt-qtzg7jddhi8h"
+    },
     "11784310183571-How-to-use-Waitwhile-App": {
       "id": 11784310183571,
       "title": "How to use Waitwhile App",
@@ -2384,6 +2400,14 @@
       "updated_at": "2026-09-10T09:49:03Z",
       "hash": "97a3866233469b6ad03003255b45188b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11784310183571howtousewaitw-rn2bx250vxxg"
+    },
+    "5090125683219-BrightSign-Players": {
+      "id": 5090125683219,
+      "title": "BrightSign Players",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
+      "updated_at": "2026-10-29T17:44:28Z",
+      "hash": "c2c3f5cc88e34839185c96322b0f200e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5090125683219brightsignplay-6ovd0u2t88hn"
     },
     "4414564078995-Error-Handling": {
       "id": 4414564078995,
@@ -2441,6 +2465,14 @@
       "hash": "d311930cae91d87ced7dc9b4a651f5b0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016252394webbrowserasopt-78beehfiu6uo"
     },
+    "11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade": {
+      "id": 11116333259283,
+      "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
+      "updated_at": "2026-10-29T20:48:30Z",
+      "hash": "d8cb98f6465d59341452ae69d01f725e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11116333259283settingupyour-zoqb7yzlj0vd"
+    },
     "11032964830227-How-to-Use-the-Monday-com-App": {
       "id": 11032964830227,
       "title": "How to Use the Monday.com App",
@@ -2480,6 +2512,14 @@
       "updated_at": "2026-09-10T09:48:50Z",
       "hash": "3e8e191561e6c78fa0aa28e413afde40",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10259143299219howtousethewe-6c2chyt8ajic"
+    },
+    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
+      "id": 4414496579475,
+      "title": "LG WebOS Signage (Commercial Grade)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
+      "updated_at": "2026-10-29T16:49:32Z",
+      "hash": "1e6412e2022ea00adc30b84de5bc2773",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-svr06q0xxsos"
     },
     "360016253694-Is-there-storage-limit-for-my-account": {
       "id": 360016253694,
@@ -2809,6 +2849,14 @@
       "hash": "c8fbbfacd19debbb2d3b1d0214ec2102",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500001985341howtousetheloc-m947rfr8f0iu"
     },
+    "360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns": {
+      "id": 360060284174,
+      "title": "How to use YouTube Live Schedule with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns",
+      "updated_at": "2026-10-29T06:24:09Z",
+      "hash": "c2dc5b855e31940983d6995f6c19b637",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060284174howtouseyoutube-zuvpgwa25p5g"
+    },
     "360060202914-How-to-use-YouTube-Channel-with-OptiSigns": {
       "id": 360060202914,
       "title": "How to use YouTube Channel with OptiSigns ",
@@ -2912,14 +2960,6 @@
       "updated_at": "2026-10-13T21:49:36Z",
       "hash": "7a75cb38469aa0bdea0601f33aeefb65",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360050244454howtousethetrel-nx3n7ufo47ba"
-    },
-    "360051014713-How-to-Use-YouTube-with-OptiSigns": {
-      "id": 360051014713,
-      "title": "How to Use YouTube with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "updated_at": "2026-10-26T13:22:13Z",
-      "hash": "f6fee393b336b6ee8ba0b3aad5cb22e3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-fukb2swsvnd7"
     },
     "360049875794-How-to-Use-the-Follow-Us-App": {
       "id": 360049875794,
@@ -3249,85 +3289,53 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns": {
-      "id": 360060284174,
-      "title": "How to use YouTube Live Schedule with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns",
-      "updated_at": "2026-10-29T06:24:09Z",
-      "hash": "c2dc5b855e31940983d6995f6c19b637",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060284174howtouseyoutube-zuvpgwa25p5g"
+    "360051014713-How-to-Use-YouTube-with-OptiSigns": {
+      "id": 360051014713,
+      "title": "How to Use YouTube with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+      "updated_at": "2026-10-30T20:44:00Z",
+      "hash": "a5976ec9643cbed6364a35e0e29dcdcd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051014713howtouseyoutube-dylanfg55t1v"
     },
-    "32129032857875-Where-to-Buy-OptiSigns-Devices": {
-      "id": 32129032857875,
-      "title": "Where to Buy OptiSigns Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "updated_at": "2026-10-29T15:32:35Z",
-      "hash": "d2be98fb1c888cf8992fe030dcb8a67c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/32129032857875wheretobuyopt-qtzg7jddhi8h"
+    "13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App": {
+      "id": 13320135306515,
+      "title": "Build Integrations Using the OptiSigns Enterprise App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+      "updated_at": "2026-10-30T17:06:59Z",
+      "hash": "d165181c6099a2edfc3319bbaaf5288d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/13320135306515buildintegrat-b5y4pak37pwo"
     },
-    "14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs": {
-      "id": 14726570281875,
-      "title": "Installing OptiSigns on Samsung Tizen Smart TVs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
-      "updated_at": "2026-10-29T20:45:27Z",
-      "hash": "10f1c414a432d8e698bacc8d06197059",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14726570281875installingopt-nscz047fh1eb"
+    "360051745633-How-to-Set-up-an-Instagram-Business-Creator-account": {
+      "id": 360051745633,
+      "title": "How to Set up an Instagram Business/Creator account",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
+      "updated_at": "2026-10-30T17:23:15Z",
+      "hash": "8996c7e4264cfc8f39ea761f7529831d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360051745633howtosetupanins-obv1rf9mu280"
     },
-    "34087061669523-Amazon-Signage-Stick": {
-      "id": 34087061669523,
-      "title": "Amazon Signage Stick",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-      "updated_at": "2026-10-29T20:18:17Z",
-      "hash": "bde401033eba81949bf3c3c72ab17e99",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-8xo0tfr7yomk"
+    "360016388733-How-to-Use-the-Instagram-App": {
+      "id": 360016388733,
+      "title": "How to Use the Instagram App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
+      "updated_at": "2026-10-30T20:24:26Z",
+      "hash": "817567bd07a1307e89f088ed85c20a03",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016388733howtousetheinst-928ikleojxks"
     },
-    "56946344474003-LG-webOS-Smart-TVs-Consumer-Grade": {
-      "id": 56946344474003,
-      "title": "LG webOS Smart TVs (Consumer Grade)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
-      "updated_at": "2026-10-29T16:54:08Z",
-      "hash": "bfddd3bc0aa3fc4d255f65cfb66d2524",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56946344474003lgwebossmartt-nsrsteeca030"
+    "56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector": {
+      "id": 56987330525587,
+      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+      "updated_at": "2026-10-30T19:28:50Z",
+      "hash": "e4739dacde060501dfc90e81f734d86e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56987330525587connectchatgp-8rx740henkfv"
     },
-    "360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku": {
-      "id": 360039566974,
-      "title": "Install OptiSigns as Channel or App on Roku",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
-      "updated_at": "2026-10-29T16:45:01Z",
-      "hash": "d6c42cb2028b121f6bd8a41bd0edd8c5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974installoptisign-3ih43u59gna1"
-    },
-    "360034379693-Raspberry-Pi": {
-      "id": 360034379693,
-      "title": "Raspberry Pi",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
-      "updated_at": "2026-10-29T17:18:19Z",
-      "hash": "f9c02df6a6479089e16d741cabd0f9a4",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034379693raspberrypimd-ee92dwt3l3sy"
-    },
-    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
-      "id": 4414496579475,
-      "title": "LG WebOS Signage (Commercial Grade)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "updated_at": "2026-10-29T16:49:32Z",
-      "hash": "1e6412e2022ea00adc30b84de5bc2773",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-svr06q0xxsos"
-    },
-    "5090125683219-BrightSign-Players": {
-      "id": 5090125683219,
-      "title": "BrightSign Players",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
-      "updated_at": "2026-10-29T17:44:28Z",
-      "hash": "c2c3f5cc88e34839185c96322b0f200e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5090125683219brightsignplay-6ovd0u2t88hn"
-    },
-    "11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade": {
-      "id": 11116333259283,
-      "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
-      "updated_at": "2026-10-29T20:48:30Z",
-      "hash": "d8cb98f6465d59341452ae69d01f725e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/11116333259283settingupyour-zoqb7yzlj0vd"
+    "360047275934-Whitelist-OptiSigns-IP-Addresses-Ports": {
+      "id": 360047275934,
+      "title": "Whitelist OptiSigns IP Addresses & Ports",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+      "updated_at": "2026-10-30T16:09:57Z",
+      "hash": "741226493a1885b87505040845128541",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360047275934whitelistoptisi-j06cq0kn8emm"
     }
   }
 }
