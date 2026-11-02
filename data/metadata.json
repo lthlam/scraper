@@ -553,6 +553,14 @@
       "hash": "6b2bb79743e50e4652e5dea5e2a11e27",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28427819992979performancest-9rwsvfcj7xbw"
     },
+    "28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide": {
+      "id": 28424138317971,
+      "title": "Samsung Tizen TVs Troubleshooting Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide",
+      "updated_at": "2026-10-31T18:30:08Z",
+      "hash": "827f441aad28b296c57f0b8e317817b3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28424138317971samsungtizent-ezpl6e0h2ogz"
+    },
     "28421615261971-Roku-Troubleshooting-guide": {
       "id": 28421615261971,
       "title": "Roku Troubleshooting guide",
@@ -1432,14 +1440,6 @@
       "updated_at": "2026-09-10T09:44:22Z",
       "hash": "8c81a5e64dc9e79495252a2ce06dced2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056087613howtoclearcache-pfkzvz8u7mme"
-    },
-    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
-      "id": 360056086653,
-      "title": "How to Change Time Zone on Your Fire Stick device",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "updated_at": "2026-10-03T10:02:59Z",
-      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-0vpc67v8igp3"
     },
     "360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device": {
       "id": 360053198573,
@@ -3313,14 +3313,6 @@
       "hash": "14b67be49f618f52be0d9504a1612a38",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019517953howtousegooglec-6gnzbei6d8rc"
     },
-    "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns": {
-      "id": 360016254994,
-      "title": "How to Display Vimeo Videos with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-      "updated_at": "2026-10-13T17:40:15Z",
-      "hash": "c7a1dde5824b54eace97808cd89f81cd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016254994howtodisplayvim-r5s4pr2bb7ku"
-    },
     "360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns": {
       "id": 360016382473,
       "title": "How to Use the Website App and Display URLs on OptiSigns",
@@ -3329,13 +3321,21 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide": {
-      "id": 28424138317971,
-      "title": "Samsung Tizen TVs Troubleshooting Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide",
-      "updated_at": "2026-10-31T18:30:08Z",
-      "hash": "827f441aad28b296c57f0b8e317817b3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28424138317971samsungtizent-ezpl6e0h2ogz"
+    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
+      "id": 360056086653,
+      "title": "How to Change Time Zone on Your Fire Stick device",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+      "updated_at": "2026-11-01T14:18:06Z",
+      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-dgj82g3m8e52"
+    },
+    "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns": {
+      "id": 360016254994,
+      "title": "How to Display Vimeo Videos with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
+      "updated_at": "2026-11-01T03:35:10Z",
+      "hash": "c7a1dde5824b54eace97808cd89f81cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016254994howtodisplayvim-lb128jak6vhx"
     }
   }
 }
