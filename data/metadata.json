@@ -937,14 +937,6 @@
       "hash": "32bec08ff34269f3dda816eba380aaf0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-qjn26ubw6ncg"
     },
-    "9169378546195-Data-Residency-and-OptiSigns": {
-      "id": 9169378546195,
-      "title": "Data Residency and OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "updated_at": "2026-09-10T09:48:42Z",
-      "hash": "918746c3f5db1a73f7bac253297bc1ef",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-56xp62fe7kaz"
-    },
     "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands": {
       "id": 9061950942995,
       "title": "Using RS232 to Schedule TV Power On/Off or other commands",
@@ -1441,6 +1433,14 @@
       "hash": "8c81a5e64dc9e79495252a2ce06dced2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056087613howtoclearcache-pfkzvz8u7mme"
     },
+    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
+      "id": 360056086653,
+      "title": "How to Change Time Zone on Your Fire Stick device",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+      "updated_at": "2026-11-01T14:18:06Z",
+      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-dgj82g3m8e52"
+    },
     "360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device": {
       "id": 360053198573,
       "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
@@ -1880,14 +1880,6 @@
       "updated_at": "2026-09-04T16:55:12Z",
       "hash": "3b6dbb9b052ed9bb89a4beb8aa886166",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/38680194603155promaxmd-dqqba6lp0sas"
-    },
-    "35626165056787-How-to-Contact-OptiSigns-Support": {
-      "id": 35626165056787,
-      "title": "How to Contact OptiSigns Support",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
-      "updated_at": "2026-09-10T10:46:17Z",
-      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-w3okfbr2hlv2"
     },
     "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync": {
       "id": 29838866920211,
@@ -3313,6 +3305,14 @@
       "hash": "14b67be49f618f52be0d9504a1612a38",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360019517953howtousegooglec-6gnzbei6d8rc"
     },
+    "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns": {
+      "id": 360016254994,
+      "title": "How to Display Vimeo Videos with OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
+      "updated_at": "2026-11-01T03:35:10Z",
+      "hash": "c7a1dde5824b54eace97808cd89f81cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016254994howtodisplayvim-lb128jak6vhx"
+    },
     "360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns": {
       "id": 360016382473,
       "title": "How to Use the Website App and Display URLs on OptiSigns",
@@ -3321,21 +3321,21 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device": {
-      "id": 360056086653,
-      "title": "How to Change Time Zone on Your Fire Stick device",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "updated_at": "2026-11-01T14:18:06Z",
-      "hash": "4a2a0c92e56779135f4fc4df3309fca2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360056086653howtochangetime-dgj82g3m8e52"
+    "9169378546195-Data-Residency-and-OptiSigns": {
+      "id": 9169378546195,
+      "title": "Data Residency and OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+      "updated_at": "2026-11-02T17:03:51Z",
+      "hash": "2f7acf660ab1c5e9736c30e30eaf0cfd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-57nmbycd32ef"
     },
-    "360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns": {
-      "id": 360016254994,
-      "title": "How to Display Vimeo Videos with OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-      "updated_at": "2026-11-01T03:35:10Z",
-      "hash": "c7a1dde5824b54eace97808cd89f81cd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016254994howtodisplayvim-lb128jak6vhx"
+    "35626165056787-How-to-Contact-OptiSigns-Support": {
+      "id": 35626165056787,
+      "title": "How to Contact OptiSigns Support",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+      "updated_at": "2026-11-02T19:05:18Z",
+      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-i3s9wazjs6dw"
     }
   }
 }
