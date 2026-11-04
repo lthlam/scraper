@@ -937,6 +937,14 @@
       "hash": "32bec08ff34269f3dda816eba380aaf0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-qjn26ubw6ncg"
     },
+    "9169378546195-Data-Residency-and-OptiSigns": {
+      "id": 9169378546195,
+      "title": "Data Residency and OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+      "updated_at": "2026-11-02T17:03:51Z",
+      "hash": "2f7acf660ab1c5e9736c30e30eaf0cfd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-57nmbycd32ef"
+    },
     "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands": {
       "id": 9061950942995,
       "title": "Using RS232 to Schedule TV Power On/Off or other commands",
@@ -1625,14 +1633,6 @@
       "hash": "59f80907cd196f84cccf28ba531b0e52",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360035538093myimagecontenta-gx8scjthnoon"
     },
-    "360034883113-Working-with-Teams-and-Security-Levels": {
-      "id": 360034883113,
-      "title": "Working with Teams and Security Levels",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
-      "updated_at": "2026-10-13T01:44:24Z",
-      "hash": "536896414477e78c30cb98416fb4f17b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-7mvwurp3pwwy"
-    },
     "360034379293-Windows": {
       "id": 360034379293,
       "title": "Windows",
@@ -1880,6 +1880,14 @@
       "updated_at": "2026-09-04T16:55:12Z",
       "hash": "3b6dbb9b052ed9bb89a4beb8aa886166",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/38680194603155promaxmd-dqqba6lp0sas"
+    },
+    "35626165056787-How-to-Contact-OptiSigns-Support": {
+      "id": 35626165056787,
+      "title": "How to Contact OptiSigns Support",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+      "updated_at": "2026-11-02T19:05:18Z",
+      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-i3s9wazjs6dw"
     },
     "29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync": {
       "id": 29838866920211,
@@ -3321,21 +3329,13 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "9169378546195-Data-Residency-and-OptiSigns": {
-      "id": 9169378546195,
-      "title": "Data Residency and OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "updated_at": "2026-11-02T17:03:51Z",
-      "hash": "2f7acf660ab1c5e9736c30e30eaf0cfd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-57nmbycd32ef"
-    },
-    "35626165056787-How-to-Contact-OptiSigns-Support": {
-      "id": 35626165056787,
-      "title": "How to Contact OptiSigns Support",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
-      "updated_at": "2026-11-02T19:05:18Z",
-      "hash": "4f4e3d51cf47951d9f09dfde5da73141",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35626165056787howtocontacto-i3s9wazjs6dw"
+    "360034883113-Working-with-Teams-and-Security-Levels": {
+      "id": 360034883113,
+      "title": "Working with Teams and Security Levels",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+      "updated_at": "2026-11-03T15:01:24Z",
+      "hash": "536896414477e78c30cb98416fb4f17b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360034883113workingwithteam-i6lxwsp6q17i"
     }
   }
 }
