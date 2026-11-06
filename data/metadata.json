@@ -1033,14 +1033,6 @@
       "hash": "7411ea23867dd6e8f568e2bf0b0a6c5d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408946045715howtointegrate-pvlto3jxkhba"
     },
-    "4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux": {
-      "id": 4408658251027,
-      "title": "How to use Remote Command Execution - Windows/Linux",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
-      "updated_at": "2026-08-18T09:38:04Z",
-      "hash": "1e22ee5bc754650496d982f4398f39a0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4408658251027howtouseremote-g2nmo3poe94t"
-    },
     "4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location": {
       "id": 4408052029587,
       "title": "How to Use Weather Apps Based on Device Location",
@@ -1064,14 +1056,6 @@
       "updated_at": "2026-09-10T09:47:07Z",
       "hash": "547f0ebd067f48c6e83bd5a3d48ed023",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4407476403859howtosetupsaml-zlmpy0pnc30p"
-    },
-    "4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin": {
-      "id": 4407386819731,
-      "title": "How to set up SAML 2.0 with OptiSigns and OneLogin",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin",
-      "updated_at": "2025-09-04T13:48:07Z",
-      "hash": "c3547da2c2344c172b1ceea5434d9418",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4407386819731howtosetupsaml-kfo9x89vqhiz"
     },
     "4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD": {
       "id": 4407252213395,
@@ -1345,14 +1329,6 @@
       "hash": "dbd92ce9da73263d44e3e86fc477b430",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360057327693advancedhowtoin-49q59at2l6is"
     },
-    "360055486554-Remotely-Control-and-Command-OptiSigns-Devices": {
-      "id": 360055486554,
-      "title": "Remotely Control and Command OptiSigns Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
-      "updated_at": "2025-09-24T18:58:23Z",
-      "hash": "64c2c0fe72195285b3de88fe7b14ebfb",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055486554remotelycontrol-61u5bzus5ztt"
-    },
     "360057146573-Advanced-How-to-Manually-Install-Activate-OptiSigns-Remote-Agent-on-Linux-or-Raspberry-Pi": {
       "id": 360057146573,
       "title": "Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi",
@@ -1489,14 +1465,6 @@
       "hash": "9cd8f863e903decf1e139e00a69f9eb3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143333rokureleasenote-92rd30iacsa4"
     },
-    "360041587014-How-to-change-Billing-information": {
-      "id": 360041587014,
-      "title": "How to change Billing information",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-change-Billing-information",
-      "updated_at": "2026-09-10T09:41:53Z",
-      "hash": "558131600e6eff4760a4d420071a7303",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014howtochangebill-tbg2xze3rrk3"
-    },
     "360041570153-My-image-content-are-bleeding-off-the-screens-with-Windows-Linux-Mac-Raspberry-Pi-app-need-screen-calibration": {
       "id": 360041570153,
       "title": "My image, content are bleeding off the screens with Windows, Linux, Mac, Raspberry Pi app (need screen calibration)",
@@ -1520,14 +1488,6 @@
       "updated_at": "2026-10-29T16:45:01Z",
       "hash": "d6c42cb2028b121f6bd8a41bd0edd8c5",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360039566974installoptisign-3ih43u59gna1"
-    },
-    "360038992973-Video-codec-or-video-playback-issues": {
-      "id": 360038992973,
-      "title": "Video codec or video playback issues",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
-      "updated_at": "2026-10-19T13:04:32Z",
-      "hash": "260881b333d75ad0f05ef60f9f606d46",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038992973videocodecorvid-p7w60khnulp0"
     },
     "360037416494-How-to-Use-the-Jira-App": {
       "id": 360037416494,
@@ -1728,14 +1688,6 @@
       "updated_at": "2026-09-10T09:47:50Z",
       "hash": "f79fff58829f514116c5391d74cd9a01",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414563797139generatemanage-1yt9u403k0gp"
-    },
-    "360054557434-View-Billing-History-and-Download-Receipts": {
-      "id": 360054557434,
-      "title": "View Billing History and Download Receipts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
-      "updated_at": "2026-09-10T09:43:59Z",
-      "hash": "fd6574c1084c836d5b8dbcaefa11617b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360054557434viewbillinghist-d7lsql08jet0"
     },
     "360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account": {
       "id": 360050855313,
@@ -2041,14 +1993,6 @@
       "hash": "edf7a629b1eccb65230b3e6730579566",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27070013297427displaydevice-y118s1iheepf"
     },
-    "14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on": {
-      "id": 14557706459283,
-      "title": "Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on",
-      "updated_at": "2026-09-10T09:49:15Z",
-      "hash": "515252f619c9faa89e7081a1d7bc9d7d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14557706459283presentsharei-2suzxvr3ma9y"
-    },
     "4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists": {
       "id": 4414558295955,
       "title": "Tutorial: Create, Update, Add, Remove items from Playlists",
@@ -2088,6 +2032,14 @@
       "updated_at": "2026-09-10T09:40:13Z",
       "hash": "8e767dc098b73b4cb40aadd9f14395a9",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016990233multiusersinvit-f33zbccj1xnh"
+    },
+    "360016374813-Set-Up-Add-or-Unpair-a-Screen": {
+      "id": 360016374813,
+      "title": "Set Up, Add, or Unpair a Screen",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-Up-Add-or-Unpair-a-Screen",
+      "updated_at": "2026-11-04T18:12:14Z",
+      "hash": "4953e371c91a7a65233f64b749553ce2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016374813setupaddorunpai-txmwqeliegpv"
     },
     "46299245284243-Kiosk50": {
       "id": 46299245284243,
@@ -2201,14 +2153,6 @@
       "hash": "52e0788a9b0b470d1290f5096861a076",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35577511423635optisignsprop-cko4foshb4we"
     },
-    "14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on": {
-      "id": 14502378549907,
-      "title": "Present / share your screen with OptiSigns & AeriCast Add-on",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on",
-      "updated_at": "2026-09-10T09:49:14Z",
-      "hash": "f6d6075b650dbdc425d9d2d16fc50c5f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14502378549907presentsharey-tsir1s2mokyv"
-    },
     "4404608957075-How-to-Delete-Your-Account-from-OptiSigns": {
       "id": 4404608957075,
       "title": "How to Delete Your Account from OptiSigns",
@@ -2216,6 +2160,14 @@
       "updated_at": "2026-09-18T13:52:14Z",
       "hash": "00ef473396b7517e07c541df9a133c62",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404608957075howtodeleteyou-xt3zi89er16p"
+    },
+    "360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks": {
+      "id": 360016174554,
+      "title": "How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
+      "updated_at": "2026-11-04T17:44:59Z",
+      "hash": "1a72dd5b4fa9f9075f104d219a60b4cd",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016174554howtosetupandma-niw93kaso1jo"
     },
     "44650391786131-Kiosk-Setup-Hub": {
       "id": 44650391786131,
@@ -2409,14 +2361,6 @@
       "hash": "7dd3690cec9c200a84689be1064c728c",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360060049534howtoexporthigh-n9mmh1miizia"
     },
-    "12498801963027-Show-Offline-Indicator-feature": {
-      "id": 12498801963027,
-      "title": "Show Offline Indicator feature",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-      "updated_at": "2026-09-07T11:26:19Z",
-      "hash": "684e6636494417dcd237d4ba0d375b6a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-r9fhm8ysfgwp"
-    },
     "10259143299219-How-to-Use-the-Website-Screenshot-app": {
       "id": 10259143299219,
       "title": "How to Use the Website Screenshot app",
@@ -2425,6 +2369,14 @@
       "hash": "3e8e191561e6c78fa0aa28e413afde40",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10259143299219howtousethewe-6c2chyt8ajic"
     },
+    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
+      "id": 4414496579475,
+      "title": "LG WebOS Signage (Commercial Grade)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
+      "updated_at": "2026-11-04T17:16:40Z",
+      "hash": "1e6412e2022ea00adc30b84de5bc2773",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-t445exw7so55"
+    },
     "360016253694-Is-there-storage-limit-for-my-account": {
       "id": 360016253694,
       "title": "Is there storage limit for my account?",
@@ -2432,14 +2384,6 @@
       "updated_at": "2025-07-30T06:36:27Z",
       "hash": "c9611dadc604797b79d87628faa8ac89",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016253694istherestoragel-br7bj90nj85s"
-    },
-    "12947820509971-Show-Hide-Offline-Indicator-on-your-Player": {
-      "id": 12947820509971,
-      "title": "Show/Hide Offline Indicator on your Player",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/12947820509971-Show-Hide-Offline-Indicator-on-your-Player",
-      "updated_at": "2026-09-10T08:01:07Z",
-      "hash": "681cefcda4852512df991ba447788738",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12947820509971showhideoffli-gp518hjg9jp2"
     },
     "9392587446675-How-to-use-Airtable-with-OptiSigns": {
       "id": 9392587446675,
@@ -2496,22 +2440,6 @@
       "updated_at": "2026-09-10T09:48:38Z",
       "hash": "8e3eca1e5e3d74a7625d861a9efdec23",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/8369526604435howtousethevid-38o8v5bhztih"
-    },
-    "8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices": {
-      "id": 8098889840531,
-      "title": "How to use RTSP Streams on OptiSigns Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices",
-      "updated_at": "2026-09-10T09:48:33Z",
-      "hash": "5a68cfa471335c5c445d006ac17088c3",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/8098889840531howtousertspst-r86ss1fjc0wj"
-    },
-    "8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns": {
-      "id": 8066591235603,
-      "title": "How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns ",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns",
-      "updated_at": "2026-09-10T09:48:28Z",
-      "hash": "ab3ce6fa1c1dd94025a2a000a96379d0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/8066591235603howtousertspst-colmuzthmyll"
     },
     "6757989639827-How-to-Use-the-Weather-Alert-App": {
       "id": 6757989639827,
@@ -2824,14 +2752,6 @@
       "updated_at": "2026-09-10T16:43:35Z",
       "hash": "c95d38cca68b68ec98c7e8182b2c8830",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052827713howtousetheflas-iqjh1zj0j5ow"
-    },
-    "360052513253-How-to-use-Emergency-Message-Alert-App": {
-      "id": 360052513253,
-      "title": "How to use Emergency Message/Alert App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-use-Emergency-Message-Alert-App",
-      "updated_at": "2025-09-04T20:02:00Z",
-      "hash": "35ada2a2b124c9c99fbb1a1a58ad30a1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052513253howtouseemergen-2l7u0cvlb328"
     },
     "360052088413-How-to-Use-the-Data-Studio-App": {
       "id": 360052088413,
@@ -3201,29 +3121,69 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "360016374813-Set-Up-Add-or-Unpair-a-Screen": {
-      "id": 360016374813,
-      "title": "Set Up, Add, or Unpair a Screen",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-Up-Add-or-Unpair-a-Screen",
-      "updated_at": "2026-11-04T18:12:14Z",
-      "hash": "4953e371c91a7a65233f64b749553ce2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016374813setupaddorunpai-txmwqeliegpv"
+    "360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos": {
+      "id": 360038992973,
+      "title": "Video Codec or Video Playback Issues and How to Re-encode Videos",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+      "updated_at": "2026-11-05T22:37:38Z",
+      "hash": "23bac486114ee0ce4630937e4fbe01d4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038992973videocodecorvid-tk21umx6alej"
     },
-    "360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks": {
-      "id": 360016174554,
-      "title": "How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
-      "updated_at": "2026-11-04T17:44:59Z",
-      "hash": "1a72dd5b4fa9f9075f104d219a60b4cd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016174554howtosetupandma-niw93kaso1jo"
+    "360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts": {
+      "id": 360041587014,
+      "title": "How to Change Your Billing Information, View Billing History, and Download Receipts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+      "updated_at": "2026-11-05T16:12:55Z",
+      "hash": "ba0b3e15ed728c373bbc51a8bd19f359",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014howtochangeyour-wlq01lfqbspy"
     },
-    "4414496579475-LG-WebOS-Signage-Commercial-Grade": {
-      "id": 4414496579475,
-      "title": "LG WebOS Signage (Commercial Grade)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "updated_at": "2026-11-04T17:16:40Z",
-      "hash": "1e6412e2022ea00adc30b84de5bc2773",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414496579475lgwebossignage-t445exw7so55"
+    "14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on": {
+      "id": 14502378549907,
+      "title": "Present or Share Your Screen with OptiSigns and the AeriCast Add-on",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+      "updated_at": "2026-11-05T17:28:46Z",
+      "hash": "ed7239bdd29068a5f61645eee65b2555",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14502378549907presentorshar-6cwq2i6r5svt"
+    },
+    "360055486554-Remotely-Control-and-Command-OptiSigns-Devices": {
+      "id": 360055486554,
+      "title": "Remotely Control and Command OptiSigns Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
+      "updated_at": "2026-11-05T22:33:29Z",
+      "hash": "f6c0d52980ad7074c45d3979d71db3aa",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360055486554remotelycontrol-pw5nj354mo4a"
+    },
+    "12498801963027-Show-Offline-Indicator-Feature": {
+      "id": 12498801963027,
+      "title": "Show Offline Indicator Feature",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-Feature",
+      "updated_at": "2026-11-05T22:21:11Z",
+      "hash": "0fe04180cd25f2f96175ffd266dbc3b3",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/12498801963027showofflinein-ru5u89sz8xeo"
+    },
+    "4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin": {
+      "id": 4407386819731,
+      "title": "How to Set Up SAML 2.0 with OptiSigns and OneLogin",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+      "updated_at": "2026-11-05T16:05:04Z",
+      "hash": "3e29e6d49e63c2427f694cff3f7fc001",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4407386819731howtosetupsaml-4u3hajpr0xch"
+    },
+    "360052513253-How-to-Use-the-Emergency-Message-Alert-App": {
+      "id": 360052513253,
+      "title": "How to Use the Emergency Message/Alert App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App",
+      "updated_at": "2026-11-05T21:58:11Z",
+      "hash": "71ef75e413d025bf594d05cd183f2735",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360052513253howtousetheemer-ewe7de2n35vz"
+    },
+    "8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices": {
+      "id": 8098889840531,
+      "title": "How to Use RTSP Streams on OptiSigns Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+      "updated_at": "2026-11-05T22:28:24Z",
+      "hash": "b8e3b5880a98239584125d43e462c8f9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/8098889840531howtousertspst-1utshnoib9v2"
     }
   }
 }
