@@ -529,6 +529,14 @@
       "hash": "1ad9fee1d0604a934dee9a1adf580e4f",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29217646663187howtosetupdyn-6zmgki4bhxr9"
     },
+    "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232": {
+      "id": 28598173096723,
+      "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
+      "updated_at": "2026-11-06T15:07:59Z",
+      "hash": "ec9ce590e9e1ac0e0351a970b261392a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28598173096723howtocreatean-8f9qtc9faq2u"
+    },
     "28427819992979-Performance-Stability-issues-on-Android-devices-and-Best-Practices": {
       "id": 28427819992979,
       "title": "Performance/Stability issues on Android devices and Best Practices",
@@ -1473,6 +1481,14 @@
       "hash": "ba0b3e15ed728c373bbc51a8bd19f359",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014howtochangeyour-wlq01lfqbspy"
     },
+    "360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen": {
+      "id": 360041570153,
+      "title": "Screen Calibration: Fix Content Bleeding off the Screen",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+      "updated_at": "2026-11-06T20:25:31Z",
+      "hash": "5d475eecadefc8e60b09067c121a16b9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041570153screencalibrati-zbc05apanr65"
+    },
     "360040943374-Assign-Default-Content-for-Schedules": {
       "id": 360040943374,
       "title": "Assign Default Content for Schedules",
@@ -1656,6 +1672,14 @@
       "updated_at": "2026-10-14T18:00:33Z",
       "hash": "c1a5eb0d784e254f80cbb3f51af9db68",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28295074995859howtomanagean-4qrnhbx6024g"
+    },
+    "28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices": {
+      "id": 28026588373139,
+      "title": "How to Fix the Scaling Issue on OptiSigns Android Devices",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+      "updated_at": "2026-11-06T21:29:15Z",
+      "hash": "9db0e3ed3e1c82f8870797661d64d6f1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28026588373139howtofixthesc-nser80sawy7o"
     },
     "25607930101907-How-to-get-the-most-out-of-your-Digital-Signs": {
       "id": 25607930101907,
@@ -1920,6 +1944,14 @@
       "updated_at": "2026-09-10T09:45:08Z",
       "hash": "56acb8693102a9153970518366defad3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360063693093howtouseapprova-fmoydseifrt2"
+    },
+    "360021855653-What-hardware-and-devices-are-supported": {
+      "id": 360021855653,
+      "title": "What hardware and devices are supported?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
+      "updated_at": "2026-11-06T21:19:25Z",
+      "hash": "d58e487f29eaea0f4d9e498507223919",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-0y4b8nfj7mdj"
     },
     "360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns": {
       "id": 360019588654,
@@ -3136,38 +3168,6 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
-    },
-    "360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen": {
-      "id": 360041570153,
-      "title": "Screen Calibration: Fix Content Bleeding off the Screen",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
-      "updated_at": "2026-11-06T20:25:31Z",
-      "hash": "5d475eecadefc8e60b09067c121a16b9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041570153screencalibrati-zbc05apanr65"
-    },
-    "28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232": {
-      "id": 28598173096723,
-      "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "updated_at": "2026-11-06T15:07:59Z",
-      "hash": "ec9ce590e9e1ac0e0351a970b261392a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28598173096723howtocreatean-8f9qtc9faq2u"
-    },
-    "28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices": {
-      "id": 28026588373139,
-      "title": "How to Fix the Scaling Issue on OptiSigns Android Devices",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
-      "updated_at": "2026-11-06T21:29:15Z",
-      "hash": "9db0e3ed3e1c82f8870797661d64d6f1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28026588373139howtofixthesc-nser80sawy7o"
-    },
-    "360021855653-What-hardware-and-devices-are-supported": {
-      "id": 360021855653,
-      "title": "What hardware and devices are supported?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported",
-      "updated_at": "2026-11-06T21:19:25Z",
-      "hash": "d58e487f29eaea0f4d9e498507223919",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360021855653whathardwareand-0y4b8nfj7mdj"
     }
   }
 }
