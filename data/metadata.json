@@ -9,6 +9,14 @@
       "hash": "e4739dacde060501dfc90e81f734d86e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56987330525587connectchatgp-8rx740henkfv"
     },
+    "56498391179667-How-to-Use-the-Eventbrite-Events-App": {
+      "id": 56498391179667,
+      "title": "How to Use the Eventbrite Events App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App",
+      "updated_at": "2026-11-12T23:15:33Z",
+      "hash": "863d6c3ec3b81b1921404466f3d39c4c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56498391179667howtousetheev-bguil0yav02c"
+    },
     "56498363329683-How-to-Use-the-Air-Quality-Index-App": {
       "id": 56498363329683,
       "title": "How to Use the Air Quality Index App",
@@ -776,6 +784,14 @@
       "updated_at": "2026-09-10T09:49:59Z",
       "hash": "d96c3ffcb9200a0d725007b21bae9968",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18988049363859pushcontentst-c3wy1hw5yks2"
+    },
+    "18823504383891-OptiSigns-Getting-Started-Guide": {
+      "id": 18823504383891,
+      "title": "OptiSigns - Getting Started Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+      "updated_at": "2026-11-12T17:59:51Z",
+      "hash": "bac12afea59fb9902bef8128a6d0c3ca",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18823504383891optisignsgett-xgbbzbqx7gcx"
     },
     "18399492388371-How-to-Customize-the-Thumbnail-of-Files-Assets-and-Folders": {
       "id": 18399492388371,
@@ -1600,6 +1616,14 @@
       "updated_at": "2026-09-29T17:04:04Z",
       "hash": "15e956e67ca716c3165036d85f3fd21a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016252654doesoptisignsof-chtzyo9etfa6"
+    },
+    "360016247974-How-to-Upload-Manage-Your-Files-Assets": {
+      "id": 360016247974,
+      "title": "How to Upload & Manage Your Files/ Assets",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
+      "updated_at": "2026-11-12T09:09:16Z",
+      "hash": "0ecda39e5e92ead8d20c960be8a4448b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016247974howtouploadmana-x03sjx6zu0do"
     },
     "360016342373-What-types-of-files-are-supported": {
       "id": 360016342373,
@@ -3144,30 +3168,6 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
-    },
-    "56498391179667-How-to-Use-the-Eventbrite-Events-App": {
-      "id": 56498391179667,
-      "title": "How to Use the Eventbrite Events App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App",
-      "updated_at": "2026-11-12T23:15:33Z",
-      "hash": "863d6c3ec3b81b1921404466f3d39c4c",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56498391179667howtousetheev-bguil0yav02c"
-    },
-    "18823504383891-OptiSigns-Getting-Started-Guide": {
-      "id": 18823504383891,
-      "title": "OptiSigns - Getting Started Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
-      "updated_at": "2026-11-12T17:59:51Z",
-      "hash": "bac12afea59fb9902bef8128a6d0c3ca",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/18823504383891optisignsgett-xgbbzbqx7gcx"
-    },
-    "360016247974-How-to-Upload-Manage-Your-Files-Assets": {
-      "id": 360016247974,
-      "title": "How to Upload & Manage Your Files/ Assets",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
-      "updated_at": "2026-11-12T09:09:16Z",
-      "hash": "0ecda39e5e92ead8d20c960be8a4448b",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016247974howtouploadmana-x03sjx6zu0do"
     }
   }
 }
