@@ -577,6 +577,14 @@
       "hash": "110ed5e6ed1ebf6881ed98430aa2ba3a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28140190892307howtouseqrove-pkeztfetzwl5"
     },
+    "28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences": {
+      "id": 28115946505107,
+      "title": "How to Change Engage/Kiosk Style Preferences",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
+      "updated_at": "2026-11-16T19:20:08Z",
+      "hash": "07f0a038e9659686498467fb56dc842f",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28115946505107howtochangeen-h09uft758y6o"
+    },
     "27690296225555-AI-Camera-App-Quick-Start": {
       "id": 27690296225555,
       "title": "AI Camera App - Quick Start",
@@ -656,6 +664,14 @@
       "updated_at": "2026-09-28T22:24:04Z",
       "hash": "c531274ea23875917e80419e3b8c982d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23566927217939howtousecheck-2fccz1ozk9ln"
+    },
+    "23565267463315-Engage-Plan-FAQs": {
+      "id": 23565267463315,
+      "title": "Engage Plan - FAQs",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+      "updated_at": "2026-11-16T19:24:34Z",
+      "hash": "11936569d1bfd150e54274435bab789d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23565267463315engageplanfaq-ddbisfarv4vu"
     },
     "23274673797139-How-to-enable-auto-start-on-FireOS-8-devices-like-Amazon-Fire-TV-Stick-4K-Gen-2-2023-model": {
       "id": 23274673797139,
@@ -904,14 +920,6 @@
       "updated_at": "2026-09-17T05:00:57Z",
       "hash": "32bec08ff34269f3dda816eba380aaf0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-qjn26ubw6ncg"
-    },
-    "9169378546195-Data-Residency-and-OptiSigns": {
-      "id": 9169378546195,
-      "title": "Data Residency and OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "updated_at": "2026-11-02T17:03:51Z",
-      "hash": "2f7acf660ab1c5e9736c30e30eaf0cfd",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-57nmbycd32ef"
     },
     "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands": {
       "id": 9061950942995,
@@ -1241,6 +1249,14 @@
       "hash": "a833c2201414316dd7f198c388135754",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360059386254howtousetheyout-obej6k6gg19a"
     },
+    "1500000493782-Billing-Changing-Plans-or-Screen-Counts": {
+      "id": 1500000493782,
+      "title": "Billing: Changing Plans or Screen Counts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+      "updated_at": "2026-11-16T20:25:41Z",
+      "hash": "1a3badec234775dadd80c25c119efad0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billingchangin-6sfg72oqsuxi"
+    },
     "1500000485202-Custom-Branding-Settings-and-Branded-Portals": {
       "id": 1500000485202,
       "title": "Custom Branding Settings and Branded Portals",
@@ -1448,6 +1464,14 @@
       "updated_at": "2026-07-30T14:35:18Z",
       "hash": "9cd8f863e903decf1e139e00a69f9eb3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143333rokureleasenote-92rd30iacsa4"
+    },
+    "360041587014-Billing-Details-Failed-Payments-Receipts": {
+      "id": 360041587014,
+      "title": "Billing Details, Failed Payments & Receipts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+      "updated_at": "2026-11-16T21:36:09Z",
+      "hash": "199961a4cfd7b38a8e443211d2a5972e",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014billingdetailsf-hurv04nsrnb4"
     },
     "360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen": {
       "id": 360041570153,
@@ -1769,6 +1793,14 @@
       "hash": "7c1e1ce6282372e0025d6a9aa2bb4274",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27676133574547ireceivedtheo-cz0esay8hej3"
     },
+    "17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription": {
+      "id": 17639078588691,
+      "title": "Cancel, Pause or Downgrade Your Subscription",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+      "updated_at": "2026-11-16T22:41:11Z",
+      "hash": "6ce6404f8968ed45d1812d05938d0569",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17639078588691cancelpauseor-gty6pe6ha0dr"
+    },
     "6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV": {
       "id": 6636047009427,
       "title": "How to install OptiSigns Player on Apple TV",
@@ -2057,6 +2089,14 @@
       "hash": "510dbcd9e0d3cc8a97061775653204e8",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14502723487379howtouseaeric-hs0eatma2bpm"
     },
+    "4404616314515-How-to-Change-Account-Owners": {
+      "id": 4404616314515,
+      "title": "How to Change Account Owners",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
+      "updated_at": "2026-11-16T19:20:05Z",
+      "hash": "8e6bb32cdc8f907de398f1973123a524",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404616314515howtochangeacc-bigfzxwsidwo"
+    },
     "1500011891542-How-to-Install-OptiSigns-as-an-APK-File-on-Android-Devices": {
       "id": 1500011891542,
       "title": "How to Install OptiSigns as an APK File on Android Devices",
@@ -2121,6 +2161,14 @@
       "hash": "ed7239bdd29068a5f61645eee65b2555",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14502378549907presentorshar-6cwq2i6r5svt"
     },
+    "4404608957075-How-to-Delete-Your-Account-from-OptiSigns": {
+      "id": 4404608957075,
+      "title": "How to Delete Your Account from OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
+      "updated_at": "2026-11-16T19:20:04Z",
+      "hash": "00ef473396b7517e07c541df9a133c62",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404608957075howtodeleteyou-1xdpgmlv7p0c"
+    },
     "360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks": {
       "id": 360016174554,
       "title": "How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks",
@@ -2184,6 +2232,14 @@
       "updated_at": "2026-10-28T21:12:21Z",
       "hash": "2829a0e985878fe9dd64af541598b4e2",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500009042742fireostvsamazo-q7kukua2sdab"
+    },
+    "1500003244381-About-the-OnHold-Devices-Folder": {
+      "id": 1500003244381,
+      "title": "About the OnHold Devices Folder",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
+      "updated_at": "2026-11-16T19:20:06Z",
+      "hash": "72d8d330a01fef1845de270262301627",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500003244381abouttheonhold-ktt7gtwiv8q6"
     },
     "360016981853-Creating-and-Using-Schedules-with-OptiSigns": {
       "id": 360016981853,
@@ -3089,69 +3145,21 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "4404616314515-How-to-Change-Account-Owners": {
-      "id": 4404616314515,
-      "title": "How to Change Account Owners",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
-      "updated_at": "2026-11-16T19:20:05Z",
-      "hash": "8e6bb32cdc8f907de398f1973123a524",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404616314515howtochangeacc-bigfzxwsidwo"
+    "57645638683411-The-New-Designer-Complete-Feature-Guide": {
+      "id": 57645638683411,
+      "title": "The New Designer: Complete Feature Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide",
+      "updated_at": "2026-11-17T17:52:09Z",
+      "hash": "cd1e6534e6f566b7392629b12fec50e2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/57645638683411thenewdesigne-m7lqtoe19op2"
     },
-    "23565267463315-Engage-Plan-FAQs": {
-      "id": 23565267463315,
-      "title": "Engage Plan - FAQs",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-      "updated_at": "2026-11-16T19:24:34Z",
-      "hash": "11936569d1bfd150e54274435bab789d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/23565267463315engageplanfaq-ddbisfarv4vu"
-    },
-    "17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription": {
-      "id": 17639078588691,
-      "title": "Cancel, Pause or Downgrade Your Subscription",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
-      "updated_at": "2026-11-16T22:41:11Z",
-      "hash": "6ce6404f8968ed45d1812d05938d0569",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17639078588691cancelpauseor-gty6pe6ha0dr"
-    },
-    "28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences": {
-      "id": 28115946505107,
-      "title": "How to Change Engage/Kiosk Style Preferences",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
-      "updated_at": "2026-11-16T19:20:08Z",
-      "hash": "07f0a038e9659686498467fb56dc842f",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/28115946505107howtochangeen-h09uft758y6o"
-    },
-    "360041587014-Billing-Details-Failed-Payments-Receipts": {
-      "id": 360041587014,
-      "title": "Billing Details, Failed Payments & Receipts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-      "updated_at": "2026-11-16T21:36:09Z",
-      "hash": "199961a4cfd7b38a8e443211d2a5972e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014billingdetailsf-hurv04nsrnb4"
-    },
-    "1500000493782-Billing-Changing-Plans-or-Screen-Counts": {
-      "id": 1500000493782,
-      "title": "Billing: Changing Plans or Screen Counts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
-      "updated_at": "2026-11-16T20:25:41Z",
-      "hash": "1a3badec234775dadd80c25c119efad0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billingchangin-6sfg72oqsuxi"
-    },
-    "1500003244381-About-the-OnHold-Devices-Folder": {
-      "id": 1500003244381,
-      "title": "About the OnHold Devices Folder",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-      "updated_at": "2026-11-16T19:20:06Z",
-      "hash": "72d8d330a01fef1845de270262301627",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500003244381abouttheonhold-ktt7gtwiv8q6"
-    },
-    "4404608957075-How-to-Delete-Your-Account-from-OptiSigns": {
-      "id": 4404608957075,
-      "title": "How to Delete Your Account from OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "updated_at": "2026-11-16T19:20:04Z",
-      "hash": "00ef473396b7517e07c541df9a133c62",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404608957075howtodeleteyou-1xdpgmlv7p0c"
+    "9169378546195-Data-Residency-and-OptiSigns": {
+      "id": 9169378546195,
+      "title": "Data Residency and OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+      "updated_at": "2026-11-17T16:37:00Z",
+      "hash": "9f2a9688117a10ea40cec3010d93d358",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-hmy1tzp4fvv4"
     }
   }
 }
