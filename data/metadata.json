@@ -1,13 +1,13 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
-    "56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector": {
-      "id": 56987330525587,
-      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
-      "updated_at": "2026-10-30T19:28:50Z",
-      "hash": "e4739dacde060501dfc90e81f734d86e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56987330525587connectchatgp-8rx740henkfv"
+    "57645638683411-The-New-Designer-Complete-Feature-Guide": {
+      "id": 57645638683411,
+      "title": "The New Designer: Complete Feature Guide",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide",
+      "updated_at": "2026-11-17T17:52:09Z",
+      "hash": "cd1e6534e6f566b7392629b12fec50e2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/57645638683411thenewdesigne-m7lqtoe19op2"
     },
     "56498391179667-How-to-Use-the-Eventbrite-Events-App": {
       "id": 56498391179667,
@@ -112,14 +112,6 @@
       "updated_at": "2026-09-23T16:24:51Z",
       "hash": "2c70e3da05c00dfb12b0e4833ad489c3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55416185869331broadcastsend-djv15j0bfgon"
-    },
-    "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing": {
-      "id": 54095075680275,
-      "title": "OptiDev Add-on - Free Trial and Pricing",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-      "updated_at": "2026-08-05T18:22:19Z",
-      "hash": "285fcd7b309c06a65f8cb128e7d88371",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/54095075680275optidevaddonf-oeja8zq55t6m"
     },
     "53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns": {
       "id": 53952018650515,
@@ -400,14 +392,6 @@
       "updated_at": "2025-09-04T16:54:34Z",
       "hash": "8a93eab4ad728fee08822812603a68ab",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35184720136595howtoinstalla-zev5ude6yz9j"
-    },
-    "34379983350163-Accepted-Payment-Methods": {
-      "id": 34379983350163,
-      "title": "Accepted Payment Methods",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
-      "updated_at": "2025-09-04T15:39:32Z",
-      "hash": "33e6241c28575bba374b71008eb40c5d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-uq7zriw1zmrq"
     },
     "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
       "id": 33940834613139,
@@ -921,6 +905,14 @@
       "hash": "32bec08ff34269f3dda816eba380aaf0",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/10159088954387howtoputlivet-qjn26ubw6ncg"
     },
+    "9169378546195-Data-Residency-and-OptiSigns": {
+      "id": 9169378546195,
+      "title": "Data Residency and OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+      "updated_at": "2026-11-17T16:37:00Z",
+      "hash": "9f2a9688117a10ea40cec3010d93d358",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-hmy1tzp4fvv4"
+    },
     "9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands": {
       "id": 9061950942995,
       "title": "Using RS232 to Schedule TV Power On/Off or other commands",
@@ -1249,14 +1241,6 @@
       "hash": "a833c2201414316dd7f198c388135754",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360059386254howtousetheyout-obej6k6gg19a"
     },
-    "1500000493782-Billing-Changing-Plans-or-Screen-Counts": {
-      "id": 1500000493782,
-      "title": "Billing: Changing Plans or Screen Counts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
-      "updated_at": "2026-11-16T20:25:41Z",
-      "hash": "1a3badec234775dadd80c25c119efad0",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billingchangin-6sfg72oqsuxi"
-    },
     "1500000485202-Custom-Branding-Settings-and-Branded-Portals": {
       "id": 1500000485202,
       "title": "Custom Branding Settings and Branded Portals",
@@ -1465,14 +1449,6 @@
       "hash": "9cd8f863e903decf1e139e00a69f9eb3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143333rokureleasenote-92rd30iacsa4"
     },
-    "360041587014-Billing-Details-Failed-Payments-Receipts": {
-      "id": 360041587014,
-      "title": "Billing Details, Failed Payments & Receipts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-      "updated_at": "2026-11-16T21:36:09Z",
-      "hash": "199961a4cfd7b38a8e443211d2a5972e",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014billingdetailsf-hurv04nsrnb4"
-    },
     "360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen": {
       "id": 360041570153,
       "title": "Screen Calibration: Fix Content Bleeding off the Screen",
@@ -1504,14 +1480,6 @@
       "updated_at": "2026-11-05T22:37:38Z",
       "hash": "23bac486114ee0ce4630937e4fbe01d4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360038992973videocodecorvid-tk21umx6alej"
-    },
-    "360037416494-How-to-Use-the-Jira-App": {
-      "id": 360037416494,
-      "title": "How to Use the Jira App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
-      "updated_at": "2026-10-13T21:50:54Z",
-      "hash": "9e193a0dcf468da6c9cf077fee6e7ff9",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-me9nzoyc5twn"
     },
     "360037391854-How-to-Display-Content-From-Websites-That-Require-a-Login": {
       "id": 360037391854,
@@ -2489,14 +2457,6 @@
       "hash": "a4aa77f021b61183e3d15653243cd738",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/6086986017299howtouseoptisi-mittv72zc5mi"
     },
-    "5149077938835-How-to-use-Advanced-Website-App": {
-      "id": 5149077938835,
-      "title": "How to use Advanced Website App",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App",
-      "updated_at": "2026-09-10T09:48:08Z",
-      "hash": "9fdaf74e13286d3ff98645ba0dcb8b35",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5149077938835howtouseadvanc-ju74ce93h7sb"
-    },
     "5119724468371-How-to-Use-the-Notion-App": {
       "id": 5119724468371,
       "title": "How to Use the Notion App",
@@ -2520,14 +2480,6 @@
       "updated_at": "2026-10-01T20:13:18Z",
       "hash": "464e52b47aa2dee7bfc6c487cd6ca469",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4417940565139howtodisplaymi-z4z48ck8fz1s"
-    },
-    "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns": {
-      "id": 4414539282067,
-      "title": "Displaying SharePoint Sites on OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "updated_at": "2026-10-01T16:01:20Z",
-      "hash": "ff62790e8c1a9ab10b96a7c4a5a1b7f5",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414539282067displayingshar-q36ethya45o1"
     },
     "4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns": {
       "id": 4414355658899,
@@ -3145,21 +3097,77 @@
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
     },
-    "57645638683411-The-New-Designer-Complete-Feature-Guide": {
-      "id": 57645638683411,
-      "title": "The New Designer: Complete Feature Guide",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide",
-      "updated_at": "2026-11-17T17:52:09Z",
-      "hash": "cd1e6534e6f566b7392629b12fec50e2",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/57645638683411thenewdesigne-m7lqtoe19op2"
+    "5149077938835-How-to-Use-the-Advanced-Website-App": {
+      "id": 5149077938835,
+      "title": "How to Use the Advanced Website App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-Use-the-Advanced-Website-App",
+      "updated_at": "2026-11-18T16:21:38Z",
+      "hash": "f69a8bfe7aa0f0897cc1eb5ddd29660b",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/5149077938835howtousetheadv-roa7s2myf9rv"
     },
-    "9169378546195-Data-Residency-and-OptiSigns": {
-      "id": 9169378546195,
-      "title": "Data Residency and OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "updated_at": "2026-11-17T16:37:00Z",
-      "hash": "9f2a9688117a10ea40cec3010d93d358",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/9169378546195dataresidencya-hmy1tzp4fvv4"
+    "4414539282067-Displaying-SharePoint-Sites-on-OptiSigns": {
+      "id": 4414539282067,
+      "title": "Displaying SharePoint Sites on OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
+      "updated_at": "2026-11-18T16:25:43Z",
+      "hash": "0f49f47c017bf1ec99a37518ae3e31a9",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4414539282067displayingshar-ysj7c3b9ev2j"
+    },
+    "56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector": {
+      "id": 56987330525587,
+      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+      "updated_at": "2026-11-18T16:34:19Z",
+      "hash": "4f9af852a1752fee0e4cbe86185b121c",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/56987330525587connectchatgp-ktb3erc84ifo"
+    },
+    "360041587014-Billing-Details-Failed-Payments-Receipts": {
+      "id": 360041587014,
+      "title": "Billing Details, Failed Payments & Receipts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+      "updated_at": "2026-11-18T22:06:47Z",
+      "hash": "f839b388994660170c5e96b98e54bd68",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014billingdetailsf-dktiwrdg60dv"
+    },
+    "34379983350163-Accepted-Payment-Methods-and-Currencies": {
+      "id": 34379983350163,
+      "title": "Accepted Payment Methods and Currencies",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
+      "updated_at": "2026-11-18T22:42:56Z",
+      "hash": "79d09a18a7168552a987281e0ed7df64",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-eycuupwpo4o3"
+    },
+    "1500000493782-Billing-Changing-Plans-or-Screen-Counts": {
+      "id": 1500000493782,
+      "title": "Billing: Changing Plans or Screen Counts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+      "updated_at": "2026-11-18T20:23:17Z",
+      "hash": "1a3badec234775dadd80c25c119efad0",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/1500000493782billingchangin-mi93ebhxdyzq"
+    },
+    "57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector": {
+      "id": 57688527779219,
+      "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector",
+      "updated_at": "2026-11-18T18:22:31Z",
+      "hash": "a3a322dc65c672a4a54b82003505dbb4",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/57688527779219aitoolsinopti-hndm310kx7ag"
+    },
+    "54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing": {
+      "id": 54095075680275,
+      "title": "OptiDev Add-on - Free Trial and Pricing",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
+      "updated_at": "2026-11-18T17:12:24Z",
+      "hash": "52dcface476f011f3087ffc333393813",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/54095075680275optidevaddonf-1pp8cfhs278l"
+    },
+    "360037416494-How-to-Use-the-Jira-App": {
+      "id": 360037416494,
+      "title": "How to Use the Jira App",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
+      "updated_at": "2026-11-18T16:23:19Z",
+      "hash": "ab344b4b706571b3046e63eb940bfad2",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360037416494howtousethejira-i2esdf2i3bmq"
     }
   }
 }
