@@ -1,6 +1,14 @@
 {
   "gemini_store_name": "fileSearchStores/optibot-store-harcuson90bd",
   "articles": {
+    "57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption": {
+      "id": 57730354923923,
+      "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption",
+      "updated_at": "2026-11-19T20:27:28Z",
+      "hash": "25007231b730916d7caf879aa65e5285",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/57730354923923billingpurcha-ex0vnghc9gfh"
+    },
     "57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector": {
       "id": 57688527779219,
       "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
@@ -64,6 +72,14 @@
       "updated_at": "2026-10-16T21:20:16Z",
       "hash": "2e33709b034170aec9fa584521bbfb9d",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55895814798739howtodisplays-sc260m5cwgp1"
+    },
+    "55719322614803-Inbound-Webhook-DataSources-in-Designer": {
+      "id": 55719322614803,
+      "title": "Inbound Webhook DataSources in Designer",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
+      "updated_at": "2026-11-19T22:38:32Z",
+      "hash": "f14951a74457bbc478fff3fb8529814a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55719322614803inboundwebhoo-fbo4bow06q3t"
     },
     "55709616003219-Using-the-X-Social-App-Add-On": {
       "id": 55709616003219,
@@ -369,6 +385,14 @@
       "hash": "469fa682e0ccba83e5be5639bd2a52c4",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/38062664690195tagginginopti-2fr3r6akco64"
     },
+    "37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial": {
+      "id": 37966066335891,
+      "title": "Getting Started with an OptiSigns Free Trial",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
+      "updated_at": "2026-11-19T20:21:58Z",
+      "hash": "1589aeafe0c678616fc679c52910383a",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/37966066335891gettingstarte-xl58rfij0hsm"
+    },
     "36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms": {
       "id": 36911639377683,
       "title": "How to Use OptiSigns with Microsoft Teams Rooms",
@@ -392,6 +416,22 @@
       "updated_at": "2025-09-04T16:54:34Z",
       "hash": "8a93eab4ad728fee08822812603a68ab",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35184720136595howtoinstalla-zev5ude6yz9j"
+    },
+    "34379983350163-Accepted-Payment-Methods-and-Currencies": {
+      "id": 34379983350163,
+      "title": "Accepted Payment Methods and Currencies",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
+      "updated_at": "2026-11-19T20:30:22Z",
+      "hash": "79d09a18a7168552a987281e0ed7df64",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-r9je30kfweu6"
+    },
+    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
+      "id": 33940834613139,
+      "title": "What Do I Get With an OptiSigns Free Plan?",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+      "updated_at": "2026-11-19T20:21:36Z",
+      "hash": "8ba54bd9e05e73a8ee97970f7d9d25ee",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-ius7lksxso6s"
     },
     "33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App": {
       "id": 33382537925267,
@@ -472,6 +512,14 @@
       "updated_at": "2026-09-10T09:51:20Z",
       "hash": "6ee85957028e031271e5c73f3d0978d3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29792081890323guideforcreat-3rsu6nclmzwb"
+    },
+    "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes": {
+      "id": 29465595849235,
+      "title": "List of Supported Cities for Weather Wall City Themes",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+      "updated_at": "2026-11-19T14:47:10Z",
+      "hash": "a3f88342ac42334e5520c720712d70da",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29465595849235listofsupport-fgsz8xqr4rl8"
     },
     "29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player": {
       "id": 29238381023123,
@@ -1441,6 +1489,14 @@
       "hash": "9cd8f863e903decf1e139e00a69f9eb3",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360042143333rokureleasenote-92rd30iacsa4"
     },
+    "360041587014-Billing-Details-Failed-Payments-Receipts": {
+      "id": 360041587014,
+      "title": "Billing Details, Failed Payments & Receipts",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+      "updated_at": "2026-11-19T20:34:07Z",
+      "hash": "f839b388994660170c5e96b98e54bd68",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014billingdetailsf-7yljsbvunnvg"
+    },
     "360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen": {
       "id": 360041570153,
       "title": "Screen Calibration: Fix Content Bleeding off the Screen",
@@ -1761,6 +1817,14 @@
       "hash": "7c1e1ce6282372e0025d6a9aa2bb4274",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/27676133574547ireceivedtheo-cz0esay8hej3"
     },
+    "17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription": {
+      "id": 17639078588691,
+      "title": "Cancel, Pause or Downgrade Your Subscription",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+      "updated_at": "2026-11-19T20:34:02Z",
+      "hash": "f3095470a522f303a802a7de3dc06ffa",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17639078588691cancelpauseor-mxcc4y5b54uy"
+    },
     "6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV": {
       "id": 6636047009427,
       "title": "How to install OptiSigns Player on Apple TV",
@@ -1840,6 +1904,14 @@
       "updated_at": "2026-09-10T12:22:46Z",
       "hash": "04f9f5dfe11d5e54c29f97823871807a",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33468569218067howtodisplayd-38tg7hg419bg"
+    },
+    "17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing": {
+      "id": 17129313173395,
+      "title": "Billing for Multiple Locations: Sub-Accounts and Team Billing",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing",
+      "updated_at": "2026-11-19T20:30:08Z",
+      "hash": "709a12487b38d9df6daf38ad15a422f1",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17129313173395billingformul-8s5y4qq25eo7"
     },
     "14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs": {
       "id": 14726570281875,
@@ -2025,6 +2097,14 @@
       "hash": "e52d6c759736cbfe35c57a2d8a43519b",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/35337746613139howtocreatecu-nsj62x6eophy"
     },
+    "34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays": {
+      "id": 34087061669523,
+      "title": "Amazon Signage Devices: Signage Sticks and Signage Displays",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays",
+      "updated_at": "2026-11-19T22:08:35Z",
+      "hash": "7552b9943172f8e31982631096fd9841",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-o9ds5hr6ktak"
+    },
     "14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing": {
       "id": 14502723487379,
       "title": "How to use AeriCast Add-on for Wireless Presentation and Video Conferencing",
@@ -2104,6 +2184,14 @@
       "updated_at": "2026-11-05T17:28:46Z",
       "hash": "ed7239bdd29068a5f61645eee65b2555",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/14502378549907presentorshar-6cwq2i6r5svt"
+    },
+    "4404608957075-How-to-Delete-Your-Account-from-OptiSigns": {
+      "id": 4404608957075,
+      "title": "How to Delete Your Account from OptiSigns",
+      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
+      "updated_at": "2026-11-19T20:11:27Z",
+      "hash": "17ebb566972c0450f2e99a8f24fc240d",
+      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404608957075howtodeleteyou-som0a0b9b3xk"
     },
     "360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks": {
       "id": 360016174554,
@@ -3080,94 +3168,6 @@
       "updated_at": "2026-09-10T09:39:57Z",
       "hash": "3b8087b2028734db9fdf1a7631f24c4e",
       "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360016382473howtousethewebs-rtpfi7kjac8f"
-    },
-    "17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing": {
-      "id": 17129313173395,
-      "title": "Billing for Multiple Locations: Sub-Accounts and Team Billing",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing",
-      "updated_at": "2026-11-19T20:30:08Z",
-      "hash": "709a12487b38d9df6daf38ad15a422f1",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17129313173395billingformul-8s5y4qq25eo7"
-    },
-    "33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan": {
-      "id": 33940834613139,
-      "title": "What Do I Get With an OptiSigns Free Plan?",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "updated_at": "2026-11-19T20:21:36Z",
-      "hash": "8ba54bd9e05e73a8ee97970f7d9d25ee",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/33940834613139whatdoigetwit-ius7lksxso6s"
-    },
-    "34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays": {
-      "id": 34087061669523,
-      "title": "Amazon Signage Devices: Signage Sticks and Signage Displays",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays",
-      "updated_at": "2026-11-19T22:08:35Z",
-      "hash": "7552b9943172f8e31982631096fd9841",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34087061669523amazonsignage-o9ds5hr6ktak"
-    },
-    "57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption": {
-      "id": 57730354923923,
-      "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption",
-      "updated_at": "2026-11-19T20:27:28Z",
-      "hash": "25007231b730916d7caf879aa65e5285",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/57730354923923billingpurcha-ex0vnghc9gfh"
-    },
-    "29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes": {
-      "id": 29465595849235,
-      "title": "List of Supported Cities for Weather Wall City Themes",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "updated_at": "2026-11-19T14:47:10Z",
-      "hash": "a3f88342ac42334e5520c720712d70da",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/29465595849235listofsupport-fgsz8xqr4rl8"
-    },
-    "55719322614803-Inbound-Webhook-DataSources-in-Designer": {
-      "id": 55719322614803,
-      "title": "Inbound Webhook DataSources in Designer",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
-      "updated_at": "2026-11-19T22:38:32Z",
-      "hash": "f14951a74457bbc478fff3fb8529814a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/55719322614803inboundwebhoo-fbo4bow06q3t"
-    },
-    "34379983350163-Accepted-Payment-Methods-and-Currencies": {
-      "id": 34379983350163,
-      "title": "Accepted Payment Methods and Currencies",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
-      "updated_at": "2026-11-19T20:30:22Z",
-      "hash": "79d09a18a7168552a987281e0ed7df64",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/34379983350163acceptedpayme-r9je30kfweu6"
-    },
-    "4404608957075-How-to-Delete-Your-Account-from-OptiSigns": {
-      "id": 4404608957075,
-      "title": "How to Delete Your Account from OptiSigns",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "updated_at": "2026-11-19T20:11:27Z",
-      "hash": "17ebb566972c0450f2e99a8f24fc240d",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/4404608957075howtodeleteyou-som0a0b9b3xk"
-    },
-    "37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial": {
-      "id": 37966066335891,
-      "title": "Getting Started with an OptiSigns Free Trial",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-      "updated_at": "2026-11-19T20:21:58Z",
-      "hash": "1589aeafe0c678616fc679c52910383a",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/37966066335891gettingstarte-xl58rfij0hsm"
-    },
-    "17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription": {
-      "id": 17639078588691,
-      "title": "Cancel, Pause or Downgrade Your Subscription",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
-      "updated_at": "2026-11-19T20:34:02Z",
-      "hash": "f3095470a522f303a802a7de3dc06ffa",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/17639078588691cancelpauseor-mxcc4y5b54uy"
-    },
-    "360041587014-Billing-Details-Failed-Payments-Receipts": {
-      "id": 360041587014,
-      "title": "Billing Details, Failed Payments & Receipts",
-      "html_url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
-      "updated_at": "2026-11-19T20:34:07Z",
-      "hash": "f839b388994660170c5e96b98e54bd68",
-      "document_name": "fileSearchStores/optibot-store-harcuson90bd/documents/360041587014billingdetailsf-7yljsbvunnvg"
     }
   }
 }
